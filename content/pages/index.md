@@ -28,6 +28,16 @@ sections:
         image_alt: Section item 1 icon
         image_position: top
         image_width: twenty-five
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - title: 2 Tracks
         title_align: left
         content: Two tracks conference for curious developers.
