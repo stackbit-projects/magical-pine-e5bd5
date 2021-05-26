@@ -26,7 +26,7 @@ sections:
         content_align: left
         image: images/2-days.svg
         image_alt: Section item 1 icon
-        image_position: left
+        image_position: top
         image_width: twenty-five
       - title: 2 Tracks
         title_align: left
