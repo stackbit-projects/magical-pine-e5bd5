@@ -71,7 +71,7 @@ sections:
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
-    enable_cards: false
+    enable_cards: true
     align: center
     background_color: secondary
   - type: features_section
