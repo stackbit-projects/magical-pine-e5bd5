@@ -9,7 +9,7 @@ sections:
       - label: Get Your Ticket Today!
         url: /about
         style: primary
-    align: center
+    align: left
     padding_top: large
     padding_bottom: large
     background_color: none
