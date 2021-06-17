@@ -92,7 +92,9 @@ sections:
     background_color: none
     background_image_opacity: 10
   - type: features_section
-    title: What you’ll experience
+    title: >-
+      Kíméld meg magad a kényelmetlen adminisztrációtól, és fókuszálj
+      vállalkozásodra.
     features:
       - content: >-
           Event is a responsive theme for online events, meetups, conferences
