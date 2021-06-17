@@ -370,7 +370,7 @@ sections:
           *   Kimutatások kezelése
         content_align: left
         actions:
-          - label: Registration
+          - label: Ingyenes próba
             url: /thank-you
             style: primary
         actions_align: left
