@@ -5,7 +5,7 @@ sections:
     title: Kezeld szálláshelyed adminisztrációját egyszerűen
     subtitle: >-
       Szálláshelykezelő szoftverünkkel automatizáltan, egy helyen kezelheted
-      szálláshelyed foglalásait és vendéged adatait az NTAK 
+      szálláshelyed foglalásait és vendéged adatait NTAK barát módon
     content: '**April 14 - 16, 2021**'
     actions:
       - label: Get Your Ticket Today!
