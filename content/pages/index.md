@@ -438,7 +438,7 @@ sections:
           Csakis a kötelezőeket. A saját megjegyzéseidet csupán te láthatod.
           Ezekről az adatokról itt tudsz bővebben informálódni.
         content_align: left
-      - title: lorem-ipsum
+      - title: Kapok segítséget az Appartman használatához?
         title_align: left
         content_align: left
         actions: []
