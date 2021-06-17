@@ -16,7 +16,7 @@
             {
                 "label": "Funkciók",
                 "url": "/funkciok",
-                "style": "secondary"
+                "style": "link"
             },
             {
                 "label": "Sponsorship",
