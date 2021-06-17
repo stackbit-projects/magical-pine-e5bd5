@@ -421,7 +421,7 @@ sections:
           szobaárak egy helyen legyenek és akár a vendég érkezése előtt
           rendelkezésre álljanak.
         content_align: left
-      - title: What about accommodation for attendees?
+      - title: Hogyan segíti az adminisztrációt az Appartman?
         title_align: left
         content: "Az adatbekérő modulunk gondoskodik arról, hogy az összes szükséges adat a rendszerbe kerüljön még a vendég érkezése előtt. Csoportos adatbevitelünk segíti a nagyobb iskolás csoportok, rendezvények résztvevőinek az adatbevitelét. Ezen felül a csapatunk azon dolgozik, hogy egy Channel manager és foglalómotor funkcióval is bővítse az Appartman szolgáltatását.\_\n\n"
         content_align: left
