@@ -317,7 +317,7 @@ sections:
     title: Áraink
     subtitle: Pass for the event
     grid_items:
-      - title: Base Camp Ticket
+      - title: Kis csomag
         subtitle: April 14
         title_align: left
         content: |+
