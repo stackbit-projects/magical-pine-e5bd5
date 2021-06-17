@@ -17,7 +17,7 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image: images/hero-background.jpg
-    background_image_opacity: 10
+    background_image_opacity: 30
     background_image_size: cover
     background_image_position: left center
   - type: grid_section
