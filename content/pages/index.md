@@ -318,7 +318,7 @@ sections:
     subtitle: Pass for the event
     grid_items:
       - title: Kis csomag
-        subtitle: April 14
+        subtitle: 1-5 szobáig
         title_align: left
         content: |+
           ***
