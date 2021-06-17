@@ -55,7 +55,7 @@ sections:
         image_alt: Section item 3 icon
         image_position: top
         image_width: twenty-five
-      - title: lorem-ipsum
+      - title: 'Kis '
         subtitle: lorem-ipsum
         title_align: left
         content: >-
