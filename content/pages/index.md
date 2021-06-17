@@ -37,7 +37,9 @@ sections:
         actions: []
       - title: Több felhasználó
         title_align: left
-        content: Two tracks conference for curious developers.
+        content: >
+          Munkatársaid is kezelhetik a szállás ügyeit, a megadott jogosultságok
+          alapján.
         content_align: left
         image: images/2-tracks.svg
         image_alt: Section item 2 icon
