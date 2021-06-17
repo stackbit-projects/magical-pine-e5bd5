@@ -431,7 +431,7 @@ sections:
           Az NTAK által hivatalosan bejegyzett szoftverünk biztonságosan
           szolgáltatja a szükséges adatokat.
         content_align: left
-      - title: What payment types do you accept?
+      - title: Milyen adatokat küldtök az NTAK-nak?
         title_align: left
         content: >
           Csakis a kötelezőeket. A saját megjegyzéseidet csupán te láthatod.
