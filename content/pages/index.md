@@ -17,7 +17,7 @@ sections:
     padding_bottom: none
     background_color: primary
     background_image: images/hero-background.jpg
-    background_image_opacity: 30
+    background_image_opacity: 0
     background_image_size: cover
     background_image_position: left center
     media_position: right
