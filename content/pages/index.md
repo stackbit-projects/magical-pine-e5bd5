@@ -357,6 +357,12 @@ sections:
 
           ### 20 000 Ft
 
+          *   Foglalások kezelése
+
+          <!---->
+
+          *   Vendégadatok kezelése
+
           *   Többféle naptárnézet
 
           *   Automatikus adatbekérő
