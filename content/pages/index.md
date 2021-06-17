@@ -409,7 +409,7 @@ sections:
     padding_bottom: large
     background_color: none
   - type: grid_section
-    title: Frequently Asked Questions
+    title: Gyakran Ismételt Kérdések
     subtitle: Our vision
     grid_items:
       - title: 'Miben jobb ez, mint a Vendégem alkalmazás?'
