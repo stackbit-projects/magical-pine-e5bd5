@@ -320,20 +320,28 @@ sections:
       - title: Kis csomag
         subtitle: 1-5 szobáig
         title_align: left
-        content: >
+        content: |
           ***
-
 
           ### ~~4000 Ft~~ 0 Ft\*
 
-
           \*2021 végéig.
 
+          *   Vendégadatok kezelése
 
-          *   *   Vendégadatok kezelése\*   NTAK és Viza adatszolgáltatás\*  
-          Többféle naptárnézet\*   Automatikus adatbekérő\*   Csoportos
-          adatbevitel\*   Kimutatások\*   Online vendégkönyv\*   Kimutatások
-          kezelése
+          *   NTAK és Viza adatszolgáltatás
+
+          *   Többféle naptárnézet
+
+          *   Automatikus adatbekérő
+
+          *   Csoportos adatbevitel
+
+          *   Kimutatások
+
+          *   Online vendégkönyv
+
+          *   Kimutatások kezelése
         content_align: left
         actions:
           - label: Registration
