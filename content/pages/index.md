@@ -109,7 +109,7 @@ sections:
     padding_top: none
     background_color: none
   - type: cta_section
-    title: Tapasztald meg az egyszerű szálláshely-adminisztrációt!
+    title: Egyszerű szálláshely-adminisztráció. 2021 végéig ingyenesen.*
     actions:
       - label: Ingyenes próba
         url: /thank-you
