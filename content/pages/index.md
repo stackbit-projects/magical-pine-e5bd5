@@ -352,16 +352,22 @@ sections:
       - title: Nagy csomag
         subtitle: 6-25 szobáig
         title_align: left
-        content: >
+        content: |
           ***
-
 
           ### 20 000 Ft
 
+          *   Többféle naptárnézet
 
-          *   *   Többféle naptárnézet*   Automatikus adatbekérő*   Csoportos
-          adatbevitel*   Kimutatások*   Online vendégkönyv*   Kimutatások
-          kezelése
+          *   Automatikus adatbekérő
+
+          *   Csoportos adatbevitel
+
+          *   Kimutatások
+
+          *   Online vendégkönyv
+
+          *   Kimutatások kezelése
         content_align: left
         actions:
           - label: Registration
