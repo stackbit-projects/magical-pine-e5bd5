@@ -425,7 +425,7 @@ sections:
         title_align: left
         content: "Az adatbekérő modulunk gondoskodik arról, hogy az összes szükséges adat a rendszerbe kerüljön még a vendég érkezése előtt. Csoportos adatbevitelünk segíti a nagyobb iskolás csoportok, rendezvények résztvevőinek az adatbevitelét. Ezen felül a csapatunk azon dolgozik, hogy egy Channel manager és foglalómotor funkcióval is bővítse az Appartman szolgáltatását.\_\n\n"
         content_align: left
-      - title: Can I get a refund on my tickets?
+      - title: 'Mit jelent az, hogy NTAK-barát?'
         title_align: left
         content: >
           Az NTAK által hivatalosan bejegyzett szoftverünk biztonságosan
