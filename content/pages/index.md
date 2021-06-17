@@ -43,7 +43,7 @@ sections:
         image_alt: Section item 2 icon
         image_position: top
         image_width: twenty-five
-      - title: 20+ Speakers
+      - title: Többféle naptár nézet
         title_align: left
         content: Best in the field speakers and instructors.
         content_align: left
