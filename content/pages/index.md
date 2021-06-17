@@ -95,10 +95,11 @@ sections:
         media_position: right
         media_width: sixty
       - title: Automatikus adatbekérő
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et.
+        content: >
+          Egy gombnyomásra kérheted be vendégeid adatait, hogy azzal már ne
+          kelljen az érkezéskor bajlódnod. Az Appartman rendszerébe pedig
+          automatikus bekerül, így a napi záráshoz szükséges információkat sem
+          kell beszerezned.
         image: images/feature-2.jpg
         image_alt: Feature 2 placeholder image
         media_position: left
