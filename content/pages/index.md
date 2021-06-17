@@ -111,7 +111,7 @@ sections:
   - type: cta_section
     title: Tapasztald meg az egyszerű szálláshely-adminisztrációt!
     actions:
-      - label: Get tickets
+      - label: Ingyenes próba
         url: /thank-you
         style: primary
         has_icon: true
