@@ -337,16 +337,17 @@ sections:
       - title: Nagy csomag
         subtitle: 6-25 szobáig
         title_align: left
-        content: |-
-          ---
-          ### $49
+        content: |
+          ***
+
+          ### 20 000 Ft
 
           Watch Only access to Summit & Base Camp Tracks
 
-          * Conference Stickers
-          * Technology discussion rooms
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
+          *   Conference Stickers
+          *   Technology discussion rooms
+          *   Elementum eu rhoncus, volutpat
+          *   Fringilla diam magnis libero lacinia
         content_align: left
         actions:
           - label: Registration
