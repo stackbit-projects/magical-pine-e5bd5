@@ -96,9 +96,11 @@ sections:
       Kíméld meg magad a kényelmetlen adminisztrációtól, és fókuszálj
       vállalkozásodra.
     features:
-      - content: >-
-          Event is a responsive theme for online events, meetups, conferences
-          and webinars from Stackbit.
+      - content: >
+          Az NTAK és VIZA adatszolgáltatás egy extra adminisztrációs teendő,
+          hiszen ugyanazt az adatot, több helyen is meg kell adni. Az Appartman
+          egyszerüsíti vendégadataid bevitelét és az összes szálláshelyed
+          kezelését.
         align: center
     feature_padding_vert: medium
     align: center
