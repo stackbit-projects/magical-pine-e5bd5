@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Kezeld szálláshelyed adminisztrációját egyszerűen
-    subtitle: Conference for Creative People
+    subtitle: Szálláshely
     content: '**April 14 - 16, 2021**'
     actions:
       - label: Get Your Ticket Today!
