@@ -427,11 +427,9 @@ sections:
         content_align: left
       - title: Can I get a refund on my tickets?
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          Az NTAK által hivatalosan bejegyzett szoftverünk biztonságosan
+          szolgáltatja a szükséges adatokat.
         content_align: left
       - title: What payment types do you accept?
         title_align: left
