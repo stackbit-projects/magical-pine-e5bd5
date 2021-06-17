@@ -9,7 +9,7 @@ sections:
     content: |
       **1 hónap ingyenes próbaidővel**
     actions:
-      - label: Get Your Ticket Today!
+      - label: Ingyenes próba
         url: /about
         style: primary
     align: left
