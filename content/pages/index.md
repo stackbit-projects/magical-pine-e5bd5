@@ -105,11 +105,10 @@ sections:
         media_position: left
         media_width: sixty
       - title: Technology Discussion Rooms for All Attendees
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          Állítsd be az automatikus napi lejelentést, vagy módosítsd akár
+          mobilodról. Add meg a vendégadatokat másodpercek alatt vagy tegyék meg
+          vendégeid az applikáción keresztül helyetted.
         image: images/feature-3.jpg
         image_alt: Feature 3 placeholder image
         media_position: right
