@@ -320,15 +320,13 @@ sections:
       - title: Base Camp Ticket
         subtitle: April 14
         title_align: left
-        content: |-
-          ---
-          ### Free
+        content: |+
+          ***
 
-          Watch only access for Base Camp track
+          ### Ingyenes\*
 
-          * Conference Stickers
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
+          \*2021 végéig.
+
         content_align: left
         actions:
           - label: Registration
