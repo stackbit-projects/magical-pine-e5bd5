@@ -412,7 +412,7 @@ sections:
     title: Frequently Asked Questions
     subtitle: Our vision
     grid_items:
-      - title: How can I get to the venue?
+      - title: 'Miben jobb ez, mint a Vendégem alkalmazás?'
         title_align: left
         content: >
           A Vendégem alkalmazás egy extra terhet ró a szállástulajokra azzal,
