@@ -355,27 +355,6 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Full Ticket
-        subtitle: April 14 - 16
-        title_align: left
-        content: |-
-          ---
-          ### $139
-
-          HD quality for Base camp and Summit tracks
-
-          * Interactive sessions with speakers
-          * Conference Stickers & more sent to your home
-          * Q&A with speakers
-          * Certificates on Workshops
-          * Technology discussion rooms
-        content_align: left
-        actions:
-          - label: Order Now
-            url: /thank-you
-            style: primary
-        actions_align: left
-        actions_width: full-width
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
