@@ -423,11 +423,7 @@ sections:
         content_align: left
       - title: What about accommodation for attendees?
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: "Az adatbekérő modulunk gondoskodik arról, hogy az összes szükséges adat a rendszerbe kerüljön még a vendég érkezése előtt. Csoportos adatbevitelünk segíti a nagyobb iskolás csoportok, rendezvények résztvevőinek az adatbevitelét. Ezen felül a csapatunk azon dolgozik, hogy egy Channel manager és foglalómotor funkcióval is bővítse az Appartman szolgáltatását.\_\n\n"
         content_align: left
       - title: Can I get a refund on my tickets?
         title_align: left
