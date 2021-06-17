@@ -439,7 +439,6 @@ sections:
           Ezekről az adatokról itt tudsz bővebben informálódni.
         content_align: left
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
