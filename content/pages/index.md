@@ -79,7 +79,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
     enable_cards: false
-    align: center
+    align: right
     background_color: none
     background_image_opacity: 10
   - type: features_section
