@@ -380,6 +380,12 @@ sections:
           *   Online vendégkönyv
 
           *   Kimutatások kezelése
+
+          #### Extrák
+
+          Foglalómotor – 5 000 Ft 
+
+          Channel manager – 15 000 Ft
         content_align: left
         actions:
           - label: Ingyenes próba
