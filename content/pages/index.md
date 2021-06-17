@@ -86,10 +86,10 @@ sections:
   - type: features_section
     features:
       - title: Foglalások kezelése átláthatóan
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Vehicula ut
-          ipsum sed sodales. Integer finibus scelerisque leo et semper.
+        content: >
+          Az Appartmannal egy helyen kezelheted az összes beérkező foglalásod.
+          Mobilon is elérhető többféle naptárnézetünkben pedig láthatod szabad
+          szobáidat, érkező-távozó vendégeidet.
         image: images/feature-1.jpg
         image_alt: Feature 1 placeholder image
         media_position: right
