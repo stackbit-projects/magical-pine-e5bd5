@@ -433,11 +433,9 @@ sections:
         content_align: left
       - title: What payment types do you accept?
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          Csakis a kötelezőeket. A saját megjegyzéseidet csupán te láthatod.
+          Ezekről az adatokról itt tudsz bővebben informálódni.
         content_align: left
     grid_cols: two
     grid_gap_horiz: medium
