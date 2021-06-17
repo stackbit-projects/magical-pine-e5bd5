@@ -104,7 +104,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
-      - title: Technology Discussion Rooms for All Attendees
+      - title: NTAK adatszolgáltatás biztonságosan
         content: >
           Állítsd be az automatikus napi lejelentést, vagy módosítsd akár
           mobilodról. Add meg a vendégadatokat másodpercek alatt vagy tegyék meg
