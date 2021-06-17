@@ -455,6 +455,10 @@ sections:
     background_color: primary
     background_image: images/cta-background.png
     background_image_opacity: 50
+    content: >
+      Csapatunk azon dolgozik, hogy a szoftver felhasználóbarát kialakítása
+      mellett segítse a szállásadók adminisztrációját az első lépésekben is.
+      Ügyfélszolgálatunk 24 órán belül válaszol bármilyen kérdésre.
   - type: grid_section
     grid_items:
       - title: Address
