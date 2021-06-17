@@ -410,7 +410,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Gyakran Ismételt Kérdések
-    subtitle: Our vision
+    subtitle: Fontos tudnivalók az Appartman szálláshely-kezelő szoftverről
     grid_items:
       - title: 'Miben jobb ez, mint a Vendégem alkalmazás?'
         title_align: left
