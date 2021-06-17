@@ -342,6 +342,12 @@ sections:
           *   Online vendégkönyv
 
           *   Kimutatások kezelése
+
+          #### Extrák
+
+          Foglalómotor – 3000 Ft
+
+          Channel manager – 8000 Ft
         content_align: left
         actions:
           - label: Ingyenes próba
