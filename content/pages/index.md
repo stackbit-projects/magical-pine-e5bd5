@@ -35,7 +35,7 @@ sections:
         image_position: top
         image_width: twenty-five
         actions: []
-      - title: 2 Tracks
+      - title: Több felhasználó
         title_align: left
         content: Two tracks conference for curious developers.
         content_align: left
