@@ -5,7 +5,7 @@ sections:
     title: Kezeld szálláshelyed adminisztrációját egyszerűen
     subtitle: >-
       Szálláshelykezelő szoftverünkkel automatizáltan, egy helyen kezelheted
-      szálláshelyed foglalásait és vendéged adatait NTAK barát módon
+      szálláshelyeid foglalásait és vendéged adatait NTAK barát módon
     content: |
       **1 hónap ingyenes próbaidővel**
     actions:
