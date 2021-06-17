@@ -55,7 +55,7 @@ sections:
         image_alt: Section item 3 icon
         image_position: top
         image_width: twenty-five
-      - title: 'Kis '
+      - title: Kis vendégházaktól a nagyobb panziókig
         subtitle: lorem-ipsum
         title_align: left
         content: >-
