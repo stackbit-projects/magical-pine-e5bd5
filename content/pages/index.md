@@ -325,7 +325,7 @@ sections:
 
           ### ~~4000 Ft~~ 0 Ft\*
 
-          \*2021 végéig.
+          ***\*2021 végéig.***
 
           *   Vendégadatok kezelése
 
