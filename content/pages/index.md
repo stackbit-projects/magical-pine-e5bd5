@@ -56,7 +56,6 @@ sections:
         image_position: top
         image_width: twenty-five
       - title: Kis vendégházaktól a nagyobb panziókig
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
