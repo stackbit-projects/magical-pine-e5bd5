@@ -335,7 +335,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Nagy csomag
-        subtitle: April 14 - 15
+        subtitle: 6-25 szobáig
         title_align: left
         content: |-
           ---
