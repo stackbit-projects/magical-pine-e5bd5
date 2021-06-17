@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Kezeld szálláshelyed adminisztrációját egyszerűen
-    subtitle: 'Szálláshelykezelő szoftverünkkel '
+    subtitle: 'Szálláshelykezelő szoftverünkkel automatizáltan, egy helyen '
     content: '**April 14 - 16, 2021**'
     actions:
       - label: Get Your Ticket Today!
