@@ -414,11 +414,12 @@ sections:
     grid_items:
       - title: How can I get to the venue?
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          A Vendégem alkalmazás egy extra terhet ró a szállástulajokra azzal,
+          hogy a meglévő adatokat több helyen kell naprakészen tartani. Az
+          Appartman pedig segít, hogy a foglalási adatok, vendégadatok,
+          szobaárak egy helyen legyenek és akár a vendég érkezése előtt
+          rendelkezésre álljanak.
         content_align: left
       - title: What about accommodation for attendees?
         title_align: left
