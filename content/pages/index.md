@@ -441,7 +441,7 @@ sections:
   - type: cta_section
     title: Automatizáld foglalásaid adminisztrációját!
     actions:
-      - label: Get tickets
+      - label: Ingyenes próba
         url: /thank-you
         style: primary
         has_icon: true
