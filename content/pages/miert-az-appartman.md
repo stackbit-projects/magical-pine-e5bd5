@@ -276,45 +276,6 @@ sections:
     padding_bottom: large
     background_color: secondary
   - type: grid_section
-    title: What People are Saying
-    subtitle: Previous event attendees
-    grid_items:
-      - content: >-
-          I've had a wonderful few days at Event Conf. So grateful to have been
-          a part of it.
-
-
-          **Hanson Deck,** *App Developer, Studio*
-        image: images/hanson-deck.jpg
-        image_alt: Hanson Deck
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Been super impressed with developer talks of the Event Conf. Great
-          conference realy enjoy it!
-
-
-          **Miles Tone,** *CEO, Studio*
-        image: images/miles-tone.jpg
-        image_alt: Miles Tone
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel.
-
-
-          **Eleanor Carr,** *CTO, Studio*
-        image: images/eleanor-carr.jpg
-        image_alt: Eleanor Carr
-        image_position: left
-        image_width: twenty-five
-    grid_cols: three
-    grid_gap_horiz: medium
-    grid_gap_vert: large
-    align: center
-    background_color: none
-  - type: grid_section
     title: Áraink
     subtitle: Pass for the event
     grid_items:
