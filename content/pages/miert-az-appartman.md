@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: Kezeld szálláshelyed adminisztrációját egyszerűen
     subtitle: >-
-      Szálláshelykezelő szoftverünkkel automatizáltan, egy helyen kezelheted
-      szálláshelyeid foglalásait és vendéged adatait NTAK barát módon
+      Az NTAK adatszolgáltatás egy extra adminisztrációs teendő, hiszen ugyanazt
+      az adatot kell megadni több helyen. Az Appartman segít kötelezettségeid
+      automatizálásában.
     content: |
       **1 hónap ingyenes próbaidővel**
     actions:
