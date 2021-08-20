@@ -78,40 +78,6 @@ sections:
     align: center
     background_color: none
     background_image_opacity: 10
-  - type: features_section
-    features:
-      - title: Foglalások kezelése átláthatóan
-        content: >
-          Az Appartmannal egy helyen kezelheted az összes beérkező foglalásod.
-          Mobilon is elérhető többféle naptárnézetünkben pedig láthatod szabad
-          szobáidat, érkező-távozó vendégeidet.
-        image: images/feature-1.jpg
-        image_alt: Feature 1 placeholder image
-        media_position: right
-        media_width: sixty
-      - title: Automatikus adatbekérő
-        content: >
-          Egy gombnyomásra kérheted be vendégeid adatait, hogy azzal már ne
-          kelljen az érkezéskor bajlódnod. Az Appartman rendszerébe pedig
-          automatikus bekerül, így a napi záráshoz szükséges információkat sem
-          kell beszerezned.
-        image: images/feature-2.jpg
-        image_alt: Feature 2 placeholder image
-        media_position: left
-        media_width: sixty
-      - title: NTAK adatszolgáltatás biztonságosan
-        content: >
-          Állítsd be az automatikus napi lejelentést, vagy módosítsd akár
-          mobilodról. Add meg a vendégadatokat másodpercek alatt vagy tegyék meg
-          vendégeid az applikáción keresztül helyetted.
-        image: images/feature-3.jpg
-        image_alt: Feature 3 placeholder image
-        media_position: right
-        media_width: sixty
-    feature_padding_vert: large
-    align: center
-    padding_top: none
-    background_color: none
   - type: cta_section
     title: Egyszerű szálláshely-adminisztráció. 2021 végéig ingyenesen.*
     actions:
