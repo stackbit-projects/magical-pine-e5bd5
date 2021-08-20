@@ -78,23 +78,6 @@ sections:
     align: center
     background_color: none
     background_image_opacity: 10
-  - type: cta_section
-    title: Egyszerű szálláshely-adminisztráció. 2021 végéig ingyenesen.*
-    actions:
-      - label: Ingyenes próba
-        url: /thank-you
-        style: primary
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    background_image: images/cta-background.png
-    background_image_opacity: 50
   - type: grid_section
     title: Áraink
     subtitle: Pass for the event
