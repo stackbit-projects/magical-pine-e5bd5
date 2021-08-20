@@ -1,0 +1,557 @@
+---
+title: Home
+sections:
+  - type: hero_section
+    title: Kezeld szálláshelyed adminisztrációját egyszerűen
+    subtitle: >-
+      Szálláshelykezelő szoftverünkkel automatizáltan, egy helyen kezelheted
+      szálláshelyeid foglalásait és vendéged adatait NTAK barát módon
+    content: |
+      **1 hónap ingyenes próbaidővel**
+    actions:
+      - label: Ingyenes próba
+        url: /about
+        style: primary
+    align: left
+    padding_top: large
+    padding_bottom: small
+    background_color: primary
+    background_image: images/hero-background.jpg
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: left center
+    media_position: right
+    image: /images/Group 10.png
+  - type: grid_section
+    grid_items:
+      - title: Foglalás nélküli időszakokra ingyenes
+        title_align: left
+        content: |
+          Nem kell aggódnod, hogy szezonon kívül hogy termeled ki az árat.
+        content_align: left
+        image: images/2-days.svg
+        image_alt: Section item 1 icon
+        image_position: top
+        image_width: twenty-five
+        actions: []
+      - title: Több felhasználó
+        title_align: left
+        content: >
+          Munkatársaid is kezelhetik a szállás ügyeit, a megadott jogosultságok
+          alapján.
+        content_align: left
+        image: images/2-tracks.svg
+        image_alt: Section item 2 icon
+        image_position: top
+        image_width: twenty-five
+      - title: Többféle naptár nézet
+        title_align: left
+        content: >
+          Heti és havi nézeteinkkel különböző részletességgel tekintheted át a
+          foglalásaidat.
+        content_align: left
+        image: images/20-speakers.svg
+        image_alt: Section item 3 icon
+        image_position: top
+        image_width: twenty-five
+      - title: Kis vendégházaktól a nagyobb panziókig
+        title_align: left
+        content: >
+          Szoftverünk könnyen alkalmazható kis apartamanok és akár több épületes
+          panziók esetén is.
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: /images/2-days.svg
+    grid_cols: two
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
+    enable_cards: false
+    align: center
+    background_color: none
+    background_image_opacity: 10
+  - type: features_section
+    title: >-
+      Kíméld meg magad a kényelmetlen adminisztrációtól, és fókuszálj
+      vállalkozásodra.
+    features:
+      - content: >
+          Az NTAK és VIZA adatszolgáltatás egy extra adminisztrációs teendő,
+          hiszen ugyanazt az adatot, több helyen is meg kell adni. Az Appartman
+          egyszerüsíti vendégadataid bevitelét és az összes szálláshelyed
+          kezelését.
+        align: center
+    feature_padding_vert: medium
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    background_color: none
+  - type: features_section
+    features:
+      - title: Foglalások kezelése átláthatóan
+        content: >
+          Az Appartmannal egy helyen kezelheted az összes beérkező foglalásod.
+          Mobilon is elérhető többféle naptárnézetünkben pedig láthatod szabad
+          szobáidat, érkező-távozó vendégeidet.
+        image: images/feature-1.jpg
+        image_alt: Feature 1 placeholder image
+        media_position: right
+        media_width: sixty
+      - title: Automatikus adatbekérő
+        content: >
+          Egy gombnyomásra kérheted be vendégeid adatait, hogy azzal már ne
+          kelljen az érkezéskor bajlódnod. Az Appartman rendszerébe pedig
+          automatikus bekerül, így a napi záráshoz szükséges információkat sem
+          kell beszerezned.
+        image: images/feature-2.jpg
+        image_alt: Feature 2 placeholder image
+        media_position: left
+        media_width: sixty
+      - title: NTAK adatszolgáltatás biztonságosan
+        content: >
+          Állítsd be az automatikus napi lejelentést, vagy módosítsd akár
+          mobilodról. Add meg a vendégadatokat másodpercek alatt vagy tegyék meg
+          vendégeid az applikáción keresztül helyetted.
+        image: images/feature-3.jpg
+        image_alt: Feature 3 placeholder image
+        media_position: right
+        media_width: sixty
+    feature_padding_vert: large
+    align: center
+    padding_top: none
+    background_color: none
+  - type: cta_section
+    title: Egyszerű szálláshely-adminisztráció. 2021 végéig ingyenesen.*
+    actions:
+      - label: Ingyenes próba
+        url: /thank-you
+        style: primary
+        has_icon: true
+        icon: arrow-right
+        icon_position: right
+    actions_position: right
+    actions_width: fourty
+    align: left
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
+    background_image: images/cta-background.png
+    background_image_opacity: 50
+  - type: grid_section
+    title: Speakers & Instructors
+    subtitle: Fantastic lineup of experts!
+    grid_items:
+      - title: Eric Widget
+        subtitle: 'React Awesome, USA'
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
+
+
+          **[Twitter](https://twitter.com/)**
+        image: images/avatar_1.jpg
+        image_alt: Speaker 1 photo
+        image_position: top
+      - title: Parsley Montana
+        subtitle: 'The Studio, Distributed, Estonia'
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
+
+
+          **[Twitter](https://twitter.com/)**
+        image: images/avatar_2.jpg
+        image_alt: Speaker 2 photo
+        image_position: top
+      - title: Indigo Violet
+        subtitle: 'Microsoft, USA'
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
+
+
+          **[Twitter](https://twitter.com/)**
+        image: images/avatar_3.jpg
+        image_alt: Speaker 3 photo
+        image_position: top
+      - title: Penny Tool
+        subtitle: 'Libris, USA'
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
+
+
+          **[Twitter](https://twitter.com/)**
+        image: images/avatar_4.jpg
+        image_alt: Speaker 4 photo
+        image_position: top
+      - title: Shequondolisa Bivouac
+        subtitle: 'Exto, Canada'
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
+
+
+          **[Twitter](https://twitter.com/)**
+        image: images/avatar_5.jpg
+        image_alt: Speaker 5 photo
+        image_position: top
+      - title: Linguina Nettlewater
+        subtitle: 'CSS Rocks, Sweden'
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
+
+
+          **[Twitter](https://twitter.com/)**
+        image: images/avatar_6.jpg
+        image_alt: Speaker 6 photo
+        image_position: top
+      - title: Hugh Millie-Yate
+        subtitle: 'Random CMS, Sweden'
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
+
+
+          **[Twitter](https://twitter.com/)**
+        image: images/avatar_7.jpg
+        image_alt: Speaker 7 photo
+        image_position: top
+      - title: Theodore Handle
+        subtitle: 'ReactEvent, Israel'
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
+
+
+          **[Twitter](https://twitter.com/)**
+        image: images/avatar_8.jpg
+        image_alt: Speaker 8 photo
+        image_position: top
+    grid_cols: four
+    grid_gap_horiz: medium
+    grid_gap_vert: large
+    align: center
+    background_color: none
+  - type: features_section
+    title: Watch Favorite Talks From Past Events
+    subtitle: '2020'
+    features:
+      - title: Fast tracks Iconic Nike campaign with the JAMstack
+        content: >-
+          Inspired by Colin Kaepernick, Nike created the Emmy-winning ‘Dream
+          Crazy’ campaign and approached digital agency Matter Supply to launch
+          it on the web within a month.
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/2rA_ucpQ_Fk" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+          gyroscope; picture-in-picture" allowfullscreen></iframe>
+        media_position: right
+        media_width: sixty
+      - title: 'Um, its about your JavaScript...'
+        content: >-
+          JAMstack is revolutionising the way we think about workflow by
+          providing a simpler developer experience, better performance, lower
+          cost and greater scalability. From JAMstack WTF
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/31WieWrYPqc" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+          gyroscope; picture-in-picture" allowfullscreen></iframe>
+        media_position: left
+        media_width: sixty
+    feature_padding_vert: large
+    align: center
+    padding_top: large
+    padding_bottom: large
+    background_color: secondary
+  - type: grid_section
+    title: What People are Saying
+    subtitle: Previous event attendees
+    grid_items:
+      - content: >-
+          I've had a wonderful few days at Event Conf. So grateful to have been
+          a part of it.
+
+
+          **Hanson Deck,** *App Developer, Studio*
+        image: images/hanson-deck.jpg
+        image_alt: Hanson Deck
+        image_position: left
+        image_width: twenty-five
+      - content: >-
+          Been super impressed with developer talks of the Event Conf. Great
+          conference realy enjoy it!
+
+
+          **Miles Tone,** *CEO, Studio*
+        image: images/miles-tone.jpg
+        image_alt: Miles Tone
+        image_position: left
+        image_width: twenty-five
+      - content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel.
+
+
+          **Eleanor Carr,** *CTO, Studio*
+        image: images/eleanor-carr.jpg
+        image_alt: Eleanor Carr
+        image_position: left
+        image_width: twenty-five
+    grid_cols: three
+    grid_gap_horiz: medium
+    grid_gap_vert: large
+    align: center
+    background_color: none
+  - type: grid_section
+    title: Áraink
+    subtitle: Pass for the event
+    grid_items:
+      - title: Kis csomag
+        subtitle: 1-5 szobáig
+        title_align: left
+        content: |
+          ***
+
+          ### ~~4000 Ft~~ 0 Ft\*
+
+          ***\*2021 végéig.***
+
+          *   Vendégadatok kezelése
+
+          *   NTAK és Viza adatszolgáltatás
+
+          *   Többféle naptárnézet
+
+          *   Automatikus adatbekérő
+
+          *   Csoportos adatbevitel
+
+          *   Kimutatások
+
+          *   Online vendégkönyv
+
+          *   Kimutatások kezelése
+
+          #### Extrák
+
+          Foglalómotor – 3000 Ft
+
+          Channel manager – 8000 Ft
+        content_align: left
+        actions:
+          - label: Ingyenes próba
+            url: /thank-you
+            style: primary
+        actions_align: left
+        actions_width: full-width
+      - title: Nagy csomag
+        subtitle: 6-25 szobáig
+        title_align: left
+        content: |
+          ***
+
+          ### 20 000 Ft
+
+          *   Foglalások kezelése
+
+          <!---->
+
+          *   Vendégadatok kezelése
+
+          *   Többféle naptárnézet
+
+          *   Automatikus adatbekérő
+
+          *   Csoportos adatbevitel
+
+          *   Kimutatások
+
+          *   Online vendégkönyv
+
+          *   Kimutatások kezelése
+
+          #### Extrák
+
+          Foglalómotor – 5 000 Ft 
+
+          Channel manager – 15 000 Ft
+        content_align: left
+        actions:
+          - label: Ingyenes próba
+            url: /thank-you
+            style: primary
+        actions_align: left
+        actions_width: full-width
+    grid_cols: two
+    grid_gap_horiz: small
+    grid_gap_vert: small
+    enable_cards: true
+    padding_top: small
+    padding_bottom: medium
+    background_color: primary
+    background_image: images/pricing-background.jpg
+    background_image_opacity: 10
+  - type: grid_section
+    title: Our Sponsors
+    subtitle: We Are Supported by Awesome Companies
+    align: center
+    grid_items:
+      - image: images/stackbit.svg
+        image_alt: Stackbit logo
+        image_align: center
+      - image: images/netlify.svg
+        image_alt: Netlify logo
+        image_align: center
+      - image: images/github.svg
+        image_alt: GitHub logo
+        image_align: center
+      - image: images/sticker-mule.svg
+        image_alt: Sticker Mule logo
+        image_align: center
+    grid_cols: four
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
+    padding_top: large
+    padding_bottom: large
+    background_color: none
+  - type: grid_section
+    title: Gyakran Ismételt Kérdések
+    subtitle: Fontos tudnivalók az Appartman szálláshely-kezelő szoftverről
+    grid_items:
+      - title: 'Miben jobb ez, mint a Vendégem alkalmazás?'
+        title_align: left
+        content: >
+          A Vendégem alkalmazás egy extra terhet ró a szállástulajokra azzal,
+          hogy a meglévő adatokat több helyen kell naprakészen tartani. Az
+          Appartman pedig segít, hogy a foglalási adatok, vendégadatok,
+          szobaárak egy helyen legyenek és akár a vendég érkezése előtt
+          rendelkezésre álljanak.
+        content_align: left
+      - title: Hogyan segíti az adminisztrációt az Appartman?
+        title_align: left
+        content: "Az adatbekérő modulunk gondoskodik arról, hogy az összes szükséges adat a rendszerbe kerüljön még a vendég érkezése előtt. Csoportos adatbevitelünk segíti a nagyobb iskolás csoportok, rendezvények résztvevőinek az adatbevitelét. Továbbá egy channel manager és foglalómotor funkción is dolgozunk.\_\n"
+        content_align: left
+      - title: 'Mit jelent az, hogy NTAK-barát?'
+        title_align: left
+        content: >
+          Az NTAK által hivatalosan bejegyzett szoftverünk biztonságosan
+          szolgáltatja a szükséges adatokat.
+        content_align: left
+      - title: Milyen adatokat küldtök az NTAK-nak?
+        title_align: left
+        content: >
+          Csakis a kötelezőeket. A saját megjegyzéseidet csupán te láthatod.
+          Ezekről az adatokról itt tudsz bővebben informálódni.
+        content_align: left
+      - title: Kapok segítséget az Appartman használatához?
+        title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        content: >
+          Természetesen. Ügyfélszolgálatunk azon dolgozik, hogy segítse az
+          Appartman könnyű kezelhetőségét és szükség esetén segítsen a
+          használatában.
+    grid_cols: two
+    grid_gap_horiz: medium
+    grid_gap_vert: small
+    enable_cards: false
+    align: center
+    padding_top: large
+    padding_bottom: large
+    background_color: secondary
+    background_image: images/faq-background.svg
+    background_image_repeat: repeat
+    background_image_size: auto
+    background_image_opacity: 15
+  - type: cta_section
+    title: Automatizáld foglalásaid adminisztrációját!
+    actions:
+      - label: Ingyenes próba
+        url: /thank-you
+        style: primary
+        has_icon: true
+        icon: arrow-right
+        icon_position: right
+    actions_position: right
+    actions_width: fourty
+    align: left
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
+    background_image: images/cta-background.png
+    background_image_opacity: 50
+    content: >
+      Csapatunk azon dolgozik, hogy a szoftver felhasználóbarát kialakítása
+      mellett segítse a szállásadók adminisztrációját az első lépésekben is.
+      Ügyfélszolgálatunk 24 órán belül válaszol bármilyen kérdésre.
+  - type: grid_section
+    grid_items:
+      - title: Address
+        content: |-
+          1234 Some St.<br/>
+          Some City, ST 12345<br/>
+          [1-234-556-7890](tel:+12345567890)<br/>
+          [email@example.com](mailto:email@example.com)<br/>
+
+          **Time:** 9:30 AM to 3:30 PM
+      - title: Follow Us
+        content: |-
+          [Youtube](https://www.youtube.com/)<br/>
+          [Medium](https://medium.com/)<br/>
+          [Facebook](https://www.facebook.com/)<br/>
+          [Twitter](https://twitter.com/home)<br/>
+    grid_cols: two
+    grid_gap_horiz: medium
+    grid_gap_vert: large
+    enable_cards: false
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    background_color: none
+seo:
+  title: Stackbit Event Theme
+  description: The preview of the Event theme
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
+    - name: 'og:title'
+      value: Stackbit Event Theme
+      keyName: property
+    - name: 'og:description'
+      value: The preview of the Event theme
+      keyName: property
+    - name: 'og:image'
+      value: images/feature-3.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+    - name: 'twitter:title'
+      value: Stackbit Event Theme
+    - name: 'twitter:description'
+      value: The preview of the Event theme
+    - name: 'twitter:image'
+      value: images/feature-3.jpg
+      relativeUrl: true
+layout: advanced
+---
