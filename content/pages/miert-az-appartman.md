@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Kezeld szálláshelyed adminisztrációját egyszerűen
+    title: 'Minden, ami a Vendégem és még több'
     subtitle: >-
       Az NTAK adatszolgáltatás egy extra adminisztrációs teendő, hiszen ugyanazt
       az adatot kell megadni több helyen. Az Appartman segít kötelezettségeid
