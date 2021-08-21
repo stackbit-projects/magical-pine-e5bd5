@@ -44,9 +44,6 @@ sections:
         image_width: twenty-five
       - title: Segítőkész ügyfélszolgálat
         title_align: left
-        content: >
-          Szoftverünk könnyen alkalmazható kis apartamanok és akár több épületes
-          panziók esetén is.
         content_align: left
         actions: []
         actions_align: left
