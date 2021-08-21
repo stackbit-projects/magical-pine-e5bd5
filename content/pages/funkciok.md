@@ -23,7 +23,7 @@ sections:
     media_position: right
   - type: grid_section
     grid_items:
-      - title: Foglalás nélküli időszakokra ingyenes
+      - title: SSL titkosítás
         title_align: left
         content_align: left
         image: images/2-days.svg
