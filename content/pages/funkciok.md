@@ -36,7 +36,7 @@ sections:
         image_alt: Section item 2 icon
         image_position: top
         image_width: twenty-five
-      - title: Többféle naptár nézet
+      - title: GDPR megfelelőség
         title_align: left
         content: >
           Heti és havi nézeteinkkel különböző részletességgel tekintheted át a
