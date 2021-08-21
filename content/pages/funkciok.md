@@ -138,7 +138,7 @@ sections:
       - input_type: email
         name: E-mail
         label: E-mail cím
-        default_value: lorem-ipsum
+        default_value: Add meg az e-mail címed
         options: []
         is_required: false
         type: form_field
