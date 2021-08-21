@@ -38,9 +38,6 @@ sections:
         image_width: twenty-five
       - title: GDPR megfelelőség
         title_align: left
-        content: >
-          Heti és havi nézeteinkkel különböző részletességgel tekintheted át a
-          foglalásaidat.
         content_align: left
         image: images/20-speakers.svg
         image_alt: Section item 3 icon
