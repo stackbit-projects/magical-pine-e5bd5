@@ -33,7 +33,6 @@ sections:
       - title: NTAK garancia
         title_align: left
         content_align: left
-        image: images/2-tracks.svg
         image_alt: Section item 2 icon
         image_position: top
         image_width: twenty-five
