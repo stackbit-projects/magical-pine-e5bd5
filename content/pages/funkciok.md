@@ -118,17 +118,8 @@ sections:
       Ügyfélszolgálatunk 24 órán belül válaszol bármilyen kérdésre.
   - section_id: lorem-ipsum
     title_align: left
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      ## Érdeklődjön a részletekről szakértőinktől!
     content_align: left
     form_position: right
     form_width: fifty
