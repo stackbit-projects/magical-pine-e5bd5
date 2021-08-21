@@ -42,7 +42,7 @@ sections:
         image_alt: Section item 3 icon
         image_position: top
         image_width: twenty-five
-      - title: Kis vendégházaktól a nagyobb panziókig
+      - title: Segít
         title_align: left
         content: >
           Szoftverünk könnyen alkalmazható kis apartamanok és akár több épületes
