@@ -32,9 +32,6 @@ sections:
         actions: []
       - title: NTAK garancia
         title_align: left
-        content: >
-          Munkatársaid is kezelhetik a szállás ügyeit, a megadott jogosultságok
-          alapján.
         content_align: left
         image: images/2-tracks.svg
         image_alt: Section item 2 icon
