@@ -76,7 +76,8 @@
                 "type": "action"
             }
         ],
-        "content": "&copy; 2021 Appartman. Minden jog fenntartva! "
+        "content": "&copy; 2021 Appartman. Minden jog fenntartva! ",
+        "secondary_nav_title": "Kövess minket"
     },
     "announcement": {
         "has_anncmnt": false,
