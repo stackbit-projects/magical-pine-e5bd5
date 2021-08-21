@@ -111,7 +111,7 @@ sections:
     padding_bottom: large
     background_color: none
     background_image: /images/profilkép (1).png
-    background_image_opacity: 50
+    background_image_opacity: 0
     content: >
       Csapatunk azon dolgozik, hogy a szoftver felhasználóbarát kialakítása
       mellett segítse a szállásadók adminisztrációját az első lépésekben is.
