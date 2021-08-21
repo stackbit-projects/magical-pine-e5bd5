@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Automatizáld szálláshelyed adminisztratív teendőit.
+    title: Automatizáld szálláshelyed adminisztratív teendőit
     subtitle: >-
       Szálláshelykezelő szoftverünkkel automatizáltan, egy helyen kezelheted
       szálláshelyeid foglalásait és vendéged adatait NTAK barát módon
