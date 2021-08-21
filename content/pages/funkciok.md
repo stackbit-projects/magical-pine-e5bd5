@@ -137,7 +137,7 @@ sections:
         type: form_field
       - input_type: email
         name: E-mail
-        label: lorem-ipsum
+        label: Add meg az e-mail címed
         default_value: lorem-ipsum
         options: []
         is_required: false
