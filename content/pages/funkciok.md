@@ -146,7 +146,8 @@ sections:
         name: lorem-ipsum
         label: Üzenet
         default_value: Írd le az üzeneted
-        options: []
+        options:
+          - lorem-ipsum
         is_required: true
         type: form_field
     submit_label: lorem-ipsum
