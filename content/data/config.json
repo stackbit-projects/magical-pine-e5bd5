@@ -36,6 +36,17 @@
         "has_social": true,
         "social_links": [
             {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": true,
+                "icon": "facebook",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Twitter",
                 "url": "https://twitter.com/",
                 "style": "link",
@@ -52,17 +63,6 @@
                 "icon": "youtube",
                 "icon_position": "center",
                 "new_window": true
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "has_icon": true,
-                "icon": "facebook",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "content": "&copy; 2021 Appartman. Minden jog fenntartva! "
