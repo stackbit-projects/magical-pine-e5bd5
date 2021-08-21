@@ -39,7 +39,6 @@ sections:
       - title: GDPR megfelelőség
         title_align: left
         content_align: left
-        image: images/20-speakers.svg
         image_alt: Section item 3 icon
         image_position: top
         image_width: twenty-five
