@@ -26,7 +26,6 @@ sections:
       - title: SSL titkosítás
         title_align: left
         content_align: left
-        image: images/2-days.svg
         image_alt: Section item 1 icon
         image_position: top
         image_width: twenty-five
