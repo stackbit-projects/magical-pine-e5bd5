@@ -30,7 +30,7 @@ sections:
         image_position: top
         image_width: twenty-five
         actions: []
-      - title: Több felhasználó
+      - title: NTAK garancia
         title_align: left
         content: >
           Munkatársaid is kezelhetik a szállás ügyeit, a megadott jogosultságok
