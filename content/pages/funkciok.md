@@ -25,8 +25,6 @@ sections:
     grid_items:
       - title: Foglalás nélküli időszakokra ingyenes
         title_align: left
-        content: |
-          Nem kell aggódnod, hogy szezonon kívül hogy termeled ki az árat.
         content_align: left
         image: images/2-days.svg
         image_alt: Section item 1 icon
