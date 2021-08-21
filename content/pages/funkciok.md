@@ -131,7 +131,7 @@ sections:
       - input_type: text
         name: Név
         label: Név
-        default_value: lorem-ipsum
+        default_value: Írd be a neved
         options: []
         is_required: false
         type: form_field
