@@ -120,7 +120,7 @@ sections:
     title_align: left
     content: |
       ## Érdeklődjön a részletekről szakértőinktől!
-    content_align: left
+    content_align: center
     form_position: right
     form_width: fifty
     form_layout: stacked
