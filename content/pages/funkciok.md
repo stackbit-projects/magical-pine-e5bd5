@@ -144,7 +144,7 @@ sections:
         type: form_field
       - input_type: textarea
         name: lorem-ipsum
-        label: lorem-ipsum
+        label: Üzenet
         default_value: lorem-ipsum
         options: []
         is_required: false
