@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Automatizáld szálláshelyed adminisztratív teendőit
     subtitle: >-
-      Szálláshelykezelő szoftverünkkel automatizáltan, egy helyen kezelheted
-      szálláshelyeid foglalásait és vendéged adatait NTAK barát módon
+      Szálláshelykezelő szoftverünkkel felhasználóbarát módon, egyszerűen
+      viheted fel szobafoglalásaid, vendégadataid.
     content: |
       **1 hónap ingyenes próbaidővel**
     actions:
