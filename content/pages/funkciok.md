@@ -145,7 +145,7 @@ sections:
       - input_type: textarea
         name: lorem-ipsum
         label: Üzenet
-        default_value: lorem-ipsum
+        default_value: Írd le az üzeneted
         options: []
         is_required: false
         type: form_field
