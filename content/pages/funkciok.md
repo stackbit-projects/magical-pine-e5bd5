@@ -140,7 +140,7 @@ sections:
         label: E-mail cím
         default_value: Add meg az e-mail címed
         options: []
-        is_required: false
+        is_required: true
         type: form_field
       - input_type: text
         name: lorem-ipsum
