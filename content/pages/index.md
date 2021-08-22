@@ -100,7 +100,7 @@ sections:
           Az Appartmannal egy helyen kezelheted az összes beérkező foglalásod.
           Mobilon is elérhető többféle naptárnézetünkben pedig láthatod szabad
           szobáidat, érkező-távozó vendégeidet.
-        image: images/feature-1.jpg
+        image: /images/foglalások kezelése átláthatóan.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
