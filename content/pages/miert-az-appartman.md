@@ -179,7 +179,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: secondary
     background_image_opacity: 50
     content: >
       Csapatunk azon dolgozik, hogy a szoftver felhasználóbarát kialakítása
