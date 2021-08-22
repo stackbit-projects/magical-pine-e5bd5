@@ -21,7 +21,7 @@ sections:
     background_image_size: cover
     background_image_position: left center
     media_position: right
-    image: /images/Group 10.png
+    image: /images/hero.png
   - type: grid_section
     grid_items:
       - title: Foglalás nélküli időszakokra ingyenes
