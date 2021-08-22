@@ -16,7 +16,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: small
-    background_color: primary
+    background_color: none
     background_image: images/hero-background.jpg
     background_image_opacity: 0
     background_image_size: cover
