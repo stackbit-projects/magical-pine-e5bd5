@@ -230,7 +230,7 @@ sections:
     enable_cards: true
     padding_top: small
     padding_bottom: medium
-    background_color: primary
+    background_color: none
     background_image_opacity: 10
   - type: grid_section
     title: Gyakran Ismételt Kérdések
