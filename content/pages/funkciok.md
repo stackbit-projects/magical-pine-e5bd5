@@ -92,7 +92,6 @@ sections:
         media_position: right
         media_width: sixty
       - title: Kimutatások érthetően
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
