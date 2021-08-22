@@ -30,7 +30,7 @@ sections:
         content: |
           Nem kell aggódnod, hogy szezonon kívül hogy termeled ki az árat.
         content_align: left
-        image: images/2-days.svg
+        image: /images/ingyenes foglalás nélkül.png
         image_alt: Section item 1 icon
         image_position: top
         image_width: twenty-five
