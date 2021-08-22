@@ -102,6 +102,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: /images/kimutatások érthetően.png
     feature_padding_vert: large
     align: center
     padding_top: none
