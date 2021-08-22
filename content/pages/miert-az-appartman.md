@@ -164,7 +164,6 @@ sections:
     padding_top: large
     padding_bottom: medium
     background_color: primary
-    background_image: images/pricing-background.jpg
     background_image_opacity: 10
   - type: cta_section
     title: Automatizáld foglalásaid adminisztrációját!
