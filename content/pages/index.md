@@ -123,7 +123,7 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: sixty
-    feature_padding_vert: large
+    feature_padding_vert: small
     align: center
     padding_top: none
     background_color: none
