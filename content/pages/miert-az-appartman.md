@@ -131,7 +131,7 @@ sections:
 
           ### 20 000 Ft
 
-          \__\__
+          <\_*\__\_>*
 
           *   Foglalások kezelése
 
