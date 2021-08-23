@@ -151,7 +151,7 @@ sections:
              </tbody>
              <tfoot>
                  <tr>
-                     <td>Footer content</td>
+                     <td>Átlátható felület</td>
                      <td>Footer content</td>
                      <td>Footer content</td>
                  </tr>
