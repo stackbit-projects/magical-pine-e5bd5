@@ -163,6 +163,11 @@ sections:
                      <td>nem</td>
                      <td>igen</td>
                  </tr>
+                 <tr>
+                     <td>Naptár szinkron</td>
+                     <td>nem</td>
+                     <td>igen</td>
+                 </tr>
              </tbody>
              <tfoot>
                  <tr>
