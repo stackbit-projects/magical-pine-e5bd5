@@ -145,11 +145,7 @@ sections:
 
           #### Extrák
 
-          \<!---->
-
-          \<!---->
-
-          *
+          \----
 
           Foglalómotor – 5 000 Ft
 
