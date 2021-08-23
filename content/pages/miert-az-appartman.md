@@ -144,7 +144,7 @@ sections:
                      <td>igen</td>
                  </tr>
                  <tr>
-                     <td>Több naptárnézet</td>
+                     <td>Több felhasználó</td>
                      <td>Body content</td>
                      <td>Body content</td>
                      <td>Body content</td>
