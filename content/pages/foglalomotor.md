@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: 'Vendégfogadás jutalékmentesen, foglalómotorunkkal'
     subtitle: >-
-      Szálláshelykezelő szoftverünkkel felhasználóbarát módon, egyszerűen
-      viheted fel szobafoglalásaid, vendégadataid.
+      Weboldalba építhető foglalómotorunkkal automatizáltan fogadhatod a
+      vendégeidet anélkül, hogy ajánlatkérő emailekre kellene válaszolnod.
     content: |
       **1 hónap ingyenes próbaidővel**
     actions:
