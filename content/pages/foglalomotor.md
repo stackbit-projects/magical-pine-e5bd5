@@ -149,7 +149,7 @@ sections:
         type: feature
     feature_padding_vert: large
     align: center
-    padding_top: none
+    padding_top: large
     background_color: none
     has_border: true
     padding_bottom: large
