@@ -108,7 +108,7 @@ sections:
     padding_top: none
     background_color: none
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Fejlesztés alatt
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
