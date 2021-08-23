@@ -89,7 +89,7 @@ sections:
           linket percek alatt.
         image: /images/minden weboldalba beépíthető.png
         image_alt: Feature 3 placeholder image
-        media_position: right
+        media_position: bottom
         media_width: sixty
         align: center
       - title: Regisztráció percek alatt
