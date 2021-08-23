@@ -85,37 +85,21 @@ sections:
         subtitle: 1-5 szobáig
         title_align: left
         content: |
-          ***
+          # Funkció
 
-          ### ~~4000 Ft~~ 0 Ft\*
+          NTAK adatszolgáltatás
 
-          ***\*2021 végéig.***
+          Több felhasználó 
 
-          *   Vendégadatok kezelése
+          Több naptárnézet
 
-          *   NTAK és Viza adatszolgáltatás
+          Automatikus adatbekérő
 
-          *   Többféle naptárnézet
+          Naptárszinkron
 
-          *   Automatikus adatbekérő
+          Foglalómotor
 
-          *   Csoportos adatbevitel
-
-          *   Kimutatások
-
-          *   Online vendégkönyv
-
-          *   Kimutatások kezelése
-
-          #### Extrák
-
-          Foglalómotor – 3000 Ft
-
-          Channel manager – 8000 Ft
-
-          \<hr>
-
-          blabla
+          Átlátható felület
         content_align: left
         actions:
           - label: Ingyenes próba
