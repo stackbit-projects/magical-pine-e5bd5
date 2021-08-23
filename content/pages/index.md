@@ -87,8 +87,8 @@ sections:
       - title: Naptárak szinkronizálása
         title_align: left
         content: >
-          Nem kell aggódnod a túlfoglalás miatt a foglalási csatornák
-          szinkronizálásának köszönhetően.
+          A foglalás beérkezésekor a szabad kapacitásaid lemondásra kerülnek a
+          Szallas.hu, Booking és Airbnb oldalakon.
         content_align: left
         image: /images/tobb felhasznalo.png
         image_alt: Section item 2 icon
