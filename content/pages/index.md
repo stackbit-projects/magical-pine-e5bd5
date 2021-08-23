@@ -84,7 +84,7 @@ sections:
         image_position: top
         image_width: twenty-five
         actions: []
-      - title: Naptár
+      - title: Naptárak szinkronizálása
         title_align: left
         content: >
           Munkatársaid is kezelhetik a szállás ügyeit, a megadott jogosultságok
