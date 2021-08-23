@@ -63,7 +63,7 @@ sections:
     background_image_opacity: 10
   - type: features_section
     features:
-      - title: Foglalások kezelése átláthatóan
+      - title: Tartsd naprakészen a szobáid minden felületen
         content: >
           Az Appartmannal egy helyen kezelheted az összes beérkező foglalásod.
           Mobilon is elérhető többféle naptárnézetünkben pedig láthatod szabad
