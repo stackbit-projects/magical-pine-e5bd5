@@ -79,7 +79,7 @@ sections:
         content: >
           Foglalómotorunkat minden képernyőn könnyen kezelhetőre terveztük, hogy
           megkönnyítsük a foglalások leadását.
-        image: /images/mobilra optimalizált kialakítás.png
+        image: /images/mobilra optimalizált kialakítás-a4e60086.png
         image_alt: Feature 2 placeholder image
         media_position: right
         media_width: sixty
