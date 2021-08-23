@@ -107,7 +107,7 @@ sections:
         content: >
           Kinyomtatható online vendégkönyvünk segít, hogy megszabadulhass a
           kockás papírtól. Ha kéri valaki, egyszerűen csak nyomtasd ki vagy
-          töltsd le Pdf-ben.
+          töltsd le PDF-ben.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
