@@ -1,22 +1,6 @@
 ---
 title: Home
 sections:
-  - type: features_section
-    title: >-
-      Kíméld meg magad a kényelmetlen adminisztrációtól, és fókuszálj
-      vállalkozásodra.
-    features:
-      - content: >
-          Az NTAK és VIZA adatszolgáltatás egy extra adminisztrációs teendő,
-          hiszen ugyanazt az adatot, több helyen is meg kell adni. Az Appartman
-          egyszerüsíti vendégadataid bevitelét és az összes szálláshelyed
-          kezelését.
-        align: center
-    feature_padding_vert: medium
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    background_color: none
   - type: grid_section
     grid_items:
       - title: Foglalás nélküli időszakokra ingyenes
