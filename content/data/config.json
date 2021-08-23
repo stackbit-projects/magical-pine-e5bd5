@@ -24,6 +24,11 @@
                 "style": "link"
             },
             {
+                "label": "Regisztráció",
+                "url": "/thank-you",
+                "style": "primary"
+            },
+            {
                 "label": "Foglalómotor",
                 "url": "/foglalomotor",
                 "style": "secondary",
@@ -33,11 +38,6 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
-            },
-            {
-                "label": "Regisztráció",
-                "url": "/thank-you",
-                "style": "primary"
             }
         ]
     },
