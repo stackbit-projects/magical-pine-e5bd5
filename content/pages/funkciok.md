@@ -110,7 +110,6 @@ sections:
   - title: Fejlesztés alatt
     features:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         content: >
           Weboldalba építhető foglalómodulunkkal vendégei naprakészen láthatják
           mikor van szabad szobája és azok milyen feltételekkel foglalhatóak.
