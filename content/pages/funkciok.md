@@ -109,7 +109,7 @@ sections:
     background_color: none
   - title: Fejlesztés alatt
     features:
-      - title: lorem-ipsum
+      - title: Foglalómotor
         content: >
           Weboldalba építhető foglalómodulunkkal vendégei naprakészen láthatják
           mikor van szabad szobája és azok milyen feltételekkel foglalhatóak.
