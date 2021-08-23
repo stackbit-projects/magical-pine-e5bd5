@@ -136,39 +136,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
-    grid_items:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        title_align: left
-        content: "\\<div class=\"responsive-table\">\n\_ \\<table>\n\_ \_ \_ \\<caption>Table with thead, tfoot, and tbody\\</caption>\n\_ \_ \\<thead>\n\_ \_ \_ \\<tr>\n\_ \_ \_ \_ \\<th>Működj már\\</th>\n\_ \_ \_ \_ \\<th>Header content\\</th>\n\_ \_ \_ \_ \\<th>Header content\\</th>\n\_ \_ \_ \_ \\<th>Header content\\</th>\n\_ \_ \_ \\</tr>\n\_ \_ \\</thead>\n\_ \_ \\<tbody>\n\_ \_ \_ \\<tr>\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\_ \_ \_ \\</tr>\n\_ \_ \_ \\<tr>\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\_ \_ \_ \\</tr>\n\_ \_ \\</tbody>\n\_ \_ \\<tfoot>\n\_ \_ \_ \\<tr>\n\_ \_ \_ \_ \\<td>Footer content\\</td>\n\_ \_ \_ \_ \\<td>Footer content\\</td>\n\_ \_ \\<td>Footer content\\</td>\n\_ \_ \\<td>Footer content\\</td>\n\_ \_ \_ \\</tr>\n\_ \_ \\</tfoot>\n\_ \\</table>\n\\</div>\n"
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-    grid_cols: three
-    grid_gap_vert: small
-    grid_gap_horiz: small
-    enable_cards: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: grid_section
 seo:
   title: Stackbit Event Theme
   description: The preview of the Event theme
