@@ -161,7 +161,7 @@ sections:
                  </tr>
              </tfoot>
              </table>
-</div>
+         </div>
 
         actions: []
         image_alt: lorem-ipsum
