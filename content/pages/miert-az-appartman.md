@@ -144,17 +144,7 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "\\<div class=\"responsive-table\">\n\_ \\<table>\n\_ \_ \_ \\<caption>Table with thead, tfoot, and tbody\\</caption>\n\_ \_ \\<thead>\n\_ \_ \_ \\<tr>\n\_ \_ \_ \_ \\<th>Működj már\\</th>\n\_ \_ \_ \_ \\<th>Header content\\</th>\n\_ \_ \_ \_ \\<th>Header content\\</th>\n\_ \_ \_ \_ \\<th>Header content\\</th>\n\_ \_ \_ \\</tr>\n\_ \_ \\</thead>\n\_ \_ \\<tbody>\n\_ \_ \_ \\<tr>\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\_ \_ \_ \\</tr>\n\_ \_ \_ \\<tr>\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\_ \_ \_ \\</tr>\n\_ \_ \\</tbody>\n\_ \_ \\<tfoot>\n\_ \_ \_ \\<tr>\n\_ \_ \_ \_ \\<td>Footer content\\</td>\n\_ \_ \_ \_ \\<td>Footer content\\</td>\n\_ \_ \\<td>Footer content\\</td>\n\_ \_ \\<td>Footer content\\</td>\n\_ \_ \_ \\</tr>\n\_ \_ \\</tfoot>\n\_ \\</table>\n\\</div>\n"
         content_align: left
         actions: []
         actions_align: left
