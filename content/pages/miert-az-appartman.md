@@ -129,7 +129,7 @@ sections:
         content: |
         <div class="responsive-table">
             <table>
-      <caption>Table with thead, tfoot, and tbody</caption>
+              <caption>Table with thead, tfoot, and tbody</caption>
     <thead>
       <tr>
         <th>Működj már</th>
