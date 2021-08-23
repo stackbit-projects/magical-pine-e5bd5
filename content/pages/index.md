@@ -191,7 +191,7 @@ sections:
         content: |
           ### 15 000 Ft + ÁFA
 
-          ******
+          ***
 
           *   Vendégadatok kezelése
 
@@ -208,6 +208,8 @@ sections:
           *   Kimutatások
 
           *   Online vendégkönyv
+
+          \---
 
           ###### \*Az ár szálláshelyenként értendő
 
