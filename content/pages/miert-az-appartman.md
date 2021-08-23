@@ -131,8 +131,6 @@ sections:
 
           <!---->
 
-          *   Vendégadatok kezelése
-
           *   Többféle naptárnézet
 
           *   Automatikus adatbekérő
@@ -147,7 +145,7 @@ sections:
 
           #### Extrák
 
-          Foglalómotor – 5 000 Ft 
+          Foglalómotor – 5 000 Ft
 
           Channel manager – 15 000 Ft
         content_align: left
