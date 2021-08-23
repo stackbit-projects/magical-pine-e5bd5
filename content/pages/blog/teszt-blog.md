@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: NTAK tudnivalók
 subtitle: lorem-ipsum
 date: '2021-08-23'
 categories: []
