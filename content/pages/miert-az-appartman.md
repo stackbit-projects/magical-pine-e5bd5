@@ -141,7 +141,7 @@ sections:
                  <tr>
                      <td>NTAK adatszolgáltatás</td>
                      <td>igen</td>
-                     <td>Body content</td>
+                     <td>igen</td>
                      <td>Body content</td>
                  </tr>
                  <tr>
