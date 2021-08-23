@@ -146,7 +146,6 @@ sections:
     background_image_opacity: 50
   - type: grid_section
     title: Áraink
-    subtitle: Pass for the event
     grid_items:
       - title: Kis csomag
         subtitle: 1-5 szobáig
