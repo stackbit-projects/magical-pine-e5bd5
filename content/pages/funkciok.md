@@ -193,7 +193,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: lorem-ipsum
+      - title: Channel manager
         title_align: left
         content: >
           Szállásközvetítő oldalakról érkező foglalásaidat nem kell külön
