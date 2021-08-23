@@ -15,7 +15,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-author: content/data/team/person-qp0fmxqnt.json
+author: content/data/team/person-684ei6x7r.json
 ---
 ## Lorem ipsum
 
