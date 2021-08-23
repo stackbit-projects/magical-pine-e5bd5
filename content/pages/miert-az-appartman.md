@@ -99,7 +99,6 @@ sections:
       mellett segítse a szállásadók adminisztrációját az első lépésekben is.
       Ügyfélszolgálatunk 24 órán belül válaszol bármilyen kérdésre.
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     subtitle: lorem-ipsum
     features:
       - title: Mivel több az Appartman a Vendégemnél?
