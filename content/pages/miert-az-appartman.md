@@ -148,7 +148,7 @@ sections:
                      <td>igen</td>
                      <td>igen</td>
                  </tr>
-                                  <tr>
+                 <tr>
                      <td>Több felhasználó</td>
                      <td>igen</td>
                      <td>igen</td>
