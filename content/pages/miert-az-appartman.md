@@ -149,7 +149,7 @@ sections:
                      <td>igen</td>
                  </tr>
                  <tr>
-                     <td>Több felhasználó</td>
+                     <td>Több naptár nézet</td>
                      <td>igen</td>
                      <td>igen</td>
                  </tr>
