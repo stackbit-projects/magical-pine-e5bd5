@@ -181,10 +181,8 @@ sections:
       - title: Foglalómotor
         title_align: left
         content: >
-          Szállásközvetítő oldalakról érkező foglalásaidat nem kell külön
-          felvinned az NTAK-ba és a többi közvetítő oldalra, automatizált
-          rendszerünk megteszi helyetted. Sőt még a kiemelt áraidat is csak egy
-          helyen kell beállítanod.
+          Weboldalba építhető foglalómodulunkkal vendégei naprakészen láthatják
+          mikor van szabad szobája és azok milyen feltételekkel foglalhatóak.
         content_align: left
         actions: []
         actions_align: left
