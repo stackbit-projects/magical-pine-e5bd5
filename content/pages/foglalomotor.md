@@ -91,9 +91,8 @@ sections:
         media_width: sixty
       - title: Kimutatások érthetően
         content: >
-          Ha tudni szeretnéd, mennyi IFA-t kell befizetned, honnan érkeztek
-          vendégeid és, hogy átlagban hány éjszakát voltak az Appartmanból
-          megtudhatod.
+          Szálláshelyed admin felületén percek adhatod meg lakóegységeid,
+          szobáid kapacitását és kezdheted el a vendégfogadást.
         actions: []
         image_alt: lorem-ipsum
         media_position: left
