@@ -38,8 +38,8 @@ sections:
       - title: Több felhasználó
         title_align: left
         content: >
-          Munkatársaid is kezelhetik a szállás ügyeit, a megadott jogosultságok
-          alapján.
+          A foglalás beérkezésekor a szabad kapacitásaid lemondásra kerülnek a
+          Szallas.hu, Booking és Airbnb oldalakon.
         content_align: left
         image: /images/naptar-szinkronizalas-pms-ical-airbnb-szallashu-booking.png
         image_alt: Section item 2 icon
