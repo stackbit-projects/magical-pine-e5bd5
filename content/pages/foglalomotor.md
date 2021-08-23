@@ -88,7 +88,7 @@ sections:
           Egyszerűen illeszd be a kódsorunkat a weboldaladba vagy készíts róla
           linket percek alatt.
         image_alt: Feature 3 placeholder image
-        media_position: bottom
+        media_position: left
         media_width: sixty
         align: center
         image: /images/minden weboldalba beépíthető-6311b71e.png
