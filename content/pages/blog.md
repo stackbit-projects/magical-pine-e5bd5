@@ -3,7 +3,7 @@ title: lorem-ipsum
 sections:
   - section_id: lorem-ipsum
     title: Appartman blog
-    subtitle: lorem-ipsum
+    subtitle: 'Tudástár '
     actions: []
     blog_feed_cols: three
     enable_cards: false
