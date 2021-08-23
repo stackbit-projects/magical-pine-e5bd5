@@ -104,7 +104,42 @@ sections:
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: "\\<div class=\"responsive-table\">\n\_ \\<table>\n\_ \_ \_ \\<caption>Table with thead, tfoot, and tbody\\</caption>\n\_ \_ \\<thead>\n\_ \_ \_ \\<tr>\n\_ \_ \_ \_ \\<th>Működj már\\</th>\n\_ \_ \_ \_ \\<th>Header content\\</th>\n\_ \_ \_ \_ \\<th>Header content\\</th>\n\_ \_ \_ \_ \\<th>Header content\\</th>\n\_ \_ \_ \\</tr>\n\_ \_ \\</thead>\n\_ \_ \\<tbody>\n\_ \_ \_ \\<tr>\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\_ \_ \_ \\</tr>\n\_ \_ \_ \\<tr>\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\_ \_ \_ \\</tr>\n\_ \_ \\</tbody>\n\_ \_ \\<tfoot>\n\_ \_ \_ \\<tr>\n\_ \_ \_ \_ \\<td>Footer content\\</td>\n\_ \_ \_ \_ \\<td>Footer content\\</td>\n\_ \_ \\<td>Footer content\\</td>\n\_ \_ \\<td>Footer content\\</td>\n\_ \_ \_ \\</tr>\n\_ \_ \\</tfoot>\n\_ \\</table>\n\\</div>\n"
+        content: |
+          \<div class="responsive-table">
+            \<table>
+                \<caption>Table with thead, tfoot, and tbody\</caption>
+              \<thead>
+                \<tr>
+                  \<th>Működj már\</th>
+                  \<th>Header content\</th>
+                  \<th>Header content\</th>
+                  \<th>Header content\</th>
+                \</tr>
+              \</thead>
+              \<tbody>
+                \<tr>
+                  \<td>Body content\</td>
+                  \<td>Body content\</td>
+                  \<td>Body content\</td>
+                  \<td>Body content\</td>
+                \</tr>
+                \<tr>
+                  \<td>Body content\</td>
+                  \<td>Body content\</td>
+                  \<td>Body content\</td>
+                  \<td>Body content\</td>
+                \</tr>
+              \</tbody>
+              \<tfoot>
+                \<tr>
+                  \<td>Footer content\</td>
+                  \<td>Footer content\</td>
+              \<td>Footer content\</td>
+              \<td>Footer content\</td>
+                \</tr>
+              \</tfoot>
+            \</table>
+          \</div>
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
