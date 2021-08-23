@@ -101,7 +101,7 @@ sections:
         type: feature
         image: /images/kimutatások érthetően.png
       - title: Hogyan működik a gyakorlatban?
-        content: >+
+        content: >
           ### 1. lépés
 
 
@@ -110,7 +110,7 @@ sections:
           azt a vendég számára.
 
 
-          2\. lépés
+          ### 2. lépés
 
 
           A vendég a foglaláskor megadja az adatait, amely szükséges az NTAK
@@ -118,28 +118,26 @@ sections:
           a Szállás.hu-n, Bookingon és AirBnb-n.
 
 
-          3.lépés
+          ### 3.lépés
 
 
           A foglaló az email címére automatizált emailt kap a foglalás
           adataival, előleg összegével és egyéb információkkal.
 
 
-          4.lépés
+          ### 4.lépés
 
 
           Az érkezést megelőző hetekben a foglaló egy online adatbekérőt kap az
           email címére, ahová a kötelező NTAK adatokat kell megadnia.
 
 
-          5.lépés
+          ### 5.lépés
 
 
           A rendszerünk az Appartman PMS-sel összekapcsolva automatizáltan
           biztosítja az adatokat az NTAK részére és egy gombnyomásra elküldi
           azokat.
-
-
         actions: []
         image_alt: lorem-ipsum
         media_position: top
