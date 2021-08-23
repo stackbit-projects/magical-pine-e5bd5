@@ -176,7 +176,6 @@ sections:
     type: form_section
   - section_id: lorem-ipsum
     title: Fejlesztés alatt
-    subtitle: lorem-ipsum
     actions: []
     grid_items:
       - title: lorem-ipsum
