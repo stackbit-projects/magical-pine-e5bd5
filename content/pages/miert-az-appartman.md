@@ -140,7 +140,7 @@ sections:
              <tbody>
                  <tr>
                      <td>NTAK adatszolgáltatás</td>
-                     <td>Több felhasználó</td>
+                     <td>igen</td>
                      <td>Body content</td>
                      <td>Body content</td>
                  </tr>
