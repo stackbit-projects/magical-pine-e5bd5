@@ -41,41 +41,23 @@ This is a paragraph. Malesuada bibendum arcu vitae elementum curabitur vitae nun
 
 ## Quoting
 
-\<div class="responsive-table">
-  \<table>
-      \<caption>Table with thead, tfoot, and tbody\</caption>
-    \<thead>
-      \<tr>
-        \<th>Működj már\</th>
-        \<th>Header content\</th>
-        \<th>Header content\</th>
-        \<th>Header content\</th>
-      \</tr>
-    \</thead>
-    \<tbody>
-      \<tr>
-        \<td>Body content\</td>
-        \<td>Body content\</td>
-        \<td>Body content\</td>
-        \<td>Body content\</td>
-      \</tr>
-      \<tr>
-        \<td>Body content\</td>
-        \<td>Body content\</td>
-        \<td>Body content\</td>
-        \<td>Body content\</td>
-      \</tr>
-    \</tbody>
-    \<tfoot>
-      \<tr>
-        \<td>Footer content\</td>
-        \<td>Footer content\</td>
-    \<td>Footer content\</td>
-    \<td>Footer content\</td>
-      \</tr>
-    \</tfoot>
-  \</table>
-\</div>
+\<table style="width:100%">
+  \<tr>
+    \<th>Firstname\</th>
+    \<th>Lastname\</th>
+    \<th>Age\</th>
+  \</tr>
+  \<tr>
+    \<td>Jill\</td>
+    \<td>Smith\</td>
+    \<td>50\</td>
+  \</tr>
+  \<tr>
+    \<td>Eve\</td>
+    \<td>Jackson\</td>
+    \<td>94\</td>
+  \</tr>
+\</table>
 
 Nullam hendrerit dictum vehicula. Nunc nec tortor et dui vestibulum venenatis. Donec mattis ligula ac efficitur lacinia.
 
