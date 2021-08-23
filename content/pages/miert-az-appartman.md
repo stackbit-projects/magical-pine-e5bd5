@@ -104,41 +104,7 @@ sections:
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: |
-          \<div class="responsive-table">
-          \<table>
-          \<thead>
-          \<tr>
-          \<th>Header content\</th>
-          \<th>Header content\</th>
-          \<th>Header content\</th>
-          \<th>Header content\</th>
-          \</tr>
-          \</thead>
-          \<tbody>
-          \<tr>
-          \<td>Body content\</td>
-          \<td>Body content\</td>
-          \<td>Body content\</td>
-          \<td>Body content\</td>
-          \</tr>
-          \<tr>
-          \<td>Body content\</td>
-          \<td>Body content\</td>
-          \<td>Body content\</td>
-          \<td>Body content\</td>
-          \</tr>
-          \</tbody>
-          \<tfoot>
-          \<tr>
-          \<td>Footer content\</td>
-          \<td>Footer content\</td>
-          \<td>Footer content\</td>
-          \<td>Footer content\</td>
-          \</tr>
-          \</tfoot>
-          \</table>
-          \</div>
+        content: "\\<div class=\"responsive-table\">\n\n\_ \\<table>\n\n\_ \_ \_ \\<caption>Table with thead, tfoot, and tbody\\</caption>\n\n\_ \_ \\<thead>\n\n\_ \_ \_ \\<tr>\n\n\_ \_ \_ \_ \\<th>Működj már\\</th>\n\n\_ \_ \_ \_ \\<th>Header content\\</th>\n\n\_ \_ \_ \_ \\<th>Header content\\</th>\n\n\_ \_ \_ \_ \\<th>Header content\\</th>\n\n\_ \_ \_ \\</tr>\n\n\_ \_ \\</thead>\n\n\_ \_ \\<tbody>\n\n\_ \_ \_ \\<tr>\n\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\n\_ \_ \_ \\</tr>\n\n\_ \_ \_ \\<tr>\n\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\n\_ \_ \_ \_ \\<td>Body content\\</td>\n\n\_ \_ \_ \\</tr>\n\n\_ \_ \\</tbody>\n\n\_ \_ \\<tfoot>\n\n\_ \_ \_ \\<tr>\n\n\_ \_ \_ \_ \\<td>Footer content\\</td>\n\n\_ \_ \_ \_ \\<td>Footer content\\</td>\n\n\_ \_ \\<td>Footer content\\</td>\n\n\_ \_ \\<td>Footer content\\</td>\n\n\_ \_ \_ \\</tr>\n\n\_ \_ \\</tfoot>\n\n\_ \\</table>\n\n\\</div>\n"
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
