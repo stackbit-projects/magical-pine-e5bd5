@@ -142,6 +142,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
+    section_id: PMS-kis-szallashelyeknek
   - type: cta_section
     title: Automatizáld foglalásaid adminisztrációját!
     actions:
