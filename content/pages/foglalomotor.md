@@ -75,10 +75,8 @@ sections:
         align: center
       - title: Mobilra optimalizált kialakítás
         content: >
-          Egy gombnyomásra kérheted be vendégeid adatait, hogy azzal már ne
-          kelljen az érkezéskor bajlódnod. Az Appartman rendszerébe pedig
-          automatikus bekerül, így a napi záráshoz szükséges információkat sem
-          kell beszerezned.
+          Foglalómotorunkat minden képernyőn könnyen kezelhetőre terveztük, hogy
+          megkönnyítsük a foglalások leadását.
         image: /images/vendeg-online-kuldheto-adatbekerő.png
         image_alt: Feature 2 placeholder image
         media_position: left
