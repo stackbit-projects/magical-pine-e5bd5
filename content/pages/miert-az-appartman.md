@@ -139,7 +139,7 @@ sections:
              </thead>
              <tbody>
                  <tr>
-                     <td>Body content</td>
+                     <td>NTAK adatszolgáltatás</td>
                      <td>Body content</td>
                      <td>Body content</td>
                      <td>Body content</td>
