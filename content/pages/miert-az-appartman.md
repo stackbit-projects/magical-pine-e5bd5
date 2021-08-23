@@ -129,7 +129,7 @@ sections:
         content: |
          <div class="responsive-table">
             <table>
-                 <caption>Fontosabb funkciók </caption>
+                 <caption>Fontosabb funkciók elérhetősége.</caption>
              <thead>
                  <tr>
                      <th>Funkció</th>
