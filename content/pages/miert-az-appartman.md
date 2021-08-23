@@ -123,7 +123,7 @@ sections:
         align: left
         type: feature
       - title: Mivel több az Appartman a Vendégemnél?
-        subtitle: lorem-ipsum
+        subtitle:
         content: |
          <div class="responsive-table">
             <table>
