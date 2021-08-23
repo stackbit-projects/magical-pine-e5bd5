@@ -76,8 +76,9 @@ sections:
     grid_items:
       - title: Foglalás nélküli időszakokra ingyenes
         title_align: left
-        content: |
-          Nem kell aggódnod, hogy szezonon kívül hogy termeled ki az árat.
+        content: |+
+          Csak akkor kell fizetned, ha van vendéged.
+
         content_align: left
         image: /images/ingyenes foglalás nélkül.png
         image_alt: Section item 1 icon
