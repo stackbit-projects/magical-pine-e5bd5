@@ -244,7 +244,12 @@ sections:
         content_align: left
       - title: Hogyan segíti az adminisztrációt az Appartman?
         title_align: left
-        content: "Az adatbekérő modulunk gondoskodik arról, hogy az összes szükséges adat a rendszerbe kerüljön még a vendég érkezése előtt. Csoportos adatbevitelünk segíti a nagyobb iskolás csoportok, rendezvények résztvevőinek az adatbevitelét. Továbbá egy channel manager és foglalómotor funkción is dolgozunk.\_\n"
+        content: >
+          Az adatbekérő modulunk gondoskodik arról, hogy az összes szükséges
+          adat a rendszerbe kerüljön még a vendég érkezése előtt. Adatbekérő
+          funkciónkkal a vendég online tölti ki az NTAK adatszolgáltatáshoz
+          szükséges adatokat, amely automatikusan továbbítódik az NTAK
+          szervereire. Naptárszinkronunkkal pedig
         content_align: left
       - title: 'Mit jelent az, hogy NTAK-barát?'
         title_align: left
