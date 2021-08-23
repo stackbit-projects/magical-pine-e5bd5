@@ -84,7 +84,7 @@ sections:
         image_position: top
         image_width: twenty-five
         actions: []
-      - title: Több felhasználó
+      - title: Naptár
         title_align: left
         content: >
           Munkatársaid is kezelhetik a szállás ügyeit, a megadott jogosultságok
