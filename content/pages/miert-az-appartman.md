@@ -35,7 +35,7 @@ sections:
         image_position: top
         image_width: twenty-five
         actions: []
-      - title: Több felhasználó
+      - title: Naptár szinkron
         title_align: left
         content: >
           A foglalás beérkezésekor a szabad kapacitásaid lemondásra kerülnek a
