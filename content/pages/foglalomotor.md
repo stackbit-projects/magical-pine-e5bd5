@@ -78,7 +78,7 @@ sections:
         content: >
           Foglalómotorunkat minden képernyőn könnyen kezelhetőre terveztük, hogy
           megkönnyítsük a foglalások leadását.
-        image: /images/vendeg-online-kuldheto-adatbekerő.png
+        image: /images/mobilra optimalizált kialakítás.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
