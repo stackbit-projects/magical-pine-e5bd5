@@ -209,8 +209,6 @@ sections:
 
           *   Online vendégkönyv
 
-          \---
-
           ###### \*Az ár szálláshelyenként értendő
 
           #### Extrák
