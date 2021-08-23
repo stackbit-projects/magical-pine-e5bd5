@@ -83,9 +83,8 @@ sections:
         media_width: sixty
       - title: NTAK adatszolgáltatás biztonságosan
         content: >
-          Állítsd be az automatikus napi lejelentést, vagy módosítsd akár
-          mobilodról. Add meg a vendégadatokat másodpercek alatt vagy tegyék meg
-          vendégeid az applikáción keresztül helyetted.
+          Egyszerűen illeszd be a kódsorunkat a weboldaladba vagy készíts róla
+          linket percek alatt.
         image: /images/NTAK adatszolgáltatás automatikusan.png
         image_alt: Feature 3 placeholder image
         media_position: right
