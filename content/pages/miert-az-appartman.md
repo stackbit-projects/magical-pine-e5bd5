@@ -151,16 +151,16 @@ sections:
                      <td>Body content</td>
                      <td>Body content</td>
                  </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td>Footer content</td>
-        <td>Footer content</td>
-    <td>Footer content</td>
-    <td>Footer content</td>
-      </tr>
-    </tfoot>
-  </table>
+             </tbody>
+             <tfoot>
+                 <tr>
+                     <td>Footer content</td>
+                     <td>Footer content</td>
+                     <td>Footer content</td>
+                     <td>Footer content</td>
+                 </tr>
+             </tfoot>
+             </table>
 </div>
 
         actions: []
