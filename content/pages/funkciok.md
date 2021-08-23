@@ -103,16 +103,6 @@ sections:
         align: left
         type: feature
         image: /images/kimutatások érthetően.png
-      - title: Mobilra optimalizált kialakítás
-        content: >
-          Weboldalba építhető foglalómodulunkkal vendégei naprakészen láthatják
-          mikor van szabad szobája és azok milyen feltételekkel foglalhatóak.
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: left
-        type: feature
     feature_padding_vert: large
     align: center
     padding_top: none
