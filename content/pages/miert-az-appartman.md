@@ -145,9 +145,8 @@ sections:
                  </tr>
                  <tr>
                      <td>Több felhasználó</td>
-                     <td>Body content</td>
-                     <td>Body content</td>
-                     <td>Body content</td>
+                     <td>igen</td>
+                     <td>igen</td>
                  </tr>
              </tbody>
              <tfoot>
