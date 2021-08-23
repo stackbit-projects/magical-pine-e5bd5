@@ -103,7 +103,7 @@ sections:
         align: left
         type: feature
         image: /images/kimutatások érthetően.png
-      - title: lorem-ipsum
+      - title: Online vendégkönyv
         content: >-
           ## Lorem ipsum
 
