@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Vendégfogadás jutalékmentesen, foglaló'
+    title: 'Vendégfogadás jutalékmentesen, foglalómotorunkkal'
     subtitle: >-
       Szálláshelykezelő szoftverünkkel felhasználóbarát módon, egyszerűen
       viheted fel szobafoglalásaid, vendégadataid.
