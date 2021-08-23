@@ -129,19 +129,15 @@ sections:
         content: |
           \<div class="responsive-table">
 
-            \<table>
+          \<table>
 
-              \<thead>
+              <thead>
+                <tr>
+                  <th>Kokk</th>
+               </tr>
+              </thead>
 
-                \<tr>
-
-                  \<th>Kokk\</th>
-
-               \</tr>
-
-              \</thead>
-
-            \</table>
+          \</table>
 
           \</div>
         actions: []
