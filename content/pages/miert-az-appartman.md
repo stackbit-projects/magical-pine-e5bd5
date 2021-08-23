@@ -102,14 +102,6 @@ sections:
     title: lorem-ipsum
     subtitle: lorem-ipsum
     features:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: left
-        type: feature
       - title: Mivel több az Appartman a Vendégemnél?
         subtitle: null
         content: |
