@@ -41,6 +41,42 @@ This is a paragraph. Malesuada bibendum arcu vitae elementum curabitur vitae nun
 
 ## Quoting
 
+\<div class="responsive-table">
+  \<table>
+      \<caption>Table with thead, tfoot, and tbody\</caption>
+    \<thead>
+      \<tr>
+        \<th>Működj már\</th>
+        \<th>Header content\</th>
+        \<th>Header content\</th>
+        \<th>Header content\</th>
+      \</tr>
+    \</thead>
+    \<tbody>
+      \<tr>
+        \<td>Body content\</td>
+        \<td>Body content\</td>
+        \<td>Body content\</td>
+        \<td>Body content\</td>
+      \</tr>
+      \<tr>
+        \<td>Body content\</td>
+        \<td>Body content\</td>
+        \<td>Body content\</td>
+        \<td>Body content\</td>
+      \</tr>
+    \</tbody>
+    \<tfoot>
+      \<tr>
+        \<td>Footer content\</td>
+        \<td>Footer content\</td>
+    \<td>Footer content\</td>
+    \<td>Footer content\</td>
+      \</tr>
+    \</tfoot>
+  \</table>
+\</div>
+
 Nullam hendrerit dictum vehicula. Nunc nec tortor et dui vestibulum venenatis. Donec mattis ligula ac efficitur lacinia.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec pretium vulputate sapien nec sagittis aliquam. Turpis massa sed elementum tempus egestas sed sed. Orci a scelerisque purus semper eget duis at tellus at. Lacus luctus accumsan tortor posuere ac.
