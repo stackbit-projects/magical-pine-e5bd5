@@ -189,33 +189,31 @@ sections:
         subtitle: 17 férőhelytől
         title_align: left
         content: |
-          ***
+          ### 15 000 Ft + ÁFA
 
-          ### 20 000 Ft
-
-          *   Foglalások kezelése
-
-          <!---->
+          ******
 
           *   Vendégadatok kezelése
+
+          *   NTAK és Viza adatszolgáltatás
+
+          *   Naptárak szinkronizálása (iCal)
 
           *   Többféle naptárnézet
 
           *   Automatikus adatbekérő
 
-          *   Csoportos adatbevitel
+          *   Több szálláshely kezelése egy helyen\*
 
           *   Kimutatások
 
           *   Online vendégkönyv
 
-          *   Kimutatások kezelése
+          ###### \*Az ár szálláshelyenként értendő
 
           #### Extrák
 
-          Foglalómotor – 5 000 Ft 
-
-          Channel manager – 15 000 Ft
+          Foglalómotor – 5 000 Ft + ÁFA
         content_align: left
         actions:
           - label: Ingyenes próba
