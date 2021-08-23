@@ -112,6 +112,10 @@ sections:
           Foglalómotor – 3000 Ft
 
           Channel manager – 8000 Ft
+
+          \<hr>
+
+          blabla
         content_align: left
         actions:
           - label: Ingyenes próba
