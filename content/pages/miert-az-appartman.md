@@ -145,6 +145,12 @@ sections:
 
           #### Extrák
 
+          \<!---->
+
+          \<!---->
+
+          *
+
           Foglalómotor – 5 000 Ft
 
           Channel manager – 15 000 Ft
