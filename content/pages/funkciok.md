@@ -178,7 +178,7 @@ sections:
     title: Fejlesztés alatt
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Foglalómotor
         title_align: left
         content: >-
           ## Lorem ipsum
