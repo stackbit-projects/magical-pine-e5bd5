@@ -152,8 +152,8 @@ sections:
              <tfoot>
                  <tr>
                      <td>Átlátható felület</td>
-                     <td>Footer content</td>
-                     <td>Footer content</td>
+                     <td>nem</td>
+                     <td>igen</td>
                  </tr>
              </tfoot>
              </table>
