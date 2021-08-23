@@ -153,7 +153,7 @@ sections:
         content: |
           ***
 
-          ### ~~5000 Ft + ÁFA ~~ 0 Ft\*
+          ### ~~5000 Ft + ÁFA~~ 0 Ft\*
 
           ***\*2022 márciusig.***
 
