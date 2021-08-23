@@ -127,6 +127,8 @@ sections:
 
           ### 20 000 Ft
 
+          \__\__
+
           *   Foglalások kezelése
 
           <!---->
@@ -145,7 +147,7 @@ sections:
 
           #### Extrák
 
-          \----
+          \-----
 
           Foglalómotor – 5 000 Ft
 
