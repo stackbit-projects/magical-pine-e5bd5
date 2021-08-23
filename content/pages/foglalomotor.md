@@ -23,7 +23,7 @@ sections:
     media_position: right
   - type: grid_section
     grid_items:
-      - title: SSL titkosítás
+      - title: WordPress
         title_align: left
         content_align: left
         image_alt: Section item 1 icon
