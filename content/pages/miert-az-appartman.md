@@ -41,7 +41,7 @@ sections:
           Munkatársaid is kezelhetik a szállás ügyeit, a megadott jogosultságok
           alapján.
         content_align: left
-        image: /images/tobb felhasznalo.png
+        image: /images/naptar-szinkronizalas-pms-ical-airbnb-szallashu-booking.png
         image_alt: Section item 2 icon
         image_position: top
         image_width: twenty-five
