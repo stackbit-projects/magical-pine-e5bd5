@@ -107,30 +107,6 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Nagy csomag
-        subtitle: 6-25 szobáig
-        title_align: left
-        content: |
-          Gentlemen a short view back to the past
-
-          \*\*\*\*\*\*
-
-          Thirty years ago
-
-          \----
-
-          Niki Lauda told us
-
-          \_*\_*
-
-          Take a trained monkey
-        content_align: left
-        actions:
-          - label: Ingyenes próba
-            url: /thank-you
-            style: primary
-        actions_align: left
-        actions_width: full-width
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
