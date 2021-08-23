@@ -150,6 +150,7 @@ sections:
     align: center
     padding_top: none
     background_color: none
+    has_border: true
   - type: cta_section
     title: Automatizáld foglalásaid adminisztrációját!
     actions:
