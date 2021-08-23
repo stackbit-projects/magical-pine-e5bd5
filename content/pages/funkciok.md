@@ -159,7 +159,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: lorem-ipsum
+      - title: Digitális okmányolvasó modul
         title_align: left
         content: >
           Applikációnkkal gördülékenyen szkennelheti be érkező vendégeinek
