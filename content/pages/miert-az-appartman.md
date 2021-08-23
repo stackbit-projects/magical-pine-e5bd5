@@ -158,7 +158,7 @@ sections:
                      <td>nem</td>
                      <td>igen</td>
                  </tr>
-                                  <tr>
+                 <tr>
                      <td>Automatikus adatbekérő</td>
                      <td>nem</td>
                      <td>igen</td>
