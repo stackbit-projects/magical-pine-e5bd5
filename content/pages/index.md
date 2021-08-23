@@ -148,7 +148,7 @@ sections:
     title: Áraink
     grid_items:
       - title: Kis csomag
-        subtitle: 1-5 szobáig
+        subtitle: 16 férőhelyig
         title_align: left
         content: |
           ***
