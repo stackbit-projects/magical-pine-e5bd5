@@ -180,17 +180,11 @@ sections:
     grid_items:
       - title: Foglalómotor
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Szállásközvetítő oldalakról érkező foglalásaidat nem kell külön
+          felvinned az NTAK-ba és a többi közvetítő oldalra, automatizált
+          rendszerünk megteszi helyetted. Sőt még a kiemelt áraidat is csak egy
+          helyen kell beállítanod.
         content_align: left
         actions: []
         actions_align: left
