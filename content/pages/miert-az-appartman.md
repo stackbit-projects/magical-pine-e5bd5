@@ -104,17 +104,42 @@ sections:
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          \<div class="responsive-table">
+            \<table>
+                \<caption>Table with thead, tfoot, and tbody\</caption>
+              \<thead>
+                \<tr>
+                  \<th>Header content\</th>
+                  \<th>Header content\</th>
+                  \<th>Header content\</th>
+                  \<th>Header content\</th>
+                \</tr>
+              \</thead>
+              \<tbody>
+                \<tr>
+                  \<td>Body content\</td>
+                  \<td>Body content\</td>
+                  \<td>Body content\</td>
+                  \<td>Body content\</td>
+                \</tr>
+                \<tr>
+                  \<td>Body content\</td>
+                  \<td>Body content\</td>
+                  \<td>Body content\</td>
+                  \<td>Body content\</td>
+                \</tr>
+              \</tbody>
+              \<tfoot>
+                \<tr>
+                  \<td>Footer content\</td>
+                  \<td>Footer content\</td>
+              \<td>Footer content\</td>
+              \<td>Footer content\</td>
+                \</tr>
+              \</tfoot>
+            \</table>
+          \</div>
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
