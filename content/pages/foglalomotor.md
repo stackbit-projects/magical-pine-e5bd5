@@ -36,7 +36,7 @@ sections:
         image_alt: Section item 2 icon
         image_position: top
         image_width: twenty-five
-      - title: GDPR megfelelőség
+      - title: Wix
         title_align: left
         content_align: left
         image_alt: Section item 3 icon
