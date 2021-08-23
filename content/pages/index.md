@@ -186,7 +186,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Nagy csomag
-        subtitle: 6-25 szobáig
+        subtitle: 17 férőhelytől
         title_align: left
         content: |
           ***
