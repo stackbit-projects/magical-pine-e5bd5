@@ -108,7 +108,6 @@ sections:
     padding_top: none
     background_color: none
   - title: Fejlesztés alatt
-    subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
     align: center
