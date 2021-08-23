@@ -133,19 +133,19 @@ sections:
              <thead>
                  <tr>
                      <th>Működj már</th>
-        <th>Header content</th>
-        <th>Header content</th>
-        <th>Header content</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Body content</td>
-        <td>Body content</td>
-        <td>Body content</td>
-        <td>Body content</td>
-      </tr>
-      <tr>
+                     <th>Header content</th>
+                     <th>Header content</th>
+                     <th>Header content</th>
+                 </tr>
+             </thead>
+             <tbody>
+                 <tr>
+                     <td>Body content</td>
+                     <td>Body content</td>
+                     <td>Body content</td>
+                     <td>Body content</td>
+                 </tr>
+                 <tr>
         <td>Body content</td>
         <td>Body content</td>
         <td>Body content</td>
