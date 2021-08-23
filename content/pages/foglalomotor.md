@@ -70,7 +70,7 @@ sections:
           automatizáltan zároljuk a szabad kapacitást.
         image: /images/foglalások kezelése átláthatóan.png
         image_alt: Feature 1 placeholder image
-        media_position: right
+        media_position: bottom
         media_width: sixty
       - title: Automatikus adatbekérő
         content: >
