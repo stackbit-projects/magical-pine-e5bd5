@@ -114,7 +114,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - title: lorem-ipsum
+      - title: Naptárszinkron
         content: >-
           ## Lorem ipsum
 
