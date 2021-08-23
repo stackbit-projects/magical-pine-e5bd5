@@ -73,7 +73,7 @@ sections:
         media_position: bottom
         media_width: fifty
         align: center
-      - title: Automatikus adatbekérő
+      - title: Mobilra optimalizált kialakítás
         content: >
           Egy gombnyomásra kérheted be vendégeid adatait, hogy azzal már ne
           kelljen az érkezéskor bajlódnod. Az Appartman rendszerébe pedig
