@@ -177,7 +177,7 @@ sections:
     enable_cards: true
     padding_top: large
     padding_bottom: medium
-    background_color: primary
+    background_color: none
     background_image_opacity: 10
   - type: cta_section
     title: Automatizáld foglalásaid adminisztrációját!
