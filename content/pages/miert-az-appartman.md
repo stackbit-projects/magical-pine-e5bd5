@@ -154,7 +154,6 @@ sections:
                      <td>Footer content</td>
                      <td>Footer content</td>
                      <td>Footer content</td>
-                     <td>Footer content</td>
                  </tr>
              </tfoot>
              </table>
