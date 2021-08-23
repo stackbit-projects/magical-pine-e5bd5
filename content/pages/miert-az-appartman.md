@@ -131,8 +131,8 @@ sections:
             <table>
                  <caption>Table with thead, tfoot, and tbody</caption>
              <thead>
-      <tr>
-        <th>Működj már</th>
+                 <tr>
+                     <th>Működj már</th>
         <th>Header content</th>
         <th>Header content</th>
         <th>Header content</th>
