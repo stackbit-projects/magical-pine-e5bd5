@@ -103,7 +103,7 @@ sections:
         align: left
         type: feature
         image: /images/kimutatások érthetően.png
-      - title: lorem-ipsum
+      - title: Mobilra optimalizált kialakítás
         content: >
           Weboldalba építhető foglalómodulunkkal vendégei naprakészen láthatják
           mikor van szabad szobája és azok milyen feltételekkel foglalhatóak.
