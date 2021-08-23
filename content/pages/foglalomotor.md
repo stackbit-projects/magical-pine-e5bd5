@@ -66,7 +66,7 @@ sections:
       - title: Tartsd naprakészen szabad szobáid minden felületen
         content: >
           Az Appartman foglalómotorja összeköttetésben van a Szállás.hu, Booking
-          és AirBnb közvetítő oldalakkal, így ha bárhol foglalás érkezik
+          és Airbnb közvetítő oldalakkal, így ha bárhol foglalás érkezik
           automatizáltan zároljuk a szabad kapacitást.
         image: /images/foglalások kezelése átláthatóan.png
         image_alt: Feature 1 placeholder image
