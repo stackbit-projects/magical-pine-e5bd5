@@ -129,7 +129,7 @@ sections:
         content: |
          <div class="responsive-table">
             <table>
-                 <caption>Table with thead, tfoot, and tbody</caption>
+                 <caption>Fontosabb funkciók </caption>
              <thead>
                  <tr>
                      <th>Funkció</th>
