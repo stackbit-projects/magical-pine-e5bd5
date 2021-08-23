@@ -133,7 +133,7 @@ sections:
              <thead>
                  <tr>
                      <th>Funkció</th>
-                     <th>Header content</th>
+                     <th>Vendégem</th>
                      <th>Header content</th>
                      <th>Header content</th>
                  </tr>
