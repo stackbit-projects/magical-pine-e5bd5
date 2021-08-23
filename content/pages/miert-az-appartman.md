@@ -126,17 +126,24 @@ sections:
         type: feature
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: |
+          \<div class="responsive-table">
 
+            \<table>
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              \<thead>
 
+                \<tr>
 
-          - Lorem ipsum
+                  \<th>Kokk\</th>
 
-          - dolor sit amet
+               \</tr>
+
+              \</thead>
+
+            \</table>
+
+          \</div>
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
