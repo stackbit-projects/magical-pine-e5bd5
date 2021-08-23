@@ -30,7 +30,7 @@ sections:
         image_position: top
         image_width: twenty-five
         actions: []
-      - title: NTAK garancia
+      - title: Webnode
         title_align: left
         content_align: left
         image_alt: Section item 2 icon
