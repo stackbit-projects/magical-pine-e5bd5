@@ -121,7 +121,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-    section_id: Szál
+    section_id: S
   - type: cta_section
     title: Automatizáld foglalásaid adminisztrációját!
     actions:
