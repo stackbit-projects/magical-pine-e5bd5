@@ -151,6 +151,7 @@ sections:
     padding_top: none
     background_color: none
     has_border: true
+    padding_bottom: large
   - type: cta_section
     title: Automatizáld foglalásaid adminisztrációját!
     actions:
