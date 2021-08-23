@@ -100,7 +100,7 @@ sections:
         align: left
         type: feature
         image: /images/kimutatások érthetően.png
-      - title: lorem-ipsum
+      - title: Hogyan működik a gyakorlatban?
         content: >-
           ## Lorem ipsum
 
