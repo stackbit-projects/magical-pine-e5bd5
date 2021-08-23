@@ -71,7 +71,7 @@ sections:
         image: /images/foglalások kezelése átláthatóan.png
         image_alt: Feature 1 placeholder image
         media_position: bottom
-        media_width: sixty
+        media_width: fifty
         align: center
       - title: Automatikus adatbekérő
         content: >
