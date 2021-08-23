@@ -102,7 +102,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: /images/kimutatások érthetően.png
+        image: /images/regisztráció percek alatt.png
       - title: Hogyan működik a gyakorlatban?
         content: >
           ### 1. lépés
