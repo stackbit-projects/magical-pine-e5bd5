@@ -1,27 +1,6 @@
 ---
 title: Home
 sections:
-  - type: hero_section
-    title: Kezeld szálláshelyed adminisztrációját egyszerűen
-    subtitle: >-
-      Szálláshelykezelő szoftverünkkel automatizáltan, egy helyen kezelheted
-      szálláshelyeid foglalásait és vendéged adatait NTAK barát módon.
-    content: |
-      **1 hónap ingyenes próbaidővel**
-    actions:
-      - label: Ingyenes próba
-        url: /about
-        style: primary
-    align: left
-    padding_top: large
-    padding_bottom: small
-    background_color: none
-    background_image: images/hero-background.jpg
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: left center
-    media_position: right
-    image: /images/hero-8465b111.png
   - type: features_section
     title: >-
       Kíméld meg magad a kényelmetlen adminisztrációtól, és fókuszálj
