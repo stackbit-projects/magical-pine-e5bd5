@@ -124,7 +124,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - title: lorem-ipsum
+      - title: Mivel több az Appartman a Vendégemnél?
         subtitle: lorem-ipsum
         content: |
          <div class="responsive-table">
