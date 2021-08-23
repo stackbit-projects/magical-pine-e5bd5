@@ -249,7 +249,9 @@ sections:
           adat a rendszerbe kerüljön még a vendég érkezése előtt. Adatbekérő
           funkciónkkal a vendég online tölti ki az NTAK adatszolgáltatáshoz
           szükséges adatokat, amely automatikusan továbbítódik az NTAK
-          szervereire. Naptárszinkronunkkal pedig
+          szervereire. Naptárszinkronunkkal pedig a foglalás beérkezésekor a
+          szabad kapacitásaid lemondásra kerülnek a Szallas.hu, Booking és
+          Airbnb oldalakon.
         content_align: left
       - title: 'Mit jelent az, hogy NTAK-barát?'
         title_align: left
