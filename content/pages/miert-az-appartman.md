@@ -127,7 +127,7 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: |
-        <div class="responsive-table">
+         <div class="responsive-table">
             <table>
                  <caption>Table with thead, tfoot, and tbody</caption>
              <thead>
