@@ -145,17 +145,10 @@ sections:
         type: grid_item
       - title: Online számlázás
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Állítsd ki a számlát online, és küldd ki a foglaló email címére pár
+          kattintással applikációnkból. A számlázz.hu és billingo segítségével a
+          rontott számlák miatti sztornózástól sem kell tartanod.
         content_align: left
         actions: []
         actions_align: left
