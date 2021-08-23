@@ -153,6 +153,11 @@ sections:
                      <td>nem</td>
                      <td>igen</td>
                  </tr>
+                 <tr>
+                     <td>Több naptár nézet</td>
+                     <td>nem</td>
+                     <td>igen</td>
+                 </tr>
              </tbody>
              <tfoot>
                  <tr>
