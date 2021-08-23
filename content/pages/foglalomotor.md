@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Automatizáld szálláshelyed adminisztratív teendőit
+    title: Vendégfogadás jutalékmentesen
     subtitle: >-
       Szálláshelykezelő szoftverünkkel felhasználóbarát módon, egyszerűen
       viheted fel szobafoglalásaid, vendégadataid.
