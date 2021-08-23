@@ -171,7 +171,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-    grid_cols: two
+    grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
     enable_cards: false
