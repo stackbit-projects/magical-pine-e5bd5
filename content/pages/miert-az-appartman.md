@@ -132,7 +132,7 @@ sections:
                  <caption>Table with thead, tfoot, and tbody</caption>
              <thead>
                  <tr>
-                     <th>Működj már</th>
+                     <th>Funkció</th>
                      <th>Header content</th>
                      <th>Header content</th>
                      <th>Header content</th>
