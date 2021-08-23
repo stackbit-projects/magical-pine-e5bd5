@@ -159,7 +159,7 @@ sections:
                      <td>igen</td>
                  </tr>
                  <tr>
-                     <td>Automatikus adatbekérő</td>
+                     <td>Naptár szinkron</td>
                      <td>nem</td>
                      <td>igen</td>
                  </tr>
