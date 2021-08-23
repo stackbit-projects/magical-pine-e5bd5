@@ -134,7 +134,7 @@ sections:
                  <tr>
                      <th>Funkció</th>
                      <th>Vendégem</th>
-                     <th>Header content</th>
+                     <th>Appartman</th>
                      <th>Header content</th>
                  </tr>
              </thead>
