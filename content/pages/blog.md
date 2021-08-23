@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Appartman blog
     subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
