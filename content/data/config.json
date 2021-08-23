@@ -19,14 +19,9 @@
                 "style": "link"
             },
             {
-                "label": "Regisztráció",
-                "url": "/thank-you",
-                "style": "primary"
-            },
-            {
-                "label": "Foglalómotor",
-                "url": "/foglalomotor",
-                "style": "secondary",
+                "label": "Áraink",
+                "url": "/araink",
+                "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
                 "icon_position": "right",
@@ -35,9 +30,14 @@
                 "type": "action"
             },
             {
-                "label": "Áraink",
-                "url": "/araink",
-                "style": "link",
+                "label": "Regisztráció",
+                "url": "/thank-you",
+                "style": "primary"
+            },
+            {
+                "label": "Foglalómotor",
+                "url": "/foglalomotor",
+                "style": "secondary",
                 "has_icon": false,
                 "icon": "arrow-left",
                 "icon_position": "right",
