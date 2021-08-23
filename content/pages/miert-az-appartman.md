@@ -146,11 +146,11 @@ sections:
                      <td>Body content</td>
                  </tr>
                  <tr>
-        <td>Body content</td>
-        <td>Body content</td>
-        <td>Body content</td>
-        <td>Body content</td>
-      </tr>
+                     <td>Body content</td>
+                     <td>Body content</td>
+                     <td>Body content</td>
+                     <td>Body content</td>
+                 </tr>
     </tbody>
     <tfoot>
       <tr>
