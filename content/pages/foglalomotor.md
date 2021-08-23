@@ -101,17 +101,45 @@ sections:
         type: feature
         image: /images/kimutatások érthetően.png
       - title: Hogyan működik a gyakorlatban?
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          ### 1. lépés
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          A weboldalra érkező látogató beállítja a dátumot és a vendégek számát,
+          majd a foglalómotorunk ellenőrzi van-e szabad kapacitás és megmutatja
+          azt a vendég számára.
 
 
-          - Lorem ipsum
+          2\. lépés
 
-          - dolor sit amet
+
+          A vendég a foglaláskor megadja az adatait, amely szükséges az NTAK
+          adatszolgáltatáshoz, a rendszerünk pedig lemondja a szabad kapacitást
+          a Szállás.hu-n, Bookingon és AirBnb-n.
+
+
+          3.lépés
+
+
+          A foglaló az email címére automatizált emailt kap a foglalás
+          adataival, előleg összegével és egyéb információkkal.
+
+
+          4.lépés
+
+
+          Az érkezést megelőző hetekben a foglaló egy online adatbekérőt kap az
+          email címére, ahová a kötelező NTAK adatokat kell megadnia.
+
+
+          5.lépés
+
+
+          A rendszerünk az Appartman PMS-sel összekapcsolva automatizáltan
+          biztosítja az adatokat az NTAK részére és egy gombnyomásra elküldi
+          azokat.
+
+
         actions: []
         image_alt: lorem-ipsum
         media_position: top
