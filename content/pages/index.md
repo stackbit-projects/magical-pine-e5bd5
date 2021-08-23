@@ -87,8 +87,8 @@ sections:
       - title: Naptárak szinkronizálása
         title_align: left
         content: >
-          Munkatársaid is kezelhetik a szállás ügyeit, a megadott jogosultságok
-          alapján.
+          Nem kell aggódnod a túlfoglalás miatt a foglalási csatornák
+          szinkronizálásának köszönhetően.
         content_align: left
         image: /images/tobb felhasznalo.png
         image_alt: Section item 2 icon
