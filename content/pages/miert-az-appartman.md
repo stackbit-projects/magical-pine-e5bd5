@@ -135,7 +135,6 @@ sections:
                      <th>Funkció</th>
                      <th>Vendégem</th>
                      <th>Appartman</th>
-                     <th>Header content</th>
                  </tr>
              </thead>
              <tbody>
