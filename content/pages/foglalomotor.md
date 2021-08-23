@@ -101,7 +101,6 @@ sections:
         type: feature
         image: /images/kimutatások érthetően.png
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
