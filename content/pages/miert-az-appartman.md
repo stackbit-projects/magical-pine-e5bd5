@@ -150,7 +150,7 @@ sections:
                  </tr>
                  <tr>
                      <td>Több naptár nézet</td>
-                     <td>igen</td>
+                     <td>nem</td>
                      <td>igen</td>
                  </tr>
              </tbody>
