@@ -42,7 +42,7 @@ sections:
         image_alt: Section item 3 icon
         image_position: top
         image_width: twenty-five
-      - title: Segítőkész ügyfélszolgálat
+      - title: Egyedi weboldal
         title_align: left
         content_align: left
         actions: []
