@@ -117,71 +117,67 @@ sections:
         subtitle: lorem-ipsum
         actions: []
         image_alt: lorem-ipsum
-        video_embed_html: >-
+        video_embed_html: ''
         media_position: top
         media_width: fifty
         align: left
         type: feature
       - title: Mivel több az Appartman a Vendégemnél?
-        subtitle:
+        subtitle: null
         content: |
-         <div class="responsive-table">
-            <table>
-                 <caption>Fontosabb funkciók elérhetősége.</caption>
-             <thead>
-                 <tr>
-                     <th>Funkció</th>
-                     <th>Vendégem</th>
-                     <th>Appartman</th>
-                 </tr>
-             </thead>
-             <tbody>
-                 <tr>
-                     <td>NTAK adatszolgáltatás</td>
-                     <td>igen</td>
-                     <td>igen</td>
-                 </tr>
-                 <tr>
-                     <td>Több felhasználó</td>
-                     <td>igen</td>
-                     <td>igen</td>
-                 </tr>
-                 <tr>
-                     <td>Több naptár nézet</td>
-                     <td>nem</td>
-                     <td>igen</td>
-                 </tr>
-                 <tr>
-                     <td>Automatikus adatbekérő</td>
-                     <td>nem</td>
-                     <td>igen</td>
-                 </tr>
-                 <tr>
-                     <td>Naptár szinkron</td>
-                     <td>nem</td>
-                     <td>igen</td>
-                 </tr>
-                 <tr>
-                     <td>Foglalómotor</td>
-                     <td>nem</td>
-                     <td>igen</td>
-                 </tr>
-             </tbody>
-             <tfoot>
-                 <tr>
-                     <td>Átlátható felület</td>
-                     <td>nem</td>
-                     <td>igen</td>
-                 </tr>
-             </tfoot>
-             </table>
-         </div>
-
+          <div class="responsive-table">
+             <table>
+                  <caption>Fontosabb funkciók elérhetősége.</caption>
+              <thead>
+                  <tr>
+                      <th>Funkció</th>
+                      <th>Vendégem</th>
+                      <th>Appartman</th>
+                  </tr>
+              </thead>
+              <tbody>
+                  <tr>
+                      <td>NTAK adatszolgáltatás</td>
+                      <td>igen</td>
+                      <td>igen</td>
+                  </tr>
+                  <tr>
+                      <td>Több felhasználó</td>
+                      <td>igen</td>
+                      <td>igen</td>
+                  </tr>
+                  <tr>
+                      <td>Több naptár nézet</td>
+                      <td>nem</td>
+                      <td>igen</td>
+                  </tr>
+                  <tr>
+                      <td>Automatikus adatbekérő</td>
+                      <td>nem</td>
+                      <td>igen</td>
+                  </tr>
+                  <tr>
+                      <td>Naptár szinkron</td>
+                      <td>nem</td>
+                      <td>igen</td>
+                  </tr>
+                  <tr>
+                      <td>Foglalómotor</td>
+                      <td>nem</td>
+                      <td>igen</td>
+                  </tr>
+              </tbody>
+              <tfoot>
+                  <tr>
+                      <td>Átlátható felület</td>
+                      <td>nem</td>
+                      <td>igen</td>
+                  </tr>
+              </tfoot>
+              </table>
+          </div>
         actions: []
         image_alt: lorem-ipsum
-        video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
         media_position: top
         media_width: fifty
         align: left
