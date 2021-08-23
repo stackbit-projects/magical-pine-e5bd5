@@ -104,17 +104,10 @@ sections:
         type: feature
         image: /images/kimutatások érthetően.png
       - title: Online vendégkönyv
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Kinyomtatható online vendégkönyvünk segít, hogy megszabadulhass a
+          kockás papírtól. Ha kéri valaki, egyszerűen csak nyomtasd ki vagy
+          töltsd le Pdf-ben.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
