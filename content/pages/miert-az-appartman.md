@@ -174,7 +174,7 @@ sections:
     grid_cols: two
     grid_gap_horiz: small
     grid_gap_vert: small
-    enable_cards: true
+    enable_cards: false
     padding_top: large
     padding_bottom: medium
     background_color: none
