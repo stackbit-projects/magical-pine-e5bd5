@@ -148,6 +148,11 @@ sections:
                      <td>igen</td>
                      <td>igen</td>
                  </tr>
+                                  <tr>
+                     <td>Több felhasználó</td>
+                     <td>igen</td>
+                     <td>igen</td>
+                 </tr>
              </tbody>
              <tfoot>
                  <tr>
