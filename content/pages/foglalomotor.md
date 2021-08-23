@@ -91,6 +91,7 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: sixty
+        align: center
       - title: Regisztráció percek alatt
         content: >
           Szálláshelyed admin felületén percek adhatod meg lakóegységeid,
