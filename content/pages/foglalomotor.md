@@ -72,7 +72,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: bottom
         media_width: sixty
-        align: right
+        align: left
       - title: Automatikus adatbekérő
         content: >
           Egy gombnyomásra kérheted be vendégeid adatait, hogy azzal már ne
