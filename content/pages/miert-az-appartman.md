@@ -164,7 +164,7 @@ sections:
                      <td>igen</td>
                  </tr>
                  <tr>
-                     <td>Naptár szinkron</td>
+                     <td>Foglalómotor</td>
                      <td>nem</td>
                      <td>igen</td>
                  </tr>
