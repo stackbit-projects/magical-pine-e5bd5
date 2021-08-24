@@ -122,7 +122,8 @@ sections:
                   <tr>
                       <td>Több felhasználó</td>
                       <td>igen</td>
-                      <td> image: /images/ntak-plusz-funkciok.png</td>
+                      <td> 
+                      image: /images/ntak-plusz-funkciok.png</td>
                   </tr>
                   <tr>
                       <td>Több naptár nézet</td>
