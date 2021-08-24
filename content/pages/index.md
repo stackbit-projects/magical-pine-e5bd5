@@ -91,7 +91,7 @@ sections:
           A foglalás beérkezésekor a szabad kapacitásaid lemondásra kerülnek a
           Szallas.hu, Booking és Airbnb oldalakon.
         content_align: left
-        image: /images/tobb felhasznalo.png
+        image: /images/naptar-szinkronizalas-pms-ical-airbnb-szallashu-booking.png
         image_alt: Section item 2 icon
         image_position: top
         image_width: twenty-five
