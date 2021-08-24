@@ -123,7 +123,7 @@ sections:
                       <td>Több felhasználó</td>
                       <td>igen</td>
                       <td> 
-                      <img src="Photos/2010/DSC_0113one.jpg" width="200"
+                      <img src="images/h.jpg" width="200"
                          </td>
                   </tr>
                   <tr>
