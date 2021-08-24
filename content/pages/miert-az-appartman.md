@@ -122,9 +122,7 @@ sections:
                   <tr>
                       <td>Több felhasználó</td>
                       <td>igen</td>
-                      <td> 
-                         <img src="images/naptar-szinkronizalas-pms-ical-airbnb-szallashu-booking.png" width="200"
-                             </td>
+                      <td>igen</td>
                   </tr>
                   <tr>
                       <td>Több naptár nézet</td>
