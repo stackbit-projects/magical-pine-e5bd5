@@ -123,7 +123,7 @@ sections:
                       <td>Több felhasználó</td>
                       <td>igen</td>
                       <td> 
-                      image: /images/ntak-plusz-funkciok.png
+                      <img src="Photos/2010/DSC_0113one.jpg" width="200"
                          </td>
                   </tr>
                   <tr>
