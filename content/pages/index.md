@@ -128,7 +128,7 @@ sections:
     background_color: none
     background_image_opacity: 10
   - type: cta_section
-    title: Egyszerű szálláshely-adminisztráció. 2021 végéig ingyenesen.*
+    title: Egyszerű szálláshely-adminisztráció. 2022 márciusig ingyenesen.*
     actions:
       - label: Ingyenes próba
         url: /thank-you
