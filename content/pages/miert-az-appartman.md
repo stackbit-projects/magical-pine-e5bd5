@@ -123,7 +123,7 @@ sections:
                       <td>Több felhasználó</td>
                       <td>igen</td>
                       <td> 
-                      <img src="images/h.jpg" width="200"
+                      <img src="images/naptar-szinkronizalas-pms-ical-airbnb-szallashu-booking.png" width="200"
                          </td>
                   </tr>
                   <tr>
