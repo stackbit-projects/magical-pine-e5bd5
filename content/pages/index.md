@@ -315,7 +315,9 @@ sections:
       Ügyfélszolgálatunk 24 órán belül válaszol bármilyen kérdésre.
 seo:
   title: Appartman – Egyszerű szálláshelykezelés
-  description: The preview of the Event theme
+  description: >-
+    Az Appartmannal egy helyen kezelheted magánszálláshelyed, megfelelve az NTAK
+    és a VIZA követelményeinek.
   extra:
     - name: 'og:type'
       value: website
