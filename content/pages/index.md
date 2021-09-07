@@ -326,7 +326,9 @@ seo:
       value: Appartman – Egyszerű szálláshelykezelés
       keyName: property
     - name: 'og:description'
-      value: The preview of the Event theme
+      value: >-
+        Az Appartmannal egy helyen kezelheted magánszálláshelyed, megfelelve az
+        NTAK és a VIZA követelményeinek.
       keyName: property
     - name: 'og:image'
       value: /images/profilkép (1).png
