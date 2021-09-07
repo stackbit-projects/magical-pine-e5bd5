@@ -314,7 +314,7 @@ sections:
       mellett segítse a szállásadók adminisztrációját az első lépésekben is.
       Ügyfélszolgálatunk 24 órán belül válaszol bármilyen kérdésre.
 seo:
-  title: Stackbit Event Theme
+  title: Appartman – Egyszerű szálláshelykezelés
   description: The preview of the Event theme
   extra:
     - name: 'og:type'
