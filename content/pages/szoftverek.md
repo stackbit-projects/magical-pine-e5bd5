@@ -96,7 +96,7 @@ sections:
   - section_id: lorem-ipsum
     title_align: left
     content: |
-      ## Érdeklődjön a részletekről szakértőinktől!
+      ## Jelentkezz interjúra, vagy béta-tesztelőnek!
     content_align: left
     form_position: right
     form_width: fifty
