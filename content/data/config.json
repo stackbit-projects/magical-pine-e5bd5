@@ -10,7 +10,7 @@
         "title": "Event",
         "logo": "/images/Appartman-1.png",
         "logo_alt": "Event logo",
-        "has_primary_nav": false,
+        "has_primary_nav": true,
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
