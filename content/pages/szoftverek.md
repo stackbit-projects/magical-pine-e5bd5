@@ -110,7 +110,7 @@ sections:
         is_required: true
         type: form_field
       - input_type: select
-        name: jelentkezes-opciok
+        name: Jelentkezés opciók
         label: Mire szertenél jelentkezni?
         default_value: Válassz...
         options:
