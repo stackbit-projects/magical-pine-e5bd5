@@ -124,7 +124,7 @@ sections:
         label: Üzenet
         default_value: Írd le az üzeneted
         options:
-          - lorem-ipsum
+          - interjú
           - lorem-ipsum
         is_required: true
         type: form_field
