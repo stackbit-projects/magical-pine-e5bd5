@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Vendégfogadás jutalékmentesen, foglalómotorunkkal'
+    title: Hatékony szoftverek magánszállásoknak
     subtitle: >-
       Weboldalba építhető foglalómotorunkkal automatizáltan fogadhatod a
       vendégeidet anélkül, hogy ajánlatkérő emailekre kellene válaszolnod.
