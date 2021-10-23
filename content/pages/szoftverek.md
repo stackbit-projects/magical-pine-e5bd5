@@ -44,7 +44,7 @@ sections:
         image_align: left
         image_has_padding: false
         subtitle: 'Érkezik: 2021 november'
-      - title: lorem-ipsum
+      - title: Szálláshely-kezelő
         subtitle: lorem-ipsum
         title_align: left
         content: >-
