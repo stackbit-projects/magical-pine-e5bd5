@@ -22,7 +22,7 @@ sections:
     background_image_position: left center
     media_position: right
     image: /images/foglalómotor hero.png
-  - section_id: lorem-ipsum
+  - section_id: termekeink
     title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
