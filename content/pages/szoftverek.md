@@ -126,7 +126,7 @@ sections:
         options:
           - interjú
           - béta-teszt
-          - 'interjú '
+          - interjú és béta-teszt
         is_required: true
         type: form_field
     submit_label: Küldés
