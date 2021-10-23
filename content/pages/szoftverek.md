@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Hatékony szoftverek magánszállásoknak
     subtitle: >-
-      Weboldalba építhető foglalómotorunkkal automatizáltan fogadhatod a
-      vendégeidet anélkül, hogy ajánlatkérő emailekre kellene válaszolnod.
+      Csökkentsd az adminisztrációt egyszerű foglalómotorunkkal és
+      szálláshely-kezelőnkkel.
     content: |
       **1 hónap ingyenes próbaidővel**
     actions:
