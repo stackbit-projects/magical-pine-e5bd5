@@ -64,7 +64,7 @@ sections:
     background_image_opacity: 10
   - type: features_section
     features:
-      - title: Tartsd naprakészen szabad szobáid minden felületen
+      - title: Szoftvereink fejlesztés alatt állnak
         content: >
           Az Appartman foglalómotorja összeköttetésben van a Szállás.hu, Booking
           és Airbnb közvetítő oldalakkal, így ha bárhol foglalás érkezik
