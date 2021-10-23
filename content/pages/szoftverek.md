@@ -38,15 +38,6 @@ sections:
         media_position: bottom
         media_width: fifty
         align: center
-      - title: Bármilyen weboldalba beilleszthető
-        content: >
-          Egyszerűen illeszd be a kódsorunkat a weboldaladba vagy készíts róla
-          linket percek alatt.
-        image_alt: Feature 3 placeholder image
-        media_position: right
-        media_width: sixty
-        align: left
-        image: /images/minden weboldalba beépíthető-6311b71e.png
       - title: Regisztráció percek alatt
         content: >
           Szálláshelyed admin felületén percek adhatod meg lakóegységeid,
