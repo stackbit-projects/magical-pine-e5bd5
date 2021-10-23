@@ -45,7 +45,7 @@ sections:
     has_border: true
     padding_bottom: large
   - type: cta_section
-    title: 'Egyszerű foglalómotor, '
+    title: 'Egyszerű foglalómotor, fix havi előfizetéssel, '
     actions:
       - label: Tovább a foglalómotorra
         url: /thank-you
