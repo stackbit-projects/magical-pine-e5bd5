@@ -125,7 +125,7 @@ sections:
         default_value: Írd le az üzeneted
         options:
           - interjú
-          - lorem-ipsum
+          - béta-teszt
         is_required: true
         type: form_field
     submit_label: Küldés
