@@ -62,9 +62,8 @@ sections:
     background_image: /images/profilkép-1.png
     background_image_opacity: 100
     content: >
-      Csapatunk azon dolgozik, hogy a szoftver felhasználóbarát kialakítása
-      mellett segítse a szállásadók adminisztrációját az első lépésekben is.
-      Ügyfélszolgálatunk 24 órán belül válaszol bármilyen kérdésre.
+      Próbáld ki a weboldalba építhető, illetve különálló oldalként is
+      funkcionáló, villámgyors, mobiloptimalizált foglalómotorunkat!
   - section_id: lorem-ipsum
     title_align: left
     content: |
