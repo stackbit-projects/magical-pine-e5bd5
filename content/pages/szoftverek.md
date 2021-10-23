@@ -9,7 +9,7 @@ sections:
     content: |
       ***
     actions:
-      - label: Ingyenes próba
+      - label: Foglalómotor demo
         url: /about
         style: primary
     align: left
