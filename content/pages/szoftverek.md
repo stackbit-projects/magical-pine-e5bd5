@@ -48,13 +48,13 @@ sections:
         subtitle: 'Érkezik: 2022 tavasz'
         title_align: left
         content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Felhasználóbarát szálláshely-adminisztráció NTAK összekötéssel, és
+          kényelmi funkciókkal.
 
 
-          *   Lorem ipsum
+          *   channel manager
 
-          *   dolor sit amet
+          *   okmányolvasó
         content_align: left
         actions: []
         actions_align: left
