@@ -38,17 +38,6 @@ sections:
         media_position: bottom
         media_width: fifty
         align: center
-      - title: Regisztráció percek alatt
-        content: >
-          Szálláshelyed admin felületén percek adhatod meg lakóegységeid,
-          szobáid kapacitását és kezdheted el a vendégfogadást.
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: right
-        media_width: fifty
-        align: left
-        type: feature
-        image: /images/regisztráció percek alatt.png
     feature_padding_vert: large
     align: center
     padding_top: large
