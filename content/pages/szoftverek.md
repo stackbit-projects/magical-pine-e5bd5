@@ -24,7 +24,7 @@ sections:
     image: /images/foglalómotor hero.png
   - section_id: appartman-termekek
     title: 'Termékeink '
-    subtitle: Termékeink
+    subtitle: Szoftvereink magánszálláshelyeknek
     actions: []
     grid_items: []
     grid_cols: three
