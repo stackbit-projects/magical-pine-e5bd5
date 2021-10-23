@@ -119,7 +119,7 @@ sections:
         options: []
         is_required: true
         type: form_field
-      - input_type: checkbox
+      - input_type: select
         name: lorem-ipsum
         label: Üzenet
         default_value: Írd le az üzeneted
