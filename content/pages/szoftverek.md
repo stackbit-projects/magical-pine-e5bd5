@@ -120,7 +120,7 @@ sections:
         is_required: true
         type: form_field
       - input_type: select
-        name: lorem-ipsum
+        name: jelentkezes-opciok
         label: Üzenet
         default_value: Írd le az üzeneted
         options:
