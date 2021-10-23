@@ -29,17 +29,11 @@ sections:
     grid_items:
       - title: Foglalómotor
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          Letisztult, egyszerű foglalómotor magánszálláshelyeknek. 
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   önálló weboldalként, személyre szabott domainnel
+          *   weboldalba építve
         content_align: left
         actions: []
         actions_align: left
