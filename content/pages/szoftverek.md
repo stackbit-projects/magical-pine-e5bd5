@@ -7,7 +7,7 @@ sections:
       Csökkentsd az adminisztrációt egyszerű foglalómotorunkkal és
       szálláshely-kezelőnkkel.
     content: |
-      **1 hónap ingyenes próbaidővel**
+      ****
     actions:
       - label: Ingyenes próba
         url: /about
