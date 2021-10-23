@@ -111,7 +111,7 @@ sections:
         type: form_field
       - input_type: select
         name: jelentkezes-opciok
-        label: Üzenet
+        label: Mire szertenél jelentkezni?
         default_value: Írd le az üzeneted
         options:
           - interjú
