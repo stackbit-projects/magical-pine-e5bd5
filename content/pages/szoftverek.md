@@ -23,7 +23,7 @@ sections:
     media_position: right
     image: /images/foglalómotor hero.png
   - section_id: appartman-termekek
-    title: 'szoftverek '
+    title: 'Termékeink '
     subtitle: Termékeink
     actions: []
     grid_items: []
