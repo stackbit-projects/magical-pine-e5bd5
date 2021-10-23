@@ -24,7 +24,7 @@ sections:
     image: /images/foglalómotor hero.png
   - section_id: appartman-termekek
     title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Termékeink
     actions: []
     grid_items: []
     grid_cols: three
