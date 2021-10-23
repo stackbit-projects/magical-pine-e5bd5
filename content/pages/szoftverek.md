@@ -38,14 +38,6 @@ sections:
         media_position: bottom
         media_width: fifty
         align: center
-      - title: Mobilra optimalizált kialakítás
-        content: >
-          Foglalómotorunkat minden képernyőn könnyen kezelhetőre terveztük, hogy
-          megkönnyítsük a foglalások leadását.
-        image: /images/mobilra optimalizált kialakítás-a4e60086.png
-        image_alt: Feature 2 placeholder image
-        media_position: right
-        media_width: sixty
       - title: Bármilyen weboldalba beilleszthető
         content: >
           Egyszerűen illeszd be a kódsorunkat a weboldaladba vagy készíts róla
