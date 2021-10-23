@@ -68,9 +68,10 @@ sections:
           Vegyél részt a fejlesztésben: jelentkezz interjúra, vagy
           béta-tesztelőnek!
         content: >
-          Az Appartman foglalómotorja összeköttetésben van a Szállás.hu, Booking
-          és Airbnb közvetítő oldalakkal, így ha bárhol foglalás érkezik
-          automatizáltan zároljuk a szabad kapacitást.
+          Szállásadóként hozzájárulhatsz egy minél tökéletesebb,
+          felhasználóbarát szálláshely-kezelő létrejöttéhez. Nem kell mást
+          tenned, mint jelentkezned egy online, 1 órás interjúra. A résztvevők
+          jutalmazásban is részesülnek.
         image: >-
           /images/foglalasi-csatornak-airbnb-szallashu-booking-osszehangolasa.png
         image_alt: Feature 1 placeholder image
