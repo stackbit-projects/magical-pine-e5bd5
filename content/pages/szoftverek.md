@@ -45,7 +45,7 @@ sections:
     has_border: true
     padding_bottom: large
   - type: cta_section
-    title: Automatizáld foglalásaid adminisztrációját!
+    title: 'Egyszerű foglalómotor, '
     actions:
       - label: Tovább a foglalómotorra
         url: /thank-you
