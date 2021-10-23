@@ -112,7 +112,7 @@ sections:
       - input_type: select
         name: jelentkezes-opciok
         label: Mire szertenél jelentkezni?
-        default_value: Írd le az üzeneted
+        default_value: Válassz...
         options:
           - interjú
           - béta-teszt
