@@ -100,26 +100,6 @@ sections:
     background_color: none
     has_border: true
     padding_bottom: large
-  - type: cta_section
-    title: 'Egyszerű foglalómotor, fix havi előfizetéssel, rejtett költségek nélkül'
-    actions:
-      - label: Tovább a foglalómotorra
-        url: /thank-you
-        style: primary
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    background_image: /images/profilkép-1.png
-    background_image_opacity: 100
-    content: >
-      Próbáld ki a weboldalba építhető, illetve különálló oldalként is
-      funkcionáló, villámgyors, mobiloptimalizált foglalómotorunkat!
   - section_id: lorem-ipsum
     title_align: left
     content: |
@@ -167,6 +147,26 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
+  - type: cta_section
+    title: 'Egyszerű foglalómotor, fix havi előfizetéssel, rejtett költségek nélkül'
+    actions:
+      - label: Tovább a foglalómotorra
+        url: /thank-you
+        style: primary
+        has_icon: true
+        icon: arrow-right
+        icon_position: right
+    actions_position: right
+    actions_width: fourty
+    align: left
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
+    background_image: /images/profilkép-1.png
+    background_image_opacity: 100
+    content: >
+      Próbáld ki a weboldalba építhető, illetve különálló oldalként is
+      funkcionáló, villámgyors, mobiloptimalizált foglalómotorunkat!
 seo:
   title: Stackbit Event Theme
   description: The preview of the Event theme
