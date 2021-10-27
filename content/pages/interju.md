@@ -7,10 +7,8 @@ sections:
       Szoftvereinket a kis szállásadók igényeire szabjuk. Magánszállásadóként
       egy egy órás interjúval nagy mértékben hozzájárulhatsz, hogy nemsokára egy
       igazán felhasználóbarát és egyszerű megoldást is létezzen a piacon.
-    content: >
-      #### Tervezett megoldásaink a kis szálláshelyek foglalásokkal,
-      adminisztrációval és kötelező adatszolgáltatással kapcsolatos problémáit
-      szeretnék minél jobban megoldani.
+    content: |
+      ####
     actions: []
     align: center
     padding_top: large
