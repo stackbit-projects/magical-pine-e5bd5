@@ -21,46 +21,6 @@ sections:
     background_image_size: cover
     background_image_position: left center
     media_position: right
-  - type: grid_section
-    grid_items:
-      - title: WordPress
-        title_align: left
-        content_align: left
-        image_alt: Section item 1 icon
-        image_position: top
-        image_width: twenty-five
-        actions: []
-      - title: Webnode
-        title_align: left
-        content_align: left
-        image_alt: Section item 2 icon
-        image_position: top
-        image_width: twenty-five
-      - title: Wix
-        title_align: left
-        content_align: left
-        image_alt: Section item 3 icon
-        image_position: top
-        image_width: twenty-five
-      - title: Egyedi weboldal
-        title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    enable_cards: false
-    align: center
-    background_color: none
-    background_image_opacity: 10
   - type: features_section
     features:
       - title: Tartsd naprakészen szabad szobáid minden felületen
