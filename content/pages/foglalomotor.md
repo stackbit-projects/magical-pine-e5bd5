@@ -177,7 +177,7 @@ sections:
         is_required: false
       - input_type: email
         name: Email cím
-        label: email-cim
+        label: Email cím
         options: []
         is_required: false
     submit_label: Feliratkozás a várólistára
