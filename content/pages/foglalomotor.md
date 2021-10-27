@@ -205,15 +205,6 @@ sections:
         options: []
         is_required: true
         type: form_field
-      - input_type: textarea
-        name: lorem-ipsum
-        label: Üzenet
-        default_value: Írd le az üzeneted
-        options:
-          - lorem-ipsum
-          - lorem-ipsum
-        is_required: true
-        type: form_field
     submit_label: Küldés
     align_vert: middle
     padding_top: medium
