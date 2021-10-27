@@ -172,7 +172,8 @@ sections:
       - input_type: text
         name: Név
         label: Név
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
       - input_type: text
         name: lorem-ipsum
