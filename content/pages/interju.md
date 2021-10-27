@@ -51,50 +51,6 @@ sections:
         media_width: sixty
         align: left
         image: /images/minden weboldalba beépíthető-6311b71e.png
-      - title: Hogyan működik a gyakorlatban?
-        content: >
-          ### 1. lépés
-
-
-          A weboldalra érkező látogató beállítja a dátumot és a vendégek számát,
-          majd a foglalómotorunk ellenőrzi van-e szabad kapacitás és megmutatja
-          azt a vendég számára.
-
-
-          ### 2. lépés
-
-
-          A vendég a foglaláskor megadja az adatait, amely szükséges az NTAK
-          adatszolgáltatáshoz, a rendszerünk pedig lemondja a szabad kapacitást
-          a Szállás.hu-n, Bookingon és AirBnb-n.
-
-
-          ### 3.lépés
-
-
-          A foglaló az email címére automatizált emailt kap a foglalás
-          adataival, előleg összegével és egyéb információkkal.
-
-
-          ### 4.lépés
-
-
-          Az érkezést megelőző hetekben a foglaló egy online adatbekérőt kap az
-          email címére, ahová a kötelező NTAK adatokat kell megadnia.
-
-
-          ### 5.lépés
-
-
-          A rendszerünk az Appartman PMS-sel összekapcsolva automatizáltan
-          biztosítja az adatokat az NTAK részére és egy gombnyomásra elküldi
-          azokat.
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: left
-        type: feature
     feature_padding_vert: large
     align: center
     padding_top: large
