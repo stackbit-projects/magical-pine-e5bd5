@@ -200,17 +200,24 @@ sections:
       - title: Foglalómotor
         subtitle: Elérhető
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          Letisztult, egyszerű foglalómotor magánszálláshelyeknek
 
+          *   foglaltság naptár
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   szálláshely építő
 
+          *   többféle árazás
 
-          - Lorem ipsum
+          *   automatikus visszaigazoló emailek
 
-          - dolor sit amet
+          *Hamarosan*
+
+          *   *naptárszinkron (Szallas.hu, Booking, Airbnb)*
+
+          *   *beágyazás weboldalba*
+
+          *   *szálláshelykezelő szinkron (NTAK foglalási adatok) *
         content_align: left
         actions: []
         actions_align: left
