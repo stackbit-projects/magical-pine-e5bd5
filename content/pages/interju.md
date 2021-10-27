@@ -20,10 +20,8 @@ sections:
     media_position: right
   - section_id: foglalomotor-feliratkozas
     title_align: left
-    content: >
-      ## Iratkozz fel a várólistánkra, és próbáld ki elsőként a
-      foglalómotorunkat!
-
+    content: |
+      ## Jelentkezz hozzánk egy felhasználói interjúra!
 
       A feliratkozást követő 1-2 hétben emailben küldünk egy demó hozzáférést.
     content_align: left
