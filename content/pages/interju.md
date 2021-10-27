@@ -50,7 +50,7 @@ sections:
         label: Email cím
         options: []
         is_required: false
-    submit_label: Feliratkozás a várólistára
+    submit_label: Jelentkezés
     align_vert: middle
     padding_top: medium
     padding_bottom: medium
