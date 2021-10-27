@@ -8,10 +8,7 @@ sections:
       hozzájárulhatsz, hogy egy felhasználóbarát szoftvert dobjunk piacra.
     content: |
       ****
-    actions:
-      - label: Ingyenes próba
-        url: /about
-        style: primary
+    actions: []
     align: center
     padding_top: large
     padding_bottom: small
