@@ -153,27 +153,6 @@ sections:
     background_color: none
     has_border: true
     padding_bottom: large
-  - type: cta_section
-    title: Automatizáld foglalásaid adminisztrációját!
-    actions:
-      - label: Ingyenes próba
-        url: /thank-you
-        style: primary
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    background_image: /images/profilkép-1.png
-    background_image_opacity: 100
-    content: >
-      Csapatunk azon dolgozik, hogy a szoftver felhasználóbarát kialakítása
-      mellett segítse a szállásadók adminisztrációját az első lépésekben is.
-      Ügyfélszolgálatunk 24 órán belül válaszol bármilyen kérdésre.
 seo:
   title: Stackbit Event Theme
   description: The preview of the Event theme
