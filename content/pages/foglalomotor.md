@@ -174,7 +174,7 @@ sections:
       Csapatunk azon dolgozik, hogy a szoftver felhasználóbarát kialakítása
       mellett segítse a szállásadók adminisztrációját az első lépésekben is.
       Ügyfélszolgálatunk 24 órán belül válaszol bármilyen kérdésre.
-  - section_id: lorem-ipsum
+  - section_id: foglalomotor-varolista
     title_align: left
     content: |
       ## Érdeklődjön a részletekről szakértőinktől!
