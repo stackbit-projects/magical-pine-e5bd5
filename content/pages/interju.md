@@ -52,7 +52,7 @@ sections:
         is_required: false
       - input_type: select
         name: 'Szálláshelyed mérete (átlagolva, ha több van)'
-        default_value: lorem-ipsum
+        default_value: Férőhelyek száma (fő)
         options: []
         is_required: false
     submit_label: Jelentkezés
