@@ -58,7 +58,7 @@ sections:
           - 7-16 fő
           - 16-30 fő
         is_required: false
-        label: 'Szálláshelyed mérete (átlagolva, ha több van)'
+        label: 'Szálláshelyed mérete (a legnagyobb, ha több van)'
     submit_label: Jelentkezés
     align_vert: middle
     padding_top: medium
