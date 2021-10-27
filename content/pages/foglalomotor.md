@@ -175,7 +175,7 @@ sections:
         options:
           - lorem-ipsum
         is_required: false
-      - input_type: text
+      - input_type: email
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
