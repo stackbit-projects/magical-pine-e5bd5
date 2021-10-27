@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: Legyél részese a jövő szoftvereinek fejlesztésének
     subtitle: >-
-      Magánszállásadóként egy egy órás interjúval nagy mértékben
-      hozzájárulhatsz, hogy egy felhasználóbarát szoftvert dobjunk piacra.
+      Szoftvereinket a kis szállásadók igényeire szabjuk. Magánszállásadóként
+      egy egy órás interjúval nagy mértékben hozzájárulhatsz, hogy egy
+      felhasználóbarát szoftvert dobjunk piacra.
     content: |
       ****
     actions: []
