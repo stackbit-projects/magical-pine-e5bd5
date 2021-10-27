@@ -176,8 +176,13 @@ sections:
       Ügyfélszolgálatunk 24 órán belül válaszol bármilyen kérdésre.
   - section_id: foglalomotor-varolista
     title_align: left
-    content: |
-      ## Érdeklődjön a részletekről szakértőinktől!
+    content: >
+      ## Iratkozz fel a várólistánkra és próbáld ki elsőként a
+      foglalómotorunkat!
+
+
+      A feliratkozást követő két héten belül küldünk egy demó hozzáférést a
+      megadott email címre.
     content_align: left
     form_position: right
     form_width: fifty
