@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Legyél részese a jövő szoftvereinek fejlesztésének
     subtitle: >-
-      Weboldalba építhető foglalómotorunkkal automatizáltan fogadhatod a
-      vendégeidet anélkül, hogy ajánlatkérő emailekre kellene válaszolnod.
+      Magánszállásadóként egy egy órás interjúval nagy mértékben
+      hozzájárulhatsz, hogy egy felhasználóbarát szoftvert dobjunk piacra.
     content: |
       **1 hónap ingyenes próbaidővel**
     actions:
