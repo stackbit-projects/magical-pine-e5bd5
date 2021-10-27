@@ -154,7 +154,6 @@ sections:
     has_border: true
     padding_bottom: large
   - section_id: foglalomotor-feliratkozas
-    subtitle: lorem-ipsum
     title_align: left
     content: >-
       ## Lorem ipsum
