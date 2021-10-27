@@ -8,7 +8,7 @@ sections:
       egy egy órás interjúval nagy mértékben hozzájárulhatsz, hogy nemsokára egy
       igazán felhasználóbarát és egyszerű megoldást is létezzen a piacon.
     content: >
-      ## Tervezett megoldásaink a kis szálláshelyek foglalásokkal,
+      #### Tervezett megoldásaink a kis szálláshelyek foglalásokkal,
       adminisztrációval és kötelező adatszolgáltatással kapcsolatos problémáit
       szeretnék minél jobban megoldani.
     actions: []
