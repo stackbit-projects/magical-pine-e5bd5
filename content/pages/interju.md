@@ -12,7 +12,7 @@ sections:
       - label: Ingyenes próba
         url: /about
         style: primary
-    align: left
+    align: center
     padding_top: large
     padding_bottom: small
     background_color: none
