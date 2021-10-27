@@ -192,7 +192,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - section_id: lorem-ipsum
+  - section_id: appartman-termekek
     title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
