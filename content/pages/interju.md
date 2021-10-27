@@ -42,15 +42,6 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: right
         media_width: sixty
-      - title: Bármilyen weboldalba beilleszthető
-        content: >
-          Egyszerűen illeszd be a kódsorunkat a weboldaladba vagy készíts róla
-          linket percek alatt.
-        image_alt: Feature 3 placeholder image
-        media_position: right
-        media_width: sixty
-        align: left
-        image: /images/minden weboldalba beépíthető-6311b71e.png
     feature_padding_vert: large
     align: center
     padding_top: large
