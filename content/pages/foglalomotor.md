@@ -201,9 +201,9 @@ sections:
         subtitle: Elérhető
         title_align: left
         content: |
-          Letisztult, egyszerű foglalómotor magánszálláshelyeknek
+          ###### Letisztult, egyszerű foglalómotor magánszálláshelyeknek
 
-          *   foglaltság naptár
+          foglaltság naptár
 
           *   szálláshely építő
 
@@ -217,7 +217,7 @@ sections:
 
           *   *beágyazás weboldalba*
 
-          *   *szálláshelykezelő szinkron (NTAK foglalási adatok) *
+          *   \*szálláshelykezelő szinkron (NTAK foglalási adatok) \*
         content_align: left
         actions: []
         actions_align: left
