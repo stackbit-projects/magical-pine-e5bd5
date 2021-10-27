@@ -217,7 +217,7 @@ sections:
 
           *   *beágyazás weboldalba*
 
-          *   \*szálláshelykezelő szinkron (NTAK foglalási adatok) \*
+          *   *szálláshelykezelő szinkron (NTAK foglalási adatok)*
         content_align: left
         actions: []
         actions_align: left
