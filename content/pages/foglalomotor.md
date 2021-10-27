@@ -194,7 +194,7 @@ sections:
     type: form_section
   - section_id: appartman-termekek
     title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Egyszerű szoftverek magánszálláshelyeknek
     actions: []
     grid_items: []
     grid_cols: three
