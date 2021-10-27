@@ -50,6 +50,12 @@ sections:
         label: Email cím
         options: []
         is_required: false
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
     submit_label: Jelentkezés
     align_vert: middle
     padding_top: medium
