@@ -51,7 +51,7 @@ sections:
         options: []
         is_required: false
       - input_type: select
-        name: Szálláshelyed m
+        name: 'Szálláshelyed mérete (átlagolva, ha több van)'
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
