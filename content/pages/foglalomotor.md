@@ -178,7 +178,6 @@ sections:
       - input_type: email
         name: Email cím
         label: lorem-ipsum
-        default_value: lorem-ipsum
         options: []
         is_required: false
     submit_label: Feliratkozás a várólistára
