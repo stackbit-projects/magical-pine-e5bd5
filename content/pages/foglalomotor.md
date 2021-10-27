@@ -174,48 +174,6 @@ sections:
       Csapatunk azon dolgozik, hogy a szoftver felhasználóbarát kialakítása
       mellett segítse a szállásadók adminisztrációját az első lépésekben is.
       Ügyfélszolgálatunk 24 órán belül válaszol bármilyen kérdésre.
-  - section_id: foglalomotor-varolista
-    title_align: left
-    content: >
-      ## Iratkozz fel a várólistánkra és próbáld ki elsőként a
-      foglalómotorunkat!
-
-
-      A feliratkozást követő két héten belül küldünk egy demó hozzáférést a
-      megadott email címre.
-    content_align: left
-    form_position: right
-    form_width: fifty
-    form_layout: stacked
-    enable_card: true
-    form_id: varolista
-    form_action: lorem-ipsum
-    form_fields:
-      - input_type: text
-        name: Név
-        label: Név
-        default_value: Írd be a neved
-        options: []
-        is_required: false
-        type: form_field
-      - input_type: email
-        name: E-mail
-        label: E-mail cím
-        default_value: Add meg az e-mail címed
-        options: []
-        is_required: true
-        type: form_field
-    submit_label: Küldés
-    align_vert: middle
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: form_section
 seo:
   title: Stackbit Event Theme
   description: The preview of the Event theme
