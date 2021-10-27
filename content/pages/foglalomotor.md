@@ -230,17 +230,27 @@ sections:
       - title: Szálláshelykezelő
         subtitle: 2022 tavaszától
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ###### Felhasználóbarát szálláshely-adminisztráció NTAK összekötéssel
+          és kényelmi funkciókkal
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   több szálláshely kezelése egyszerre
 
 
-          - Lorem ipsum
+          *   kötelező NTAK és VIZA adatszolgáltatás
 
-          - dolor sit amet
+
+          *   gyors és pontos okmányolvasó
+
+
+          *   többféle naptárnézet
+
+
+          *   naptárszinkron foglalómotorral és közvetítő oldalakkal
+
+
+          *   statisztikák
         content_align: left
         actions: []
         actions_align: left
