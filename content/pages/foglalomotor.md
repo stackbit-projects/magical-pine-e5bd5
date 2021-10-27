@@ -182,7 +182,7 @@ sections:
         options: []
         is_required: false
     submit_label: Feliratkozás a várólistára
-    align_vert: top
+    align_vert: middle
     padding_top: medium
     padding_bottom: medium
     has_border: false
