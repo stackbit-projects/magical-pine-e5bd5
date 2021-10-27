@@ -21,7 +21,6 @@ sections:
     background_image_size: cover
     background_image_position: left center
     media_position: right
-    image: /images/foglalómotor hero.png
   - type: grid_section
     grid_items:
       - title: WordPress
