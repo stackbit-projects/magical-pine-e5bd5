@@ -23,7 +23,8 @@ sections:
   - section_id: foglalomotor-feliratkozas
     title_align: left
     content: >
-      ## Jelentkezz hozzánk egy felhasználói interjúra!
+      ## Jelentkezz interjúra és oldjuk meg együtt a foglalással és
+      adminisztrációval kapcsolatos problémákat!
 
 
       Résztvevőink életre szóló kedvezményeket kapnak a szoftvereinkből.
