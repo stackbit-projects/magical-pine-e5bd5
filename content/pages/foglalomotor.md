@@ -174,6 +174,7 @@ sections:
         label: Név
         options:
           - lorem-ipsum
+          - lorem-ipsum
         is_required: false
       - input_type: email
         name: Email cím
