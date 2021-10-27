@@ -193,7 +193,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
   - section_id: appartman-termekek
-    title: lorem-ipsum
+    title: Termékeink
     subtitle: Egyszerű szoftverek magánszálláshelyeknek
     actions: []
     grid_items: []
