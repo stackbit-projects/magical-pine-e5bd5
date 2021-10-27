@@ -24,7 +24,7 @@ sections:
     content: |
       ## Jelentkezz hozzánk egy felhasználói interjúra!
 
-      A feliratkozást követő 1-2 hétben emailben küldünk egy demó hozzáférést.
+      Résztvevőink életre szóló kedvezményeket kapnak a szoftvereinkből.
     content_align: left
     form_position: right
     form_width: fifty
