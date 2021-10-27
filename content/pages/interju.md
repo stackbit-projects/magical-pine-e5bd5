@@ -21,33 +21,6 @@ sections:
     background_image_size: cover
     background_image_position: left center
     media_position: right
-  - type: features_section
-    features:
-      - title: Tartsd naprakészen szabad szobáid minden felületen
-        content: >
-          Az Appartman foglalómotorja összeköttetésben van a Szállás.hu, Booking
-          és Airbnb közvetítő oldalakkal, így ha bárhol foglalás érkezik
-          automatizáltan zároljuk a szabad kapacitást.
-        image: >-
-          /images/foglalasi-csatornak-airbnb-szallashu-booking-osszehangolasa.png
-        image_alt: Feature 1 placeholder image
-        media_position: bottom
-        media_width: fifty
-        align: center
-      - title: Mobilra optimalizált kialakítás
-        content: >
-          Foglalómotorunkat minden képernyőn könnyen kezelhetőre terveztük, hogy
-          megkönnyítsük a foglalások leadását.
-        image: /images/mobilra optimalizált kialakítás-a4e60086.png
-        image_alt: Feature 2 placeholder image
-        media_position: right
-        media_width: sixty
-    feature_padding_vert: large
-    align: center
-    padding_top: large
-    background_color: none
-    has_border: true
-    padding_bottom: large
   - section_id: foglalomotor-feliratkozas
     title_align: left
     content: >
