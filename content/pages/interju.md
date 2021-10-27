@@ -21,10 +21,15 @@ sections:
     media_position: right
   - section_id: foglalomotor-feliratkozas
     title_align: left
-    content: |
+    content: >
       ## Jelentkezz hozzánk egy felhasználói interjúra!
 
+
       Résztvevőink életre szóló kedvezményeket kapnak a szoftvereinkből.
+
+
+      Az interjú online zajlik az általad választott időpontban, és csak a
+      szálláshelyeddel kapcsolatos dolgokról beszélgetünk.
     content_align: left
     form_position: right
     form_width: fifty
