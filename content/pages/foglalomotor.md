@@ -153,7 +153,7 @@ sections:
     background_color: none
     has_border: true
     padding_bottom: large
-  - section_id: lorem-ipsum
+  - section_id: foglalomotor-feliratkozas
     title: lorem-ipsum
     subtitle: lorem-ipsum
     title_align: left
