@@ -171,7 +171,7 @@ sections:
     form_fields:
       - input_type: text
         name: Név
-        label: Add meg a neved
+        label: Név
         default_value: lorem-ipsum
         options: []
         is_required: false
