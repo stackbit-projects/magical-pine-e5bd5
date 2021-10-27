@@ -203,11 +203,11 @@ sections:
         content: |
           ###### Letisztult, egyszerű foglalómotor magánszálláshelyeknek
 
-          foglaltság naptár
+          *   többféle árazás
+
+          *   foglaltság naptár
 
           *   szálláshely építő
-
-          *   többféle árazás
 
           *   automatikus visszaigazoló emailek
 
