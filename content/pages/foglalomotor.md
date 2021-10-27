@@ -176,7 +176,7 @@ sections:
           - lorem-ipsum
         is_required: false
       - input_type: email
-        name: lorem-ipsum
+        name: Email cím
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
