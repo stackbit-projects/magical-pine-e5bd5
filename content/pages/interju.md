@@ -51,7 +51,7 @@ sections:
         options: []
         is_required: false
       - input_type: select
-        name: 'Szálláshelyed mérete (átlagolva, ha több van)'
+        name: 'Szálláshely mérete (átlagolva, ha több van)'
         default_value: Férőhelyek száma (fő)
         options: []
         is_required: false
