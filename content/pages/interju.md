@@ -7,7 +7,7 @@ sections:
       Magánszállásadóként egy egy órás interjúval nagy mértékben
       hozzájárulhatsz, hogy egy felhasználóbarát szoftvert dobjunk piacra.
     content: |
-      **1 hónap ingyenes próbaidővel**
+      ****
     actions:
       - label: Ingyenes próba
         url: /about
