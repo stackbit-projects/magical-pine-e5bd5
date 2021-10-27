@@ -155,17 +155,12 @@ sections:
     padding_bottom: large
   - section_id: foglalomotor-feliratkozas
     title_align: left
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Iratkozz fel a várólistánkra, és próbáld ki elsőként a
+      foglalómotorunkat!
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      A feliratkozást követő 1-2 hétben emailben küldünk egy demó hozzáférést.
     content_align: left
     form_position: right
     form_width: fifty
