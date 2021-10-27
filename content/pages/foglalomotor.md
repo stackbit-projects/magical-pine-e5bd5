@@ -228,7 +228,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Szálláshelykezelő
-        subtitle: lorem-ipsum
+        subtitle: 2022 tavaszától
         title_align: left
         content: >-
           ## Lorem ipsum
