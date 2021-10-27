@@ -5,8 +5,8 @@ sections:
     title: Legyél részese a jövő szálláshelykezelő szoftvereinek fejlesztésének
     subtitle: >-
       Szoftvereinket a kis szállásadók igényeire szabjuk. Magánszállásadóként
-      egy egy órás interjúval nagy mértékben hozzájárulhatsz, hogy egy
-      felhasználóbarát szoftvert dobjunk piacra.
+      egy egy órás interjúval nagy mértékben hozzájárulhatsz, hogy egy igazán
+      felhasználóbarát és egyszerű megoldást dobjunk piacra.
     content: |
       ****
     actions: []
