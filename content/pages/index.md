@@ -83,7 +83,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: right
         media_width: fifty
-        align: right
+        align: left
       - title: Bármilyen weboldalba beilleszthető
         content: >
           Egyszerűen illeszd be a kódsorunkat a weboldaladba vagy készíts róla
