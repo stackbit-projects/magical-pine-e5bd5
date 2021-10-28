@@ -68,15 +68,6 @@
                 "new_window": true
             },
             {
-                "label": "Twitter",
-                "url": "https://www.youtube.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "youtube",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
                 "label": "Instagram",
                 "url": "https://www.instagram.com/appartmanhu/",
                 "style": "link",
