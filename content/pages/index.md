@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: 'Vendégfogadás jutalékmentesen, foglalómotorunkkal'
     subtitle: >-
-      Weboldalba építhető foglalómotorunkkal automatizáltan fogadhatod a
+      Egyszerű és villámgyors foglalómotorunkkal automatizáltan fogadhatod a
       vendégeidet anélkül, hogy ajánlatkérő emailekre kellene válaszolnod.
     content: |
       **1 hónap ingyenes próbaidővel**
