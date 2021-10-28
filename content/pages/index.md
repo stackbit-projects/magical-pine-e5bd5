@@ -290,7 +290,7 @@ sections:
       - dolor sit amet
     actions:
       - label: lorem-ipsum
-        url: '#'
+        url: /interju
         style: primary
         has_icon: false
         icon: arrow-left
