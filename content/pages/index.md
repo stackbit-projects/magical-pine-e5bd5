@@ -277,9 +277,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - section_id: interju-cta
-    title: >-
-      Magánszálláshelyként részese lehetsz egy felhasználóbarát szoftver
-      létrejöttében.
+    title: Szállásadóként lehetsz egy felhasználóbarát szoftver létrejöttében.
     content: >
       Hogy minél jobban kielégítsük a kis szálláshelyek igényeit, sokat
       beszélgetünk a szállásadókkal mélyinterjú keretében.
