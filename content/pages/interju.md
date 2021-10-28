@@ -10,7 +10,7 @@ sections:
     content: |
       ####
     actions: []
-    align: center
+    align: left
     padding_top: large
     padding_bottom: small
     background_color: none
