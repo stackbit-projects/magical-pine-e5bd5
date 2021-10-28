@@ -182,7 +182,7 @@ sections:
       - input_type: checkbox
         name: lorem-ipsum
         label: lorem-ipsum
-        default_value: lorem-ipsum
+        default_value: Elfogadom az Adatkezelési nyilatkozatot
         options: []
         is_required: true
     submit_label: Feliratkozás a várólistára
