@@ -18,7 +18,7 @@ sections:
     background_image_opacity: 0
     background_image_size: cover
     background_image_position: left center
-    media_position: bottom
+    media_position: right
     image: /images/regisztráció percek alatt.png
     media_width: fifty
   - section_id: foglalomotor-feliratkozas
