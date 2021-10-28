@@ -10,7 +10,7 @@ sections:
       **1 hónap ingyenes próbaidővel**
     actions:
       - label: Feliratkozás a várólistára
-        url: '/#foglalomotor-feliratkozas'
+        url: '/#foglalomotor-varolista'
         style: primary
     align: left
     padding_top: large
