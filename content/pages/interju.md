@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Legyél részese a jövő szálláshelykezelő szoftvereinek fejlesztésének
+    title: Segítsd egy interjúval a jövő szálláshelykezelőjének létejöttét
     subtitle: >-
       Szoftvereinket a kis szállásadók igényeire szabjuk. Magánszállásadóként
       egy egy órás interjúval nagy mértékben hozzájárulhatsz, hogy nemsokára egy
