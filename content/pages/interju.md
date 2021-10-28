@@ -62,7 +62,7 @@ sections:
           - 30+
         is_required: false
         label: 'Szálláshelyed mérete (a legnagyobb, ha több van)'
-      - input_type: text
+      - input_type: checkbox
         name: Adatkezelési beleegyezés
         label: lorem-ipsum
         default_value: lorem-ipsum
