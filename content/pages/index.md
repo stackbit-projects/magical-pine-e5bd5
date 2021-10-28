@@ -133,13 +133,6 @@ sections:
           ### 4.lépés
 
 
-          Az érkezést megelőző hetekben a foglaló egy online adatbekérőt kap az
-          email címére, ahová a kötelező NTAK adatokat kell megadnia.
-
-
-          ### 5.lépés
-
-
           A rendszerünk az Appartman PMS-sel összekapcsolva automatizáltan
           biztosítja az adatokat az NTAK részére és egy gombnyomásra elküldi
           azokat.
