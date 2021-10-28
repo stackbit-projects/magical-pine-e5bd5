@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Adatkezelési nyilatkozat
 seo:
   title: ''
   description: ''
