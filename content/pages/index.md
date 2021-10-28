@@ -75,6 +75,7 @@ sections:
         media_position: bottom
         media_width: fifty
         align: center
+        subtitle: HAMAROSAN
       - title: Mobilra optimalizált kialakítás
         content: >
           Foglalómotorunkat minden képernyőn könnyen kezelhetőre terveztük, hogy
