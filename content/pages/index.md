@@ -314,7 +314,9 @@ seo:
       value: Foglalómotor magánszálláshelyeknek | Appartman
       keyName: property
     - name: 'og:description'
-      value: The preview of the Event theme
+      value: >
+        Kis szálláshelyekre szabott foglalómotorunkkal automatizáltan és jutalék
+        nélkül fogadhatod vendégeidet a saját weboldaladról.
       keyName: property
     - name: 'og:image'
       value: images/feature-3.jpg
