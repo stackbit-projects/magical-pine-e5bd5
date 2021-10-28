@@ -303,7 +303,9 @@ sections:
     type: cta_section
 seo:
   title: Foglalómotor magánszálláshelyeknek | Appartman
-  description: The preview of the Event theme
+  description: >
+    Kis szálláshelyekre szabott foglalómotorunkkal automatizáltan és jutalék
+    nélkül fogadhatod vendégeidet a saját weboldaladról.
   extra:
     - name: 'og:type'
       value: website
