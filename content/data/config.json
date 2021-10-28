@@ -25,11 +25,6 @@
                 "type": "action"
             },
             {
-                "label": "Jelentkezz interjúra",
-                "url": "/interju",
-                "style": "primary"
-            },
-            {
                 "label": "Foglalómotor",
                 "url": "/foglalomotor",
                 "style": "link",
@@ -39,6 +34,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Jelentkezz interjúra",
+                "url": "/interju",
+                "style": "primary"
             }
         ]
     },
