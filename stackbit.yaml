@@ -1272,6 +1272,9 @@ models:
         description: The type of the object
         const: cta_section
         hidden: true
+      - name: szin
+        type: color
+        label: szin
     labelField: title
   form_section:
     type: object
