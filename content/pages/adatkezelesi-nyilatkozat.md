@@ -47,29 +47,25 @@ Cím: 3557 Bükkszentkereszt, Dózsa utca 2.
 
 ## 3. A kezelt személyes adatok köre, és az adatkezelés jogalapjai
 
-#### 3.1. Kapcsolat űrlapon megadott személyes adatok
+#### 3.1. Foglalómotor várólista űrlapon megadott személyes adatok
 
 ###### 3.1.1. Adatkezelés célja és jogalapja
 
-Az adatkezelés célja a Felhasználóval való kapcsolattartás e-mail üzeneteken keresztül. Az adatkezelés jogalapja a Felhasználó önkéntes, hozzájáruláson alapuló nyilatkozata, ami a Kapcsolat űrlap kitöltésében nyilvánul meg. A Kapcsolat űrlapon megadott adatokat kizárólag a Felhasználóval való kapcsolattartásra használjuk. A Felhasználó bármikor jogosult a hozzájáruláson alapuló adatkezelés esetén a hozzájárulást visszavonni az hello(kukac)appartman.hu e-mail címen. Ez nem érinti a visszavonás előtti adatkezelés jogszerűségét.
+Az adatkezelés célja a Felhasználóval való kapcsolattartás e-mail üzeneteken keresztül. Az adatkezelés jogalapja a Felhasználó önkéntes, hozzájáruláson alapuló nyilatkozata, ami a Szoftver várólista űrlap kitöltésében nyilvánul meg. A Szoftver várólista űrlapon megadott adatokat kizárólag a Felhasználóval való kapcsolattartásra használjuk. A Felhasználó bármikor jogosult a hozzájáruláson alapuló adatkezelés esetén a hozzájárulást visszavonni az hello(kukac)appartman.hu e-mail címen. Ez nem érinti a visszavonás előtti adatkezelés jogszerűségét.
 
 ###### 3.1.2. E-mail cím
 
-A Felhasználó által a Kapcsolat űrlapon megadott e-mail cím.
+A Felhasználó által a Szoftver várólista űrlapon megadott e-mail cím.
 
 ###### 3.1.3. Név
 
-A Felhasználó által a Kapcsolat űrlapon megadott név.
+A Felhasználó által a Szoftver várólista űrlapon megadott név.
 
-###### 3.1.4. Telefonszám
-
-A Felhasználó telefonszáma, amennyiben a Felhasználó a kapcsolattartásra a telefonszám megadása lehetőséget választja.
-
-###### 3.1.5. Személyes adatok tárolásának időtartama
+###### 3.1.4. Személyes adatok tárolásának időtartama
 
 A személyes adatok tárolásának időtartama a Felhasználóval való kapcsolattartás időtartama. A Felhasználó bármikor kérelmezheti a tárolt személyes adatainak törlését az privacy(kuakc)mokapot.hu e-mail címen.
 
-###### 3.1.6. Személyes adatok címzettje
+###### 3.1.5. Személyes adatok címzettje
 
 Appartman Kft.
 
@@ -77,120 +73,128 @@ E-mail cím: hello(kuakc)appartman.hu
 
 Cím: 3557 Bükkszentkereszt, Dózsa utca 2.
 
-###### 3.1.7. Az adatszolgáltatás elmaradásának következménye
+###### 3.1.6. Az adatszolgáltatás elmaradásának következménye
 
-Amennyiben a Felhasználó úgy dönt, hogy nem adja meg személyes adatait a Kapcsolat ürlapon, úgy a kapcsolattartásra egy másik csatornát (pl.: közösségi média elérhetőségek) szükséges igénybe vennie.
+Amennyiben a Felhasználó úgy dönt, hogy nem adja meg személyes adatait a Szoftver várólista űrlapon, úgy nem áll módunkban értesíteni a Foglalómotor termékünk elérhetőségéről.
 
 ###### 3.1.8. Automatizált döntéshozatal ténye
 
-A Kapcsolat űrlapon megadott személyes adatokkal kapcsolatban automatizált döntéshozatalt, nem végzünk, azokat kizárólag a Felhaszálóval való kapcsolattartásra használjuk.
+A Szoftver várólista űrlapon megadott személyes adatokkal kapcsolatban automatizált döntéshozatalt, nem végzünk, azokat kizárólag a Felhaszálóval való kapcsolattartásra használjuk.
 
 ###### 3.1.9. Harmadik országba történő adattovábbítás ténye
 
-A Kapcsolat űrlapon megadott személyes adatokat harmadik országba nem továbbítjuk.
+A Szoftver várólista űrlapon megadott személyes adatokat harmadik országba nem továbbítjuk.
 
-1.  A blog űrlapon megadott személyes adatok
+#### 4.1. Interjú jelentkezés űrlapon megadott személyes adatok
 
-    1.  Adatkezelés célja és jogalapja
+###### 4.1.1. Adatkezelés célja és jogalapja
 
-    Az adatkezelés célja elektronikus dokumentumcsere, ami az Online Marketing Eszköztár dokumentum letöltésének lehetőségében, illetve a Felhasználónak küldött e-mail formátumú hírlevelekben nyilvánul meg. Az adatkezelés jogalapja a Felhasználó önkéntes, hozzájáruláson alapuló nyilatkozata, ami a blog űrlapon lévő email adatok kitöltésében nyilvánul meg. A Blog űrlapon megadott adatokat kizárólag elektronikus dokumentumcserére használjuk. A Felhasználó bármikor jogosult a hozzájáruláson alapuló adatkezelés esetén a hozzájárulást visszavonni a privacy(kukac)mokapot.hu e-mail címen. Ez nem érinti a visszavonás előtti adatkezelés jogszerűségét.
+Az adatkezelés célja egy a Felhasználóval való interjú szervezése e-mail üzeneteken keresztül. Az adatkezelés jogalapja a Felhasználó önkéntes, hozzájáruláson alapuló nyilatkozata, ami az Interjú jelentkezés űrlap kitöltésében nyilvánul meg. Az Interjú jelentkezés űrlapon megadott adatokat kizárólag a Felhasználóval való kapcsolattartásra, és az interjú lebonyolítására használjuk. A Felhasználó bármikor jogosult a hozzájáruláson alapuló adatkezelés esetén a hozzájárulást visszavonni az hello(kukac)appartman.hu e-mail címen. Ez nem érinti a visszavonás előtti adatkezelés jogszerűségét.
 
-    3.  E-mail cím
+###### 4.1.2. E-mail cím
 
-    A Felhasználó által a Blog űrlapon megadott e-mail cím.
+A Felhasználó által az Interjú jelentkezés űrlapon megadott e-mail cím.
 
-    5.  Személyes adatok tárolásának időtartama
+###### 4.1.3. Név
 
-    A személyes adatok tárolásának időtartama maximum 3 év. A Felhasználó bármikor kérelmezheti a tárolt személyes adatainak törlését az privacy(kuakc)mokapot.hu e-mail címen.
+A Felhasználó által az Interjú jelentkezés űrlapon megadott név.
 
-    7.  Személyes adatok címzettje
+###### 4.1.4. Szálláshely mérete
 
-    Mátyás Krisztián
+A Felhasználó által az Interjú jelentkezés űrlapon megadott férőhely intervallum, ami a Felhasználó által üzemeltetett szálláshely(ek)re vonatkozik.
 
-    E-mail cím: privacy(kuakc)mokapot.hu
+###### 4.1.5. Személyes adatok tárolásának időtartama
 
-    Cím: 3557 Bükkszentkereszt, Dózsa utca 2.
+A személyes adatok tárolásának időtartama a Felhasználóval való kapcsolattartás időtartama. A Felhasználó bármikor kérelmezheti a tárolt személyes adatainak törlését az privacy(kuakc)mokapot.hu e-mail címen.
 
-    11. Az adatszolgáltatás elmaradásának következménye
+###### 4.1.6. Személyes adatok címzettje
 
-    Amennyiben a Felhasználó úgy dönt, hogy nem adja meg személyes adatait a Blog űrlapon, úgy a a letölthető marketing eszköztár kizárólag alternatív módon tudja beszerezni pl.: személyes üzenetben a Mokapot email címén keresztül.
+Appartman Kft.
 
-    13. Automatizált döntéshozatal ténye
+E-mail cím: hello(kuakc)appartman.hu
 
-    A Blog űrlapon megadott személyes adatokkal kapcsolatban automatizált döntéshozatalt, nem végzünk, azokat kizárólag a Felhaszálóval való kapcsolattartásra használjuk.
+Cím: 3557 Bükkszentkereszt, Dózsa utca 2.
 
-    15. Harmadik országba történő adattovábbítás ténye
+###### 4.1.7. Az adatszolgáltatás elmaradásának következménye
 
-    A Blog űrlapon megadott személyes adatokat harmadik országba nem továbbítjuk.
+Amennyiben a Felhasználó úgy dönt, hogy nem adja meg személyes adatait az Interjú jelentkezés űrlapon, úgy nem áll módunkban felhasználói interjút készíteni vele.
 
-*   Sütik (cookie-k) használata
+###### 4.1.8. Automatizált döntéshozatal ténye
 
-    Az Adatkezelő az általa üzemeltetett mokapot.hu domainen és aldomainjein keresztül elérhető honlapokon (a továbbiakban: „Honlapok”) harmadik féltől származó sütiket (angolul: „cookie”) használ a honlapok működtetése, biztonsága, a Honlapokon végzett tevékenység nyomon követése érdekében.
+Az Interjú jelentkezés űrlapon megadott személyes adatokkal kapcsolatban automatizált döntéshozatalt, nem végzünk, azokat kizárólag a Felhaszálóval való kapcsolattartásra használjuk.
 
-    1.  Adatkezelés jogalapja, céljai
+###### 4.1.9. Harmadik országba történő adattovábbítás ténye
 
-    Az adatkezelés jogalapja a Felhasználó hozzájáruláson alapuló nyilatkozata, ami a Honlapokon található süti információ felugró ablakban foglaltak elfogadásában nyilvánul meg. Az adatkezelés célja a felhasználói élmény javítása.
+Az Interjú jelentkezés űrlapon megadott személyes adatokat harmadik országba nem továbbítjuk.
 
-    3.  A hozzájárulás tárolása
+## 5. Sütik (cookie-k) használata
 
-    A Felhasználó hozzájárulását a HTML5 web storage “consented” változójában tároljuk.
+Az Adatkezelő az általa üzemeltetett appartman.hu domainen és aldomainjein keresztül elérhető honlapokon (a továbbiakban: „Honlapok”) harmadik féltől származó sütiket (angolul: „cookie”) használ a honlapok működtetése, biztonsága, a Honlapokon végzett tevékenység nyomon követése érdekében.
 
-    5.  A kezelt adatok köre, tárolási ideje
+###### 5.1. Adatkezelés jogalapja, céljai
 
-    6.  A harmadik felek által elhelyezett sütikkel kapcsolatos további információ
+Az adatkezelés jogalapja a Felhasználó hozzájáruláson alapuló nyilatkozata, ami a Honlapokon található süti információ felugró ablakban foglaltak elfogadásában nyilvánul meg. Az adatkezelés célja a felhasználói élmény javítása.
 
-    Google Analytics: [további információ](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)
+###### 5.2. A hozzájárulás tárolása
 
-    Hotjar: [további információ](https://help.hotjar.com/hc/en-us/articles/115011789248-Hotjar-Cookies)
+A Felhasználó hozzájárulását a HTML5 web storage “consented” változójában tároljuk.
 
-    Facebook: [további információ](https://www.facebook.com/policy/cookies/)
+###### 5.3. A kezelt adatok köre, tárolási ideje
 
-*   A felhasználó jogai
+###### 5.4. A harmadik felek által elhelyezett sütikkel kapcsolatos további információ
 
-    1.  Hozzáférés
+Google Analytics: [további információ](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)
 
-    A Felhasználó bármikor kérhet tájékoztatást az Adatkezelő által kezelt személyes adatainak köréről, a személyes adatok kezelésének jogalapjáról, céljairól, az adattárolás időtartamáról és a személyes adatok címzettjéről.
+Hotjar: [további információ](https://help.hotjar.com/hc/en-us/articles/115011789248-Hotjar-Cookies)
 
-    3.  Helyesbítés
+Facebook: [további információ](https://www.facebook.com/policy/cookies/)
 
-    A Felhasználó bármikor kérheti az Adatkezelőtől a pontatlanul tárolt személyes adatainak helyesbítését vagy módosítását.
+## 6. A felhasználó jogai
 
-    5.  Törlés
+#### 6.1. Hozzáférés
 
-    A Felhasználó bármikor kérheti az Adatkezelőtől a tárolt személyes adatainak törlését.
+A Felhasználó bármikor kérhet tájékoztatást az Adatkezelő által kezelt személyes adatainak köréről, a személyes adatok kezelésének jogalapjáról, céljairól, az adattárolás időtartamáról és a személyes adatok címzettjéről.
 
-    7.  Adatkezelés korlátozása
+#### 6.2. Helyesbítés
 
-    A Felhasználó bármikor jogosult az adatkezelés korlátozását kérni az Adatkezelőtől.
+A Felhasználó bármikor kérheti az Adatkezelőtől a pontatlanul tárolt személyes adatainak helyesbítését vagy módosítását.
 
-    9.  Adatkezelés elleni tiltakozás
+#### 6.3. Törlés
 
-    A Felhasználó bármikor jogosult az adatkezelés elleni tiltakozásra.
+A Felhasználó bármikor kérheti az Adatkezelőtől a tárolt személyes adatainak törlését.
 
-    11. Adathordozhatóság
+#### 6.4. Adatkezelés korlátozása
 
-    A Felhasználó bármikor kérheti, hogy az Adatkezelő által tárolt személyes adatait átlátható, széles körben használt és géppel olvasható formátumban részére átadja, vagy ezen adatokat egy másik adatkezelőnek továbbítsa.
+A Felhasználó bármikor jogosult az adatkezelés korlátozását kérni az Adatkezelőtől.
 
-    13. Hozzájárulás visszavonásához való jog
+#### 6.5. Adatkezelés elleni tiltakozás
 
-    A Felhasználó bármikor visszavonhatja az adatkezeléshez való hozzájárulását a jövőre tekintettel. Ez nem érinti a visszavonást megelőző adatkezelés jogszerűségét.
+A Felhasználó bármikor jogosult az adatkezelés elleni tiltakozásra.
 
-*   Jogorvoslati lehetőségek
+#### 6.6. Adathordozhatóság
 
-    1.  A Felhasználó adatkezeléssel kapcsolatos kérdéseivel az Adatkezelő 2. pontban sorolt értesítési címein tájékozódhat.
+A Felhasználó bármikor kérheti, hogy az Adatkezelő által tárolt személyes adatait átlátható, széles körben használt és géppel olvasható formátumban részére átadja, vagy ezen adatokat egy másik adatkezelőnek továbbítsa.
 
-    2.  A Felhasználó jogosult a Nemzeti Adatvédelmi és Információszabadság Hatósághoz fordulni, amennyiben az Adatkezelő nem a jelen dokumentumban leírtaknak megfelelően kezelte személyes adatait, illetve ha nem sikerül fentebb sorolt jogait érvényesíteni az Adatkezelővel szemben.
+#### 6.7. Hozzájárulás visszavonásához való jog
 
-    A hatóság elérhetőségei:
+A Felhasználó bármikor visszavonhatja az adatkezeléshez való hozzájárulását a jövőre tekintettel. Ez nem érinti a visszavonást megelőző adatkezelés jogszerűségét.
 
-    Név: Nemzeti Adatvédelmi és Információszabadság Hatóság
+## 7.  Jogorvoslati lehetőségek
 
-    Telefonszám: +36 1 391-1400
+A Felhasználó adatkezeléssel kapcsolatos kérdéseivel az Adatkezelő 2. pontban sorolt értesítési címein tájékozódhat.
 
-    E-mail cím: ugyfelszolgalat@naih.hu
+A Felhasználó jogosult a Nemzeti Adatvédelmi és Információszabadság Hatósághoz fordulni, amennyiben az Adatkezelő nem a jelen dokumentumban leírtaknak megfelelően kezelte személyes adatait, illetve ha nem sikerül fentebb sorolt jogait érvényesíteni az Adatkezelővel szemben.
 
-    Weboldal: www.naih.hu
+A hatóság elérhetőségei:
 
-    Cím: H-1125 Budapest, Szilágyi Erzsébet fasor 22/c
+Név: Nemzeti Adatvédelmi és Információszabadság Hatóság
 
-    9.  A Felhasználó jogainak megsértése esetén jogosult a lakóhelye szerinti, vagy az Adatkezelő székhelye szerinti bírósághoz fordulni.
+Telefonszám: +36 1 391-1400
+
+E-mail cím: ugyfelszolgalat@naih.hu
+
+Weboldal: www.naih.hu
+
+Cím: H-1125 Budapest, Szilágyi Erzsébet fasor 22/c
+
+#### 7.1. A Felhasználó jogainak megsértése esetén jogosult a lakóhelye szerinti, vagy az Adatkezelő székhelye szerinti bírósághoz fordulni.
