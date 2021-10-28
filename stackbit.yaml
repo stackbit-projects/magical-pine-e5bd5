@@ -286,7 +286,7 @@ models:
         description: >-
           A unique identifier, required if close button is enabled. Must be
           updated each time the announcement content changes
-      - name: Szín
+      - name: Szin
         type: color
         label: Szín
   person:
