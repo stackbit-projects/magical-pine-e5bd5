@@ -331,7 +331,7 @@ seo:
         Kis szálláshelyekre szabott foglalómotorunkkal automatizáltan és jutalék
         nélkül fogadhatod vendégeidet a saját weboldaladról.
     - name: 'twitter:image'
-      value: images/feature-3.jpg
+      value: /images/profilkép (1).png
       relativeUrl: true
 layout: advanced
 ---
