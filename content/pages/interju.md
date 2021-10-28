@@ -59,7 +59,7 @@ sections:
           - 2-6 fő
           - 7-16 fő
           - 16-30 fő
-          - lorem-ipsum
+          - 30+
         is_required: false
         label: 'Szálláshelyed mérete (a legnagyobb, ha több van)'
     submit_label: Jelentkezés
