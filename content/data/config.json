@@ -80,7 +80,19 @@
             }
         ],
         "content": "&copy; 2021 Appartman. Minden jog fenntartva! ",
-        "secondary_nav_title": "Kövess minket"
+        "secondary_nav_title": "Kövess minket",
+        "primary_nav_links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            }
+        ]
     },
     "announcement": {
         "has_anncmnt": false,
