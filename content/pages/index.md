@@ -277,7 +277,9 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - section_id: interju-cta
-    title: Jelentkezz egy egy órás felhasználói interjúra
+    title: >-
+      Magánszálláshelyként részese lehetsz egy felhasználóbarát szoftver
+      létrejöttében.
     content: >-
       ## Lorem ipsum
 
