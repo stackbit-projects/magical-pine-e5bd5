@@ -1217,9 +1217,14 @@ models:
         name: background_color
         label: Background color
         options:
-          - none
-          - primary
-          - secondary
+          - label: none
+            value: none
+          - label: primary
+            value: primary
+          - label: secondary
+            value: secondary
+          - label: ''
+            value: ''
         default: none
         description: The background color of the section
       - type: image
