@@ -7,13 +7,11 @@ seo:
   extra: []
 layout: page
 ---
-Fogalommeghatározások
+## Fogalommeghatározások
 
 ### Személyes adat
 
 Azonosított vagy azonosítható természetes személyre („érintett”) vonatkozó bármely információ; azonosítható az a természetes személy, aki közvetlen vagy közvetett módon, különösen valamely azonosító, például név, szám, helymeghatározó adat, online azonosító vagy a természetes személy testi, fiziológiai, genetikai, szellemi, gazdasági, kulturális vagy szociális azonosságára vonatkozó egy vagy több tényező alapján azonosítható.
-
-
 
 ### Adatkezelés
 
