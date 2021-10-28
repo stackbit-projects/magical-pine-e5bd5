@@ -165,7 +165,7 @@ sections:
     form_layout: stacked
     enable_card: true
     form_id: foglalomotor-varolista
-    form_action: lorem-ipsum
+    form_action: foglalomotor-varolista
     form_fields:
       - input_type: text
         name: Név
