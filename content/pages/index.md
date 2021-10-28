@@ -289,7 +289,7 @@ sections:
 
       - dolor sit amet
     actions:
-      - label: lorem-ipsum
+      - label: Jelentkezz interjúra
         url: /interju
         style: primary
         has_icon: false
