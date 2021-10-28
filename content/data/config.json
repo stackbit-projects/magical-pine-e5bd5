@@ -14,8 +14,8 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Foglalómotor",
+                "url": "/foglalomotor",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
@@ -25,8 +25,8 @@
                 "type": "action"
             },
             {
-                "label": "Foglalómotor",
-                "url": "/foglalomotor",
+                "label": "Blog",
+                "url": "/blog",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
