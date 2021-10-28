@@ -288,6 +288,7 @@ models:
           updated each time the announcement content changes
       - name: ''
         type: color
+        label: Szín
   person:
     type: data
     label: Person
