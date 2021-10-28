@@ -319,7 +319,7 @@ seo:
         nélkül fogadhatod vendégeidet a saját weboldaladról.
       keyName: property
     - name: 'og:image'
-      value: images/feature-3.jpg
+      value: /images/profilkép (1).png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
