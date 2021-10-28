@@ -9,7 +9,7 @@ sections:
     content: |
       **1 hónap ingyenes próbaidővel**
     actions:
-      - label: Ingyenes próba
+      - label: Feliratkozás a várólistára
         url: /about
         style: primary
     align: left
