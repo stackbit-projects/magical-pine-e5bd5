@@ -327,7 +327,9 @@ seo:
     - name: 'twitter:title'
       value: Foglalómotor magánszálláshelyeknek | Appartman
     - name: 'twitter:description'
-      value: The preview of the Event theme
+      value: >
+        Kis szálláshelyekre szabott foglalómotorunkkal automatizáltan és jutalék
+        nélkül fogadhatod vendégeidet a saját weboldaladról.
     - name: 'twitter:image'
       value: images/feature-3.jpg
       relativeUrl: true
