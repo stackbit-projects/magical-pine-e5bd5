@@ -63,7 +63,7 @@ sections:
         is_required: false
         label: 'Szálláshelyed mérete (a legnagyobb, ha több van)'
       - input_type: text
-        name: lorem-ipsum
+        name: Adatkezelési beleegyezés
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
