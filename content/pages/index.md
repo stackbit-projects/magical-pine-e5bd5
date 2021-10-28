@@ -105,7 +105,7 @@ sections:
           linket percek alatt.
         image_alt: Feature 3 placeholder image
         media_position: right
-        media_width: fifty
+        media_width: fourty
         align: left
         image: /images/minden weboldalba beépíthető-6311b71e.png
       - title: Hogyan működik a gyakorlatban?
