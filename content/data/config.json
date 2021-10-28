@@ -79,7 +79,7 @@
                 "type": "action"
             }
         ],
-        "content": "&copy; 2021 Appartman. Minden jog fenntartva! ",
+        "content": "&copy; 2021 Appartman. Minden jog fenntartva! <a href=\"https://magical-pine-e5bd5.netlify.app/adatkezelesi-nyilatkozat\">Adatkezelési nyilatkozat</a>",
         "secondary_nav_title": "Kövess minket",
         "primary_nav_links": [
             {
