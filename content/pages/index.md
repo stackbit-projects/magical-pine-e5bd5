@@ -10,7 +10,7 @@ sections:
       **1 hónap ingyenes próbaidővel**
     actions:
       - label: Feliratkozás a várólistára
-        url: /about
+        url: '/#'
         style: primary
     align: left
     padding_top: large
