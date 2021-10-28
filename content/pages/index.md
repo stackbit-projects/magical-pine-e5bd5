@@ -181,7 +181,10 @@ sections:
         is_required: false
       - input_type: checkbox
         name: adatkezelesi-beleegyezes
-        label: Elfogadom az Adatkezelési nyilatkozatot
+        label: >-
+          Elfogadom az <a
+          href="https://magical-pine-e5bd5.netlify.app/adatkezelesi-nyilatkozat">Adatkezelési
+          nyilatkozat</a>
         default_value: Elfogadom az Adatkezelési nyilatkozatot
         options: []
         is_required: true
