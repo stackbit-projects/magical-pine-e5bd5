@@ -38,7 +38,7 @@ sections:
     form_layout: stacked
     enable_card: true
     form_id: interju-jelentkezes
-    form_action: lorem-ipsum
+    form_action: jelentkezes
     form_fields:
       - input_type: text
         name: Név
