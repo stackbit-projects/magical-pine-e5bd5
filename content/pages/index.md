@@ -277,7 +277,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - section_id: interju-cta
-    title: Jelentkezz egy egy órás felhasználói interjőra
+    title: Jelentkezz egy egy órás felhasználói interjúra
     content: >-
       ## Lorem ipsum
 
