@@ -151,7 +151,7 @@ sections:
     background_color: none
     has_border: true
     padding_bottom: large
-  - section_id: foglalomotor-feliratkozas
+  - section_id: foglalomotor-varolista
     title_align: left
     content: >
       ## Iratkozz fel a várólistánkra, és próbáld ki elsőként a
