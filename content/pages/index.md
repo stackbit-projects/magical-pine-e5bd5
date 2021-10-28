@@ -87,6 +87,9 @@ sections:
         align: left
       - title: Bármilyen weboldalba beilleszthető
         content: >
+          ###### Hamarosan
+
+
           Egyszerűen illeszd be a kódsorunkat a weboldaladba vagy készíts róla
           linket percek alatt.
         image_alt: Feature 3 placeholder image
