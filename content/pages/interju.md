@@ -64,7 +64,7 @@ sections:
         label: 'Szálláshelyed mérete (a legnagyobb, ha több van)'
       - input_type: checkbox
         name: Adatkezelési beleegyezés
-        label: lorem-ipsum
+        label: Elfogadom az adatkezelési nyilatkozatot.
         default_value: lorem-ipsum
         options: []
         is_required: false
