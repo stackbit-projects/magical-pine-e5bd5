@@ -9,31 +9,31 @@ layout: page
 ---
 ## 1. Fogalommeghatározások
 
-#### 1.1 Személyes adat
+#### 1.1. Személyes adat
 
 Azonosított vagy azonosítható természetes személyre („érintett”) vonatkozó bármely információ; azonosítható az a természetes személy, aki közvetlen vagy közvetett módon, különösen valamely azonosító, például név, szám, helymeghatározó adat, online azonosító vagy a természetes személy testi, fiziológiai, genetikai, szellemi, gazdasági, kulturális vagy szociális azonosságára vonatkozó egy vagy több tényező alapján azonosítható.
 
-#### 1.2 Adatkezelés
+#### 1.2. Adatkezelés
 
 A személyes adatokon vagy adatállományokon automatizált vagy nem automatizált módon végzett bármely művelet vagy műveletek összessége, így a gyűjtés, rögzítés, rendszerezés, tagolás, tárolás, átalakítás vagy megváltoztatás, lekérdezés, betekintés, felhasználás, közlés továbbítás, terjesztés vagy egyéb módon történő hozzáférhetővé tétel útján, összehangolás vagy összekapcsolás, korlátozás, törlés, illetve megsemmisítés.
 
-#### 1.3 Az adatkezelés korlátozása
+#### 1.3. Az adatkezelés korlátozása
 
 A tárolt személyes adatok megjelölése jövőbeli kezelésük korlátozása céljából.
 
-#### 1.4 Adatkezelő
+#### 1.4. Adatkezelő
 
 Az a természetes vagy jogi személy, közhatalmi szerv, ügynökség vagy bármely egyéb szerv, amely a személyes adatok kezelésének céljait és eszközeit önállóan vagy másokkal együtt meghatározza; ha az adatkezelés céljait és eszközeit az uniós vagy a tagállami jog határozza meg, az adatkezelőt vagy az adatkezelő kijelölésére vonatkozó különös szempontokat az uniós vagy a tagállami jog is meghatározhatja.
 
-#### 1.5 Címzett
+#### 1.5. Címzett
 
 Az a természetes vagy jogi személy, közhatalmi szerv, ügynökség vagy bármely egyéb szerv, akivel vagy amellyel a személyes adatot közlik, függetlenül attól, hogy harmadik fél-e. Azon közhatalmi szervek, amelyek egy 2016.5.4. HU Az Európai Unió Hivatalos Lapja L 119/33 egyedi vizsgálat keretében az uniós vagy a tagállami joggal összhangban férhetnek hozzá személyes adatokhoz, nem minősülnek címzettnek; az említett adatok e közhatalmi szervek általi kezelése meg kell, hogy feleljen az adatkezelés céljainak megfelelően az alkalmazandó adatvédelmi szabályoknak.
 
-#### 1.6 Harmadik fél
+#### 1.6. Harmadik fél
 
 Az a természetes vagy jogi személy, közhatalmi szerv, ügynökség vagy bármely egyéb szerv, amely nem azonos az érintettel, az adatkezelővel, az adatfeldolgozóval vagy azokkal a személyekkel, akik az adatkezelő vagy adatfeldolgozó közvetlen irányítása alatt a személyes adatok kezelésére felhatalmazást kaptak.
 
-#### 1.7 Az érintett hozzájárulása
+#### 1.7. Az érintett hozzájárulása
 
 Az érintett akaratának önkéntes, konkrét és megfelelő tájékoztatáson alapuló és egyértelmű kinyilvánítása, amellyel az érintett nyilatkozat vagy a megerősítést félreérthetetlenül kifejező cselekedet útján jelzi, hogy beleegyezését adja az őt érintő személyes adatok kezeléséhez.
 
@@ -45,11 +45,11 @@ E-mail cím: hello(kukac)appartman.hu
 
 Cím: 3557 Bükkszentkereszt, Dózsa utca 2.
 
-A kezelt személyes adatok köre, és az adatkezelés jogalapjai
+## 3. A kezelt személyes adatok köre, és az adatkezelés jogalapjai
 
-#### Kapcsolat űrlapon megadott személyes adatok
+#### 3.1. Kapcsolat űrlapon megadott személyes adatok
 
-1.  Adatkezelés célja és jogalapja
+###### 3.1.1. Adatkezelés célja és jogalapja
 
 Az adatkezelés célja a Felhasználóval való kapcsolattartás e-mail üzeneteken keresztül. Az adatkezelés jogalapja a Felhasználó önkéntes, hozzájáruláson alapuló nyilatkozata, ami a Kapcsolat űrlap kitöltésében nyilvánul meg. A Kapcsolat űrlapon megadott adatokat kizárólag a Felhasználóval való kapcsolattartásra használjuk. A Felhasználó bármikor jogosult a hozzájáruláson alapuló adatkezelés esetén a hozzájárulást visszavonni az hello(kukac)appartman.hu e-mail címen. Ez nem érinti a visszavonás előtti adatkezelés jogszerűségét.
 
