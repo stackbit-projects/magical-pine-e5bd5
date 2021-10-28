@@ -306,7 +306,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: piros
     background_image: /images/profilkép-1.png
     background_image_opacity: 50
     content: >
