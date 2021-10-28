@@ -83,7 +83,7 @@ sections:
         image: /images/mobilra optimalizált kialakítás-a4e60086.png
         image_alt: Feature 2 placeholder image
         media_position: right
-        media_width: fifty
+        media_width: thirty-three
         align: left
       - title: Regisztráció percek alatt
         content: >
