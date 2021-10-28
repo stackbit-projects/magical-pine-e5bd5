@@ -1217,14 +1217,10 @@ models:
         name: background_color
         label: Background color
         options:
-          - label: none
-            value: none
-          - label: primary
-            value: primary
-          - label: secondary
-            value: secondary
-          - label: ''
-            value: ''
+          - none
+          - primary
+          - secondary
+          - piros
         default: none
         description: The background color of the section
       - type: image
