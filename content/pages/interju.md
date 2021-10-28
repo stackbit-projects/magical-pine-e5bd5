@@ -67,7 +67,7 @@ sections:
         label: Elfogadom az adatkezelési nyilatkozatot.
         default_value: lorem-ipsum
         options: []
-        is_required: false
+        is_required: true
     submit_label: Jelentkezés
     align_vert: middle
     padding_top: large
