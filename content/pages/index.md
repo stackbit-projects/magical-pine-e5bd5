@@ -280,17 +280,12 @@ sections:
     title: >-
       Magánszálláshelyként részese lehetsz egy felhasználóbarát szoftver
       létrejöttében.
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Hogy minél jobban kielégítsük a kis szálláshelyek igényeit, sokat
+      beszélgetünk a szállásadókkal mélyinterjú keretében.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Az idődet életre szóló kedvezményekkel háláljuk meg.
     actions:
       - label: Jelentkezés interjúra
         url: /interju
