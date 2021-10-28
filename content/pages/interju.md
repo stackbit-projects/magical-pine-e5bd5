@@ -35,7 +35,7 @@ sections:
     content_align: left
     form_position: right
     form_width: fifty
-    form_layout: inline
+    form_layout: stacked
     enable_card: true
     form_id: interju-jelentkezes
     form_action: lorem-ipsum
