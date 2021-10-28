@@ -148,7 +148,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-    feature_padding_vert: large
+    feature_padding_vert: small
     align: center
     padding_top: large
     background_color: none
