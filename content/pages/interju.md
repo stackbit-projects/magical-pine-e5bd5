@@ -12,7 +12,7 @@ sections:
     actions: []
     align: left
     padding_top: large
-    padding_bottom: small
+    padding_bottom: large
     background_color: none
     background_image: images/hero-background.jpg
     background_image_opacity: 0
