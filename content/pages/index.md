@@ -180,7 +180,7 @@ sections:
         options: []
         is_required: false
       - input_type: checkbox
-        name: adatkezelesi-beleegyezes
+        name: Adatkezelési beleegyezés
         label: Elfogadom az Adatkezelési nyilatkozatot
         default_value: Elfogadom az Adatkezelési nyilatkozatot
         options: []
