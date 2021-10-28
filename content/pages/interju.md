@@ -51,7 +51,7 @@ sections:
         name: Email cím
         label: Email cím
         options: []
-        is_required: false
+        is_required: true
       - input_type: select
         name: Szálláshely mérete
         default_value: Férőhelyek száma (fő)
