@@ -123,7 +123,7 @@ sections:
 
           A vendég a foglaláskor megadja az adatait, amely szükséges az NTAK
           adatszolgáltatáshoz, a rendszerünk pedig lemondja a szabad kapacitást
-          a Szállás.hu-n, Bookingon és AirBnb-n.
+          a Szállás.hu-n, Bookingon és Airbnb-n.
 
 
           ### 3.lépés
