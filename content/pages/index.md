@@ -179,7 +179,7 @@ sections:
         label: Email cím
         options: []
         is_required: false
-      - input_type: text
+      - input_type: checkbox
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
