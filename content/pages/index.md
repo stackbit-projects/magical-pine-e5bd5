@@ -302,7 +302,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
 seo:
-  title: Stackbit Event Theme
+  title: Foglalómotor magánszálláshelyeknek | Appartman
   description: The preview of the Event theme
   extra:
     - name: 'og:type'
