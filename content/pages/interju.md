@@ -5,8 +5,8 @@ sections:
     title: Segítsd egy interjúval a jövő szálláshelykezelőjének létrejöttét
     subtitle: >-
       Szoftvereinket a kis szállásadók igényeire szabjuk. Magánszállásadóként
-      egy egy órás interjúval nagy mértékben hozzájárulhatsz, hogy nemsokára egy
-      igazán felhasználóbarát és egyszerű megoldást is létezzen a piacon.
+      egy mélyinterjúval segíthetsz, hogy nemsokára egy igazán felhasználóbarát
+      és egyszerű megoldás is elérhető legyen.
     content: |
       ####
     actions: []
