@@ -9,7 +9,6 @@ layout: page
 ---
 Fogalommeghatározások
 
-
 <!---->
 
 1.  Személyes adat
@@ -42,89 +41,89 @@ Az érintett akaratának önkéntes, konkrét és megfelelő tájékoztatáson a
 
 *   Adatkezelő
 
-Az adatkezelő: Mátyás Krisztián
+Az adatkezelő: Appartman Kft.
 
-E-mail cím: privacy(kuakc)mokapot.hu
+E-mail cím: hello(kukac)appartman.hu
 
 Cím: 3557 Bükkszentkereszt, Dózsa utca 2.
 
-*   A kezelt személyes adatok köre, és az adatkezelés jogalapjai
+A kezelt személyes adatok köre, és az adatkezelés jogalapjai
 
-    1.  Kapcsolat űrlapon megadott személyes adatok
+1.  Kapcsolat űrlapon megadott személyes adatok
 
-        1.  Adatkezelés célja és jogalapja
+    1.  Adatkezelés célja és jogalapja
 
-        Az adatkezelés célja a Felhasználóval való kapcsolattartás e-mail üzeneteken keresztül. Az adatkezelés jogalapja a Felhasználó önkéntes, hozzájáruláson alapuló nyilatkozata, ami a Kapcsolat űrlap kitöltésében nyilvánul meg. A Kapcsolat űrlapon megadott adatokat kizárólag a Felhasználóval való kapcsolattartásra használjuk. A Felhasználó bármikor jogosult a hozzájáruláson alapuló adatkezelés esetén a hozzájárulást visszavonni az privacy(kuakc)mokapot.hu e-mail címen. Ez nem érinti a visszavonás előtti adatkezelés jogszerűségét.
+    Az adatkezelés célja a Felhasználóval való kapcsolattartás e-mail üzeneteken keresztül. Az adatkezelés jogalapja a Felhasználó önkéntes, hozzájáruláson alapuló nyilatkozata, ami a Kapcsolat űrlap kitöltésében nyilvánul meg. A Kapcsolat űrlapon megadott adatokat kizárólag a Felhasználóval való kapcsolattartásra használjuk. A Felhasználó bármikor jogosult a hozzájáruláson alapuló adatkezelés esetén a hozzájárulást visszavonni az hello(kukac)appartman.hu e-mail címen. Ez nem érinti a visszavonás előtti adatkezelés jogszerűségét.
 
-        3.  E-mail cím
+    3.  E-mail cím
 
-        A Felhasználó által a Kapcsolat űrlapon megadott e-mail cím.
+    A Felhasználó által a Kapcsolat űrlapon megadott e-mail cím.
 
-        5.  Név
+    5.  Név
 
-        A Felhasználó által a Kapcsolat űrlapon megadott név.
+    A Felhasználó által a Kapcsolat űrlapon megadott név.
 
-        7.  Telefonszám
+    7.  Telefonszám
 
-        A Felhasználó telefonszáma, amennyiben a Felhasználó a kapcsolattartásra a telefonszám megadása lehetőséget választja.
+    A Felhasználó telefonszáma, amennyiben a Felhasználó a kapcsolattartásra a telefonszám megadása lehetőséget választja.
 
-        9.  Személyes adatok tárolásának időtartama
+    9.  Személyes adatok tárolásának időtartama
 
-        A személyes adatok tárolásának időtartama a Felhasználóval való kapcsolattartás időtartama. A Felhasználó bármikor kérelmezheti a tárolt személyes adatainak törlését az privacy(kuakc)mokapot.hu e-mail címen.
+    A személyes adatok tárolásának időtartama a Felhasználóval való kapcsolattartás időtartama. A Felhasználó bármikor kérelmezheti a tárolt személyes adatainak törlését az privacy(kuakc)mokapot.hu e-mail címen.
 
-        11. Személyes adatok címzettje
+    11. Személyes adatok címzettje
 
-        Mátyás Krisztián
+    Mátyás Krisztián
 
-        E-mail cím: privacy(kuakc)mokapot.hu
+    E-mail cím: privacy(kuakc)mokapot.hu
 
-        Cím: 3557 Bükkszentkereszt, Dózsa utca 2.
+    Cím: 3557 Bükkszentkereszt, Dózsa utca 2.
 
-        15. Az adatszolgáltatás elmaradásának következménye
+    15. Az adatszolgáltatás elmaradásának következménye
 
-        Amennyiben a Felhasználó úgy dönt, hogy nem adja meg személyes adatait a Kapcsolat ürlapon, úgy a kapcsolattartásra egy másik csatornát (pl.: közösségi média elérhetőségek) szükséges igénybe vennie.
+    Amennyiben a Felhasználó úgy dönt, hogy nem adja meg személyes adatait a Kapcsolat ürlapon, úgy a kapcsolattartásra egy másik csatornát (pl.: közösségi média elérhetőségek) szükséges igénybe vennie.
 
-        17. Automatizált döntéshozatal ténye
+    17. Automatizált döntéshozatal ténye
 
-        A Kapcsolat űrlapon megadott személyes adatokkal kapcsolatban automatizált döntéshozatalt, nem végzünk, azokat kizárólag a Felhaszálóval való kapcsolattartásra használjuk.
+    A Kapcsolat űrlapon megadott személyes adatokkal kapcsolatban automatizált döntéshozatalt, nem végzünk, azokat kizárólag a Felhaszálóval való kapcsolattartásra használjuk.
 
-        19. Harmadik országba történő adattovábbítás ténye
+    19. Harmadik országba történő adattovábbítás ténye
 
-        A Kapcsolat űrlapon megadott személyes adatokat harmadik országba nem továbbítjuk.
+    A Kapcsolat űrlapon megadott személyes adatokat harmadik országba nem továbbítjuk.
 
-    2.  A blog űrlapon megadott személyes adatok
+2.  A blog űrlapon megadott személyes adatok
 
-        1.  Adatkezelés célja és jogalapja
+    1.  Adatkezelés célja és jogalapja
 
-        Az adatkezelés célja elektronikus dokumentumcsere, ami az Online Marketing Eszköztár dokumentum letöltésének lehetőségében, illetve a Felhasználónak küldött e-mail formátumú hírlevelekben nyilvánul meg. Az adatkezelés jogalapja a Felhasználó önkéntes, hozzájáruláson alapuló nyilatkozata, ami a blog űrlapon lévő email adatok kitöltésében nyilvánul meg. A Blog űrlapon megadott adatokat kizárólag elektronikus dokumentumcserére használjuk. A Felhasználó bármikor jogosult a hozzájáruláson alapuló adatkezelés esetén a hozzájárulást visszavonni a privacy(kukac)mokapot.hu e-mail címen. Ez nem érinti a visszavonás előtti adatkezelés jogszerűségét.
+    Az adatkezelés célja elektronikus dokumentumcsere, ami az Online Marketing Eszköztár dokumentum letöltésének lehetőségében, illetve a Felhasználónak küldött e-mail formátumú hírlevelekben nyilvánul meg. Az adatkezelés jogalapja a Felhasználó önkéntes, hozzájáruláson alapuló nyilatkozata, ami a blog űrlapon lévő email adatok kitöltésében nyilvánul meg. A Blog űrlapon megadott adatokat kizárólag elektronikus dokumentumcserére használjuk. A Felhasználó bármikor jogosult a hozzájáruláson alapuló adatkezelés esetén a hozzájárulást visszavonni a privacy(kukac)mokapot.hu e-mail címen. Ez nem érinti a visszavonás előtti adatkezelés jogszerűségét.
 
-        3.  E-mail cím
+    3.  E-mail cím
 
-        A Felhasználó által a Blog űrlapon megadott e-mail cím.
+    A Felhasználó által a Blog űrlapon megadott e-mail cím.
 
-        5.  Személyes adatok tárolásának időtartama
+    5.  Személyes adatok tárolásának időtartama
 
-        A személyes adatok tárolásának időtartama maximum 3 év. A Felhasználó bármikor kérelmezheti a tárolt személyes adatainak törlését az privacy(kuakc)mokapot.hu e-mail címen.
+    A személyes adatok tárolásának időtartama maximum 3 év. A Felhasználó bármikor kérelmezheti a tárolt személyes adatainak törlését az privacy(kuakc)mokapot.hu e-mail címen.
 
-        7.  Személyes adatok címzettje
+    7.  Személyes adatok címzettje
 
-        Mátyás Krisztián
+    Mátyás Krisztián
 
-        E-mail cím: privacy(kuakc)mokapot.hu
+    E-mail cím: privacy(kuakc)mokapot.hu
 
-        Cím: 3557 Bükkszentkereszt, Dózsa utca 2.
+    Cím: 3557 Bükkszentkereszt, Dózsa utca 2.
 
-        11. Az adatszolgáltatás elmaradásának következménye
+    11. Az adatszolgáltatás elmaradásának következménye
 
-        Amennyiben a Felhasználó úgy dönt, hogy nem adja meg személyes adatait a Blog űrlapon, úgy a a letölthető marketing eszköztár kizárólag alternatív módon tudja beszerezni pl.: személyes üzenetben a Mokapot email címén keresztül.
+    Amennyiben a Felhasználó úgy dönt, hogy nem adja meg személyes adatait a Blog űrlapon, úgy a a letölthető marketing eszköztár kizárólag alternatív módon tudja beszerezni pl.: személyes üzenetben a Mokapot email címén keresztül.
 
-        13. Automatizált döntéshozatal ténye
+    13. Automatizált döntéshozatal ténye
 
-        A Blog űrlapon megadott személyes adatokkal kapcsolatban automatizált döntéshozatalt, nem végzünk, azokat kizárólag a Felhaszálóval való kapcsolattartásra használjuk.
+    A Blog űrlapon megadott személyes adatokkal kapcsolatban automatizált döntéshozatalt, nem végzünk, azokat kizárólag a Felhaszálóval való kapcsolattartásra használjuk.
 
-        15. Harmadik országba történő adattovábbítás ténye
+    15. Harmadik országba történő adattovábbítás ténye
 
-        A Blog űrlapon megadott személyes adatokat harmadik országba nem továbbítjuk.
+    A Blog űrlapon megadott személyes adatokat harmadik országba nem továbbítjuk.
 
 *   Sütik (cookie-k) használata
 
