@@ -178,7 +178,7 @@ sections:
         options: []
         is_required: false
       - input_type: text
-        name: 'Szálláshelyed neve '
+        name: 'Szálláshely neve '
         default_value: lorem-ipsum
         options: []
         is_required: true
