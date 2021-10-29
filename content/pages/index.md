@@ -182,7 +182,7 @@ sections:
         default_value: lorem-ipsum
         options: []
         is_required: true
-        label: Szálláshely neve
+        label: Szálláshelyed neve
       - input_type: checkbox
         name: Adatkezelési beleegyezés
         label: Elfogadom az Adatkezelési nyilatkozatot
