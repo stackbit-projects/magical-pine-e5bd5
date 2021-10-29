@@ -177,15 +177,15 @@ sections:
         label: Email cím
         options: []
         is_required: false
+      - input_type: text
+        name: 'Szálláshelyed neve '
+        default_value: lorem-ipsum
+        options: []
+        is_required: true
       - input_type: checkbox
         name: Adatkezelési beleegyezés
         label: Elfogadom az Adatkezelési nyilatkozatot
         default_value: Elfogadom az Adatkezelési nyilatkozatot
-        options: []
-        is_required: true
-      - input_type: text
-        name: 'Szálláshelyed neve '
-        default_value: lorem-ipsum
         options: []
         is_required: true
     submit_label: Feliratkozás a várólistára
