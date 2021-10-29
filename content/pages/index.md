@@ -288,7 +288,7 @@ sections:
       beszélgetünk a szállásadókkal mélyinterjú keretében.
 
 
-      Az idődet életre szóló kedvezményekkel háláljuk meg.
+      Az idődet életre szóló kedvezményekkel háláljuk meg!
     actions:
       - label: Jelentkezés interjúra
         url: /interju
