@@ -7,7 +7,7 @@ sections:
       Egyszerű és villámgyors foglalómotorunkkal automatizáltan fogadhatod a
       vendégeidet anélkül, hogy ajánlatkérő emailekre kellene válaszolnod.
     content: |
-      **1 hónapig ingyenes**
+      ****
     actions:
       - label: Feliratkozás a várólistára
         url: '/#foglalomotor-varolista'
