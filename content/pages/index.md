@@ -122,23 +122,21 @@ sections:
 
 
           A vendég a foglaláskor megadja az adatait, amely szükséges az NTAK
-          adatszolgáltatáshoz, a rendszerünk pedig lemondja a szabad kapacitást
-          a Szállás.hu-n, Bookingon és Airbnb-n.
+          adatszolgáltatáshoz. 
 
 
-          ### 3.lépés
+          ### 3. lépés
 
 
           A foglaló az email címére automatizált emailt kap a foglalás
           adataival, előleg összegével és egyéb információkkal.
 
 
-          ### 4.lépés
+          ### 4. lépés – hamarosan
 
 
-          A rendszerünk az Appartman PMS-sel összekapcsolva automatizáltan
-          biztosítja az adatokat az NTAK részére és egy gombnyomásra elküldi
-          azokat.
+          A rendszerünk lemondja a szabad kapacitást a Szállás.hu-n, Bookingon
+          és Airbnb-n.
         actions: []
         image_alt: lorem-ipsum
         media_position: top
