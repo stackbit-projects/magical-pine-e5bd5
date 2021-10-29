@@ -183,6 +183,12 @@ sections:
         default_value: Elfogadom az Adatkezelési nyilatkozatot
         options: []
         is_required: true
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
     submit_label: Feliratkozás a várólistára
     align_vert: middle
     padding_top: medium
