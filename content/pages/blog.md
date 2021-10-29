@@ -26,7 +26,7 @@ sections:
     type: blog_feed_section
 seo:
   title: Szakmai tudástár magánszállásadóknak | Appartman blog
-  description: 'Szakmai tudástár '
+  description: Szakmai cikkek szállásadóknak.
   robots: []
   extra: []
   type: stackbit_page_meta
