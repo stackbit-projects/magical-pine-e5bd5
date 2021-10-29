@@ -179,7 +179,6 @@ sections:
         is_required: false
       - input_type: text
         name: 'Szálláshely neve '
-        default_value: lorem-ipsum
         options: []
         is_required: true
         label: Szálláshelyed neve
