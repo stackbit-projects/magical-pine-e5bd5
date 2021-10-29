@@ -26,7 +26,7 @@ sections:
     type: blog_feed_section
 seo:
   title: ''
-  description: ''
+  description: 'Szakmai tudástár '
   robots: []
   extra: []
   type: stackbit_page_meta
