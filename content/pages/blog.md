@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Appartman Blog
 sections:
   - section_id: lorem-ipsum
     title: Appartman blog
