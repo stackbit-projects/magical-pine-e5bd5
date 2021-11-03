@@ -1,5 +1,5 @@
 ---
-title: NTAK tudnivalók
+title: Szakmai blogunk hamarosan indul!
 subtitle: lorem-ipsum
 date: '2021-08-23'
 categories: []
