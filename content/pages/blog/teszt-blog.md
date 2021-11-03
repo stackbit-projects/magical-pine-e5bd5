@@ -1,6 +1,6 @@
 ---
 title: Szakmai blogunk hamarosan indul!
-subtitle: 'Igyekszünk a magánszállásadás '
+subtitle: 'Igyekszünk a szálláshely szolgáltatás '
 date: '2021-11-03'
 categories: []
 tags: []
