@@ -3,7 +3,9 @@ title: Szakmai blogunk hamarosan indul!
 date: '2021-11-03'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: >-
+  Igyekszünk a szálláshely szolgáltatás minden területét lefedni a készülő
+  tudástárunkkal.
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
