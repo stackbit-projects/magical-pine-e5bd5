@@ -3,5 +3,6 @@
     "link": "lorem-ipsum",
     "first_name": "Appartman",
     "photo_alt": "lorem-ipsum",
-    "type": "person"
+    "type": "person",
+    "photo": "/images/profilkép (1).png"
 }
