@@ -1,7 +1,7 @@
 ---
 title: Szakmai blogunk hamarosan indul!
 subtitle: lorem-ipsum
-date: '2021-08-23'
+date: '2021-11-03'
 categories: []
 tags: []
 excerpt: lorem-ipsum
