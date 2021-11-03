@@ -1,8 +1,5 @@
 ---
 title: Szakmai blogunk hamarosan indul!
-subtitle: >-
-  Igyekszünk a szálláshely szolgáltatás minden területét lefedni a készülő
-  tudástárunkkal.
 date: '2021-11-03'
 categories: []
 tags: []
