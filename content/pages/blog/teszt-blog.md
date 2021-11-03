@@ -1,6 +1,6 @@
 ---
 title: Szakmai blogunk hamarosan indul!
-subtitle: lorem-ipsum
+subtitle: 'A '
 date: '2021-11-03'
 categories: []
 tags: []
