@@ -21,6 +21,8 @@ seo:
   extra: []
 layout: post
 author: content/data/team/person-oiv6w0nu9.json
+thumb_image: >-
+  /images/weboldal-szallashely-automatizacio-jutalekmentes-foglalomotor-blogposzt-hero.png
 ---
 A foglalómotor a szálláshely weboldalába beágyazható naprakész naptárnézet, amely segít a vendégeknek a foglalásuk véglegesítésében.
 
