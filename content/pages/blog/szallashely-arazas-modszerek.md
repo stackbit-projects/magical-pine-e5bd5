@@ -17,7 +17,12 @@ seo:
   title: Hogyan árazzuk szálláshelyünket? | Appartman Blog
   description: Árszámítási és árazási tippek magánszállásadóknak.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: >-
+        /images/szallashely-arazasi-modszerek-vendeghazaknak-apartmanoknak-og.png
+      keyName: property
+      relativeUrl: true
 layout: post
 author: content/data/team/person-oiv6w0nu9.json
 thumb_image: /images/szallashely-arazasi-modszerek-vendeghazaknak-apartmanoknak-hero.png
