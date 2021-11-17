@@ -14,7 +14,7 @@ thumb_image_alt: Árazási módszerek vendégházaknak és apartmanoknak borít�
 image_alt: Árazási módszerek vendégházaknak és apartmanoknak borítókép
 image_position: top
 seo:
-  title: ''
+  title: Hogyan árazzuk szálláshelyünket? | Appartman Blog
   description: ''
   robots: []
   extra: []
