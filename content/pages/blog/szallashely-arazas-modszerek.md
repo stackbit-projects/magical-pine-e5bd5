@@ -26,7 +26,9 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'og:description'
-      value: Árazási módszerek vendégházaknak és apartmanoknak.
+      value: >-
+        A megfelelő árszámítási és árazási tippek alkalmazásával maximalizálható
+        a kihasználtság és az árbevétel.
       keyName: property
       relativeUrl: false
 layout: post
