@@ -1,6 +1,8 @@
 ---
 title: Hogyan árazzuk szálláshelyünket?
-subtitle: 'Vendégház, apartman árazási módszerek '
+subtitle: >-
+  Vendégház, apartman árazási módszerek a lehető legjobb kihasználtságért és
+  bevételért.
 date: '2021-11-17'
 categories: []
 tags: []
