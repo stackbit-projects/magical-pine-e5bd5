@@ -7,7 +7,7 @@ date: '2021-11-02'
 categories: []
 tags:
   - content/data/tags/tag-fhtcfwkv0.json
-excerpt: 'A megfelelő árazás kiválasztásával '
+excerpt: 'A megfelelő árazási módszer kiválasztásával '
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
