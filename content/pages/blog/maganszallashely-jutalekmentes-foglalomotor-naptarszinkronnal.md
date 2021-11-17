@@ -28,7 +28,7 @@ A foglalómotor a szálláshely weboldalába beágyazható naprakész naptárné
 
 A szállásközvetítő oldalak foglalásonként akár 12–16% közötti jutalékot is felszámíthatnak, ami egy kisebb szálláshely esetében is **havi több tízezer forintot** jelent.
 
-Ezért sok szállásadó az ismert közvetítő oldalak (Szállás.hu, Booking, Airbnb) mellett saját weboldalt és foglalási lehetőséget is biztosítanak azért, hogy **csökkentsék a költségeiket** és személyesebb kapcsolatot építsenek ki a vendégeikkel.
+Ezért sok szállásadó az ismert közvetítő oldalak (Szállás.hu, Booking, Airbnb) mellett saját weboldalt és foglalási lehetőséget is biztosít azért, hogy **csökkentse a költségeit** és személyesebb kapcsolatot építsen ki a vendégekkel.
 
 ### Milyen foglalási lehetőségek vannak?
 
