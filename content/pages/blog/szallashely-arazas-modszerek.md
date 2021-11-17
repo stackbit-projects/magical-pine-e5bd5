@@ -15,7 +15,7 @@ image_alt: Árazási módszerek vendégházaknak és apartmanoknak borítókép
 image_position: top
 seo:
   title: Hogyan árazzuk szálláshelyünket? | Appartman Blog
-  description: Árszámítási és árazási tippek magánszállásadóknak.
+  description: A megfelelő árszámítási és árazási tippek magánszállásadóknak.
   robots: []
   extra:
     - name: 'og:image'
