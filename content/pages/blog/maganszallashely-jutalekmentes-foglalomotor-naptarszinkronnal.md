@@ -20,7 +20,12 @@ seo:
     Egy jó foglalómotor leegyszerűsíti a foglalások adminisztrációt, és
     költséget is takarít meg. A cikkben megtudhatod, hogyan.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: >-
+        /images/weboldal-szallashely-automatizacio-jutalekmentes-foglalomotor-blogposzt-hero-928e618f.png
+      keyName: property
+      relativeUrl: true
 layout: post
 author: content/data/team/person-oiv6w0nu9.json
 thumb_image: >-
