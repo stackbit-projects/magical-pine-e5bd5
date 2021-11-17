@@ -62,7 +62,7 @@ A telefonos foglalások automatizálásáért sajnos nem tehetünk sokat, viszon
 
 > Főszezonban számtalanszor előfordul, hogy a vendégek emailben a szabad szobák iránt érdeklődnek — amikor már teltház van — , mert egyszerűen nem látják a weboldalon a foglalt kapacitásainkat...
 
-Ha pedig van naptárunk, de továbbra is egy űrlapon kell jelentkezniük, akkor válaszemailben kell megerősítenünk a foglalásukat a szabad szobákat pedig lemondani a közvetítő oldalakon. Ez elég időigényes tud lenni.
+Ha pedig van naptárunk, de továbbra is egy űrlapon kell jelentkezniük, akkor válasz emailben kell megerősítenünk a foglalásukat, a szabad szobákat pedig lemondani a közvetítő oldalakon. Ez elég időigényes tud lenni.
 
 ### Miben segít az Appartman foglalómotorja?
 
