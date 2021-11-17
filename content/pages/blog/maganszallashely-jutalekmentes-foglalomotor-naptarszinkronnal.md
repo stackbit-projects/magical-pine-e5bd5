@@ -47,3 +47,12 @@ A telefonos foglalások automatizálásáért sajnos nem tehetünk sokat, viszon
 
 > Főszezonban számtalanszor előfordul, hogy a vendégek emailben a szabad szobák iránt érdeklődnek — amikor már teltház van — , mert egyszerűen nem látják a weboldalon a foglalt kapacitásainkat...
 
+Ha pedig van naptárunk, de továbbra is egy űrlapon kell jelentkezniük, akkor válaszemailben kell megerősítenünk a foglalásukat a szabad szobákat pedig lemondani a közvetítő oldalakon. Ez elég időigényes tud lenni.
+
+### Miben segít az Appartman foglalómotorja
+
+Az Appartman foglalómotorja egy a saját weboldalba ágyazható jutalékmentes foglalási rendszer kifejezetten kis szállásadóknak, amely segíti a foglalások automatizált kezelését.
+
+##### Személyre szabható árazás
+
+Az admin felületen lehetőségünk van a [különböző árazási módszerek](https://medium.com/sz%C3%A1ll%C3%A1sad%C3%B3k-szakmai-k%C3%B6z%C3%B6ss%C3%A9ge/hogyan-arazzuk-szallashelyunket-f61e05776705) beállítására ami miatt lakóegység, létszám vagy akár hibrid árazásban is foglalhatnak vendégeink.
