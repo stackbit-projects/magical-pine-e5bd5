@@ -2,7 +2,7 @@
 title: 'Szálláshely automatizáció: foglalómotor'
 subtitle: >-
   A foglalómotor lehetővé teszi a jutalékmentes vendégfogadást, és elhagyható
-  vele az ajánlatkérő 
+  vele az ajánlatkéréskre válaszolgatás.
 date: '2021-11-17'
 categories: []
 tags: []
