@@ -11,7 +11,7 @@ excerpt: >-
   A megfelelő árazási módszer kiválasztásával elérheted, hogy minél kevesebb
   pénzt hagyj az asztalon.
 thumb_image_alt: Árazási módszerek vendégházaknak és apartmanoknak borítókép
-image_alt: lorem-ipsum
+image_alt: Árazási módszerek vendégházaknak és apartmanoknak borítókép
 image_position: top
 seo:
   title: ''
