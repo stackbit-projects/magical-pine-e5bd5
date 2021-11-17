@@ -20,6 +20,7 @@ seo:
   extra: []
 layout: post
 author: content/data/team/person-oiv6w0nu9.json
+thumb_image: /images/szallashely-arazasi-modszerek-vendeghazaknak-apartmanoknak-hero.png
 ---
 Főként kezdő szálláshely tulajdonosoknál szokott fejtörést okozni a kérdés, hogy hogyan is kellene árazniuk a szálláshelyüket, de azért a tapasztaltabbaknak is igyekszünk néhány iránymutatást adni, hogyan csinálják mások.
 
