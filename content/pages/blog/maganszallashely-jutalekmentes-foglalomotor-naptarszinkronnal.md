@@ -17,7 +17,7 @@ image_position: top
 seo:
   title: 'Szálláshely automatizáció: foglalómotor | Appartman Blog'
   description: >-
-    Egy jó foglalómotor leegyszerűsíti a foglalások adminisztrációt, és
+    Egy jó foglalómotor leegyszerűsíti a foglalások adminisztrációját, és
     költséget is takarít meg. A cikkben megtudhatod, hogyan.
   robots: []
   extra:
