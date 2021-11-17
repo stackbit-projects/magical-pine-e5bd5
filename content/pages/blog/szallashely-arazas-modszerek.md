@@ -7,7 +7,7 @@ date: '2021-11-02'
 categories: []
 tags:
   - content/data/tags/tag-fhtcfwkv0.json
-excerpt: lorem-ipsum
+excerpt: 'A megfelelő árazás kiválasztásával '
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
