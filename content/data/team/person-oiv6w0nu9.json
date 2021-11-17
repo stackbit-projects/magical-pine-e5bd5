@@ -3,5 +3,6 @@
     "first_name": "Mátyás",
     "last_name": "Krisztián",
     "photo_alt": "matyas-krisztian-appartman-blog-szerzo",
-    "type": "person"
+    "type": "person",
+    "photo": "/images/matyas-krisztian-appartman-blog.png"
 }
