@@ -71,3 +71,5 @@ Foglalás beérkezését követően a foglaló automatikus emailt kap a foglalá
 A foglalómotor weboldalba ágyazható, de akár weboldal nélküli saját linken is közvetlenül elérhető. Mobilbarát és egyszerű kialakításának köszönhetően pedig segíti a látogatót, hogy könnyen, gördülékenyen intézze foglalását.
 
 Ha érdekel a megoldás, bővebb információkat az [appartman.hu foglalómotor](https://appartman.hu/) weboldalán találsz.
+
+Az eredeti cikk a Szállásadók szakmai közössége [Medium oldalán](https://medium.com/sz%C3%A1ll%C3%A1sad%C3%B3k-szakmai-k%C3%B6z%C3%B6ss%C3%A9ge/sz%C3%A1ll%C3%A1shely-automatiz%C3%A1ci%C3%B3-foglal%C3%B3motor-d6103c7cbf98) található. A Szállásadók szakmai közössége egy magánszállásadókból álló, egymást segítő közösség. [Csatlakozz bátran a Facebook csoportunkhoz](https://www.facebook.com/groups/szallasadok)!
