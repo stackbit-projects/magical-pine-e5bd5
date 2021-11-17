@@ -11,7 +11,7 @@ tags:
 excerpt: >-
   A foglalómotor lehetővé teszi a jutalékmentes vendégfogadást, és elhagyható
   vele az ajánlatkéréskre válaszolgatás.
-thumb_image_alt: foglalomotor-maganszallashelyeknek
+thumb_image_alt: Foglalómotor magánszálláshelyeknek
 image_alt: lorem-ipsum
 image_position: top
 seo:
