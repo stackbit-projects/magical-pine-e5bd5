@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Hogyan árazzuk szálláshelyünket?
 subtitle: lorem-ipsum
 date: '2021-11-17'
 categories: []
