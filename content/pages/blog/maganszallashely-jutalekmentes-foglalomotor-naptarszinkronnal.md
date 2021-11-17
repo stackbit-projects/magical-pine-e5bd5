@@ -50,7 +50,7 @@ A telefonos foglalások automatizálásáért sajnos nem tehetünk sokat, viszon
 
 Ha pedig van naptárunk, de továbbra is egy űrlapon kell jelentkezniük, akkor válaszemailben kell megerősítenünk a foglalásukat a szabad szobákat pedig lemondani a közvetítő oldalakon. Ez elég időigényes tud lenni.
 
-### Miben segít az Appartman foglalómotorja
+### Miben segít az Appartman foglalómotorja?
 
 Az Appartman foglalómotorja egy a saját weboldalba ágyazható jutalékmentes foglalási rendszer kifejezetten kis szállásadóknak, amely segíti a foglalások automatizált kezelését.
 
