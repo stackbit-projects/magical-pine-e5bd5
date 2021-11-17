@@ -23,7 +23,7 @@ seo:
   extra:
     - name: 'og:image'
       value: >-
-        /images/weboldal-szallashely-automatizacio-jutalekmentes-foglalomotor-blogposzt-og.png
+        /images/weboldal-szallashely-automatizacio-jutalekmentes-foglalomotor-blogposzt-og-50f5adf7.png
       keyName: property
       relativeUrl: true
     - name: 'og:type'
