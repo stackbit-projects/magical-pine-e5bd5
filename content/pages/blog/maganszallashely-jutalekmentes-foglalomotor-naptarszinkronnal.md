@@ -36,6 +36,7 @@ thumb_image: >-
   /images/weboldal-szallashely-automatizacio-jutalekmentes-foglalomotor-blogposzt-hero.png
 image: >-
   /images/weboldal-szallashely-automatizacio-jutalekmentes-foglalomotor-blogposzt-hero-8e3b4ebe.png
+image_alt: Foglalómotor borítókép
 ---
 A foglalómotor a szálláshely weboldalába beágyazható naprakész naptárnézet, amely segít a vendégeknek a foglalásuk véglegesítésében.
 
