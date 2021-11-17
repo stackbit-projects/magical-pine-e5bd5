@@ -16,6 +16,7 @@ seo:
   robots: []
   extra: []
 layout: post
+author: content/data/team/person-oiv6w0nu9.json
 ---
 ## Lorem ipsum
 
