@@ -31,6 +31,12 @@ seo:
         a kihasználtság és az árbevétel.
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        A megfelelő árszámítási és árazási tippek alkalmazásával maximalizálható
+        a kihasználtság és az árbevétel.
+      keyName: name
+      relativeUrl: false
 layout: post
 author: content/data/team/person-oiv6w0nu9.json
 thumb_image: /images/szallashely-arazasi-modszerek-vendeghazaknak-apartmanoknak-hero.png
