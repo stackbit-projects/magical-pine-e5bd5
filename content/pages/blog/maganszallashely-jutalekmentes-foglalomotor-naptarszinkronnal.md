@@ -23,12 +23,27 @@ author: content/data/team/person-oiv6w0nu9.json
 ---
 A foglalómotor a szálláshely weboldalába beágyazható naprakész naptárnézet, amely segít a vendégeknek a foglalásuk véglegesítésében.
 
-## Miért éri meg?
+### Miért éri meg?
 
 A szállásközvetítő oldalak foglalásonként akár 12–16% közötti jutalékot is felszámíthatnak, ami egy kisebb szálláshely esetében is **havi több tízezer forintot** jelent.
 
 Ezért sok szállásadó az ismert közvetítő oldalak (Szállás.hu, Booking, Airbnb) mellett saját weboldalt és foglalási lehetőséget is biztosítanak azért, hogy **csökkentsék a költségeiket** és személyesebb kapcsolatot építsenek ki a vendégeikkel.
 
-## Milyen foglalási lehetőségek vannak?
+### Milyen foglalási lehetőségek vannak?
 
 A közvetítő oldalakon túl a vendégek az alábbi foglalási csatornákat is alkalmazzák:
+
+*   telefon
+
+*   email
+
+*   Facebook/Instagram
+
+*   Saját weboldal űrlapja
+
+A legfőbb probléma ezekkel a csatornákkal, hogy sokszor időrablók és folyamatos személyes jelenlétet igényelnek.
+
+A telefonos foglalások automatizálásáért sajnos nem tehetünk sokat, viszont a weboldalról érkező érdeklődőkkel kapcsolatos adminisztrációt csökkenthetjük.
+
+> Főszezonban számtalanszor előfordul, hogy a vendégek emailben a szabad szobák iránt érdeklődnek — amikor már teltház van — , mert egyszerűen nem látják a weboldalon a foglalt kapacitásainkat...
+
