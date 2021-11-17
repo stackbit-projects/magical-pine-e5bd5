@@ -42,7 +42,7 @@ A közvetítő oldalakon túl a vendégek az alábbi foglalási csatornákat is 
 
 *   Saját weboldal űrlapja
 
-A legfőbb probléma ezekkel a csatornákkal, hogy sokszor időrablók és folyamatos személyes jelenlétet igényelnek.
+A legfőbb probléma ezekkel a csatornákkal, hogy **sokszor időrablók és folyamatos személyes jelenlétet igényelnek**.
 
 A telefonos foglalások automatizálásáért sajnos nem tehetünk sokat, viszont a weboldalról érkező érdeklődőkkel kapcsolatos adminisztrációt csökkenthetjük.
 
