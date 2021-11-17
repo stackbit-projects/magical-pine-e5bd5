@@ -56,3 +56,17 @@ Az Appartman foglalómotorja egy a saját weboldalba ágyazható jutalékmentes 
 ##### Személyre szabható árazás
 
 Az admin felületen lehetőségünk van a [különböző árazási módszerek](https://medium.com/sz%C3%A1ll%C3%A1sad%C3%B3k-szakmai-k%C3%B6z%C3%B6ss%C3%A9ge/hogyan-arazzuk-szallashelyunket-f61e05776705) beállítására ami miatt lakóegység, létszám vagy akár hibrid árazásban is foglalhatnak vendégeink.
+
+##### Naptárszinkron
+
+A foglalómotor összeköttetésben van a közvetítő oldalakkal így a funkció segítségével a vendég naprakész információt kap a szabad időpontokról. A foglalás beérkezését követő néhány órán belül a foglalómotor automatikusan lemondja a szabad kapacitásokat a közvetítő oldalakon így nem kell aggódni a túlfoglalások miatt sem.
+
+##### Email automatizmusok
+
+Foglalás beérkezését követően a foglaló automatikus emailt kap a foglalás adatairól, előleg fizetésének összegéről és menetéről.
+
+##### Felhasználóbarát kialakítás
+
+A foglalómotor weboldalba ágyazható, de akár weboldal nélküli saját linken is közvetlenül elérhető. Mobilbarát és egyszerű kialakításának köszönhetően pedig segíti a látogatót, hogy könnyen, gördülékenyen intézze foglalását.
+
+Ha érdekel a megoldás, bővebb információkat az [appartman.hu foglalómotor](https://appartman.hu/) weboldalán találsz.
