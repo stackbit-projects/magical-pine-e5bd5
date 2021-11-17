@@ -1,6 +1,6 @@
 ---
 title: Hogyan árazzuk szálláshelyünket?
-subtitle: lorem-ipsum
+subtitle: 'Vendégház, apartman árazási módszerek '
 date: '2021-11-17'
 categories: []
 tags: []
