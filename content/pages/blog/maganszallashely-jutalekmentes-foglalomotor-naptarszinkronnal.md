@@ -26,6 +26,10 @@ seo:
         /images/weboldal-szallashely-automatizacio-jutalekmentes-foglalomotor-blogposzt-og.png
       keyName: property
       relativeUrl: true
+    - name: 'og:type'
+      value: article
+      keyName: property
+      relativeUrl: false
 layout: post
 author: content/data/team/person-oiv6w0nu9.json
 thumb_image: >-
