@@ -1,6 +1,6 @@
 ---
 title: 'Szálláshely automatizáció: foglalómotor'
-subtitle: A foglalómotor lehetővé teszi a jutalékmentes vendégfogadást
+subtitle: 'A foglalómotor lehetővé teszi a jutalékmentes vendégfogadást, és '
 date: '2021-11-17'
 categories: []
 tags: []
