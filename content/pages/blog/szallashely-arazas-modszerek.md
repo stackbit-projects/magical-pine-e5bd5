@@ -23,6 +23,10 @@ seo:
         /images/szallashely-arazasi-modszerek-vendeghazaknak-apartmanoknak-og.png
       keyName: property
       relativeUrl: true
+    - name: 'og:description'
+      value: Árazási módszerek vendégházaknak és apartmanoknak.
+      keyName: property
+      relativeUrl: false
 layout: post
 author: content/data/team/person-oiv6w0nu9.json
 thumb_image: /images/szallashely-arazasi-modszerek-vendeghazaknak-apartmanoknak-hero.png
