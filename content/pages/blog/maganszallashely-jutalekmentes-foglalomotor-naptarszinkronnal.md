@@ -6,7 +6,9 @@ subtitle: >-
 date: '2021-11-17'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: >-
+  A foglalómotor lehetővé teszi a jutalékmentes vendégfogadást, és elhagyható
+  vele az ajánlatkéréskre válaszolgatás.
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
