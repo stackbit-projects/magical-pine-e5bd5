@@ -56,13 +56,7 @@ Ha már van egy jó alapunk, hogy közvetlen foglalásokat fogadjunk, nincs más
 
 Legyünk aktívak Facebookon, Instagramon vagy akár a TikTokon. Készítsünk képeket, mutassuk be a környéket és osszuk meg a közelgő eseményeket.
 
-> Akinek van hozzá kedve, ajánlom a 
->
-> [**Canva**](https://www.canva.com/)
->
-> ** **
->
-> szerkesztőjét, ahol egyszerűen lehet közösségi média tartalmakat készíteni.
+> Akinek van hozzá kedve, ajánlom a [**Canva**](https://www.canva.com/) szerkesztőjét, ahol egyszerűen lehet közösségi média tartalmakat készíteni.
 
 A posztokban pedig linkeljük be a weboldalunk foglalási oldalát.
 
