@@ -26,7 +26,9 @@ sections:
     type: blog_feed_section
 seo:
   title: Szakmai tudástár magánszállásadóknak | Appartman blog
-  description: 'Szakmai cikkek szállásadóknak. '
+  description: >-
+    Szállásadóknak szánt szakmai cikkeinkkel a vendégházak, apartmanok és kisebb
+    panziók fejlődését igyekszünk segíteni.
   robots: []
   extra: []
   type: stackbit_page_meta
