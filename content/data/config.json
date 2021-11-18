@@ -66,17 +66,6 @@
                 "new_window": true,
                 "no_follow": false,
                 "type": "action"
-            },
-            {
-                "label": "YouTube",
-                "url": "#",
-                "style": "link",
-                "has_icon": true,
-                "icon": "youtube",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "secondary_nav_title": "Kövess minket",
