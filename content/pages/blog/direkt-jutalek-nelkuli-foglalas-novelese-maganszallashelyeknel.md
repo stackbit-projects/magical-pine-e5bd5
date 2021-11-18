@@ -13,7 +13,9 @@ image_alt: lorem-ipsum
 image_position: top
 seo:
   title: Hogyan növeljük direkt foglalásaink számát? | Appartman Blog
-  description: ''
+  description: >-
+    Mi a direkt foglalások nagy előnye, és milyen módszereket érdemes
+    alkalmazni, hogy növeljük az arányát?
   robots: []
   extra: []
 layout: post
