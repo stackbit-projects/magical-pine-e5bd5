@@ -20,7 +20,7 @@ layout: post
 author: content/data/team/person-oiv6w0nu9.json
 excerpt: >-
   Mi a direkt foglalások nagy előnye, és milyen módszereket érdemes alkalmazni,
-  hogy növelj
+  hogy növeljük az arányát?
 ---
 ## Mit jelent a direkt foglalás?
 
