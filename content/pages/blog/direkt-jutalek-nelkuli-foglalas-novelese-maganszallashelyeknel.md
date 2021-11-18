@@ -24,6 +24,7 @@ excerpt: >-
   hogy növeljük az arányát?
 thumb_image: >-
   /images/direkt-online-foglalas-foglalomotor-vendeghazak-apartmanok-hero-0d68d9a2.png
+thumb_image_alt: Direkt foglalás tippek vendégházaknak apartmanoknak borítókép
 ---
 ## Mit jelent a direkt foglalás?
 
