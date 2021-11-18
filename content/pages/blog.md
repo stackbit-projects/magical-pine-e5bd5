@@ -30,7 +30,11 @@ seo:
     Szállásadóknak szánt szakmai cikkeinkkel a vendégházak, apartmanok és kisebb
     panziók fejlődését igyekszünk segíteni.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/appartman-blog-tudastar-maganszallashelyeknek.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: advanced
 ---
