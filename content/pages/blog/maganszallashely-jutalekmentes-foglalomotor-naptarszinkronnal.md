@@ -33,7 +33,7 @@ seo:
 layout: post
 author: content/data/team/person-oiv6w0nu9.json
 thumb_image: >-
-  /images/weboldal-szallashely-automatizacio-jutalekmentes-foglalomotor-blogposzt-hero.png
+  /images/weboldal-szallashely-automatizacio-jutalekmentes-foglalomotor-vendghazaknak-apartmanoknak-blogposzt-hero.png
 image: >-
   /images/weboldal-szallashely-automatizacio-jutalekmentes-foglalomotor-blogposzt-hero-8e3b4ebe.png
 image_alt: Foglalómotor borítókép
