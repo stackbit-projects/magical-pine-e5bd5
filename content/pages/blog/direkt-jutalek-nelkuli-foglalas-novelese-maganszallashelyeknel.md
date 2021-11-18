@@ -1,8 +1,8 @@
 ---
 title: Hogyan növeljük direkt foglalásaink számát?
 subtitle: >-
-  A direkt foglalás szállásközvetítő oldalak nélkül történik, így a direkt
-  foglalások arányának növelésével emelhető a bevétel.
+  Az online direkt foglalás szállásközvetítő oldalak nélkül történik, így a
+  direkt foglalások arányának növelésével emelhető a bevétel.
 date: '2021-11-18'
 categories: []
 tags:
