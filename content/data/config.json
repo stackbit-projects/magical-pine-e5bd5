@@ -48,15 +48,6 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Facebook",
-                "url": "https://twitter.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "facebook",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
                 "label": "Instagram",
                 "url": "https://www.instagram.com/appartmanhu/",
                 "style": "link",
