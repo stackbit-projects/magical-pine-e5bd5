@@ -18,7 +18,7 @@ seo:
   extra: []
 layout: post
 author: content/data/team/person-oiv6w0nu9.json
-excerpt: 'Mi a direkt foglalások nagy előnye, és '
+excerpt: 'Mi a direkt foglalások nagy előnye, és milyen'
 ---
 ## Mit jelent a direkt foglalás?
 
