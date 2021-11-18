@@ -19,7 +19,8 @@ seo:
   extra:
     - name: 'og:image'
       value: >-
-        /images/direkt-online-foglalas-foglalomotor-vendeghazak-apartmanok-og.png
+        /images/direkt-online-foglalas-foglalomotor-vendeghazak-apartmanok-og
+        (1).png
       keyName: property
       relativeUrl: true
 layout: post
