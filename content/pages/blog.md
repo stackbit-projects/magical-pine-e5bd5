@@ -2,7 +2,7 @@
 title: Appartman Blog
 sections:
   - section_id: lorem-ipsum
-    title: Appartman blog
+    title: Appartman Blog
     subtitle: Tudástár szálláshely szolgáltatóknak
     actions: []
     blog_feed_cols: three
