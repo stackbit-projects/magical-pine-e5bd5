@@ -7,6 +7,7 @@ date: '2021-11-18'
 categories: []
 tags:
   - content/data/tags/tag-tg7a83eb8.json
+  - content/data/tags/tag-nrrirxwv1.json
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
