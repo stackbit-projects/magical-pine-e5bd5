@@ -23,7 +23,6 @@ author: content/data/team/person-oiv6w0nu9.json
 excerpt: >-
   Mi a direkt foglalások nagy előnye, és milyen módszereket érdemes alkalmazni,
   hogy növeljük az arányát?
-thumb_image: /images/direkt-online-foglalas-foglalomotor-vendeghazak-apartmanok-hero.png
 ---
 ## Mit jelent a direkt foglalás?
 
