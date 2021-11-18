@@ -8,7 +8,7 @@ categories: []
 tags:
   - content/data/tags/tag-tg7a83eb8.json
   - content/data/tags/tag-nrrirxwv1.json
-image_alt: lorem-ipsum
+image_alt: Direkt foglalás tippek vendégházaknak apartmanoknak borítókép
 image_position: top
 seo:
   title: Hogyan növeljük direkt foglalásaink számát? | Appartman Blog
