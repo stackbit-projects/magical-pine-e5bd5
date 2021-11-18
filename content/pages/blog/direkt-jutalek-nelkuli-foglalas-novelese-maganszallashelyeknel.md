@@ -1,6 +1,6 @@
 ---
 title: Hogyan növeljük direkt foglalásaink számát?
-subtitle: lorem-ipsum
+subtitle: A direkt foglalás
 date: '2021-11-18'
 categories: []
 tags: []
