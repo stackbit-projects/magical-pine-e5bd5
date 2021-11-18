@@ -12,7 +12,7 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
 seo:
-  title: ''
+  title: Hogyan növeljük direkt foglalásaink számát? | Appartman Blog
   description: ''
   robots: []
   extra: []
