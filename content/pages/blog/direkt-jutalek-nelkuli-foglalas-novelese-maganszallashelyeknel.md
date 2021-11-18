@@ -16,7 +16,12 @@ seo:
     Mi a direkt foglalások nagy előnye, és milyen módszereket érdemes
     alkalmazni, hogy növeljük az arányát?
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: >-
+        /images/direkt-online-foglalas-foglalomotor-vendeghazak-apartmanok-og.png
+      keyName: property
+      relativeUrl: true
 layout: post
 author: content/data/team/person-oiv6w0nu9.json
 excerpt: >-
