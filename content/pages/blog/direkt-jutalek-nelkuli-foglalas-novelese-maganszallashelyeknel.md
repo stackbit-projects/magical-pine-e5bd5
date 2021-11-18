@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Hogyan növeljük direkt foglalásaink számát?
 subtitle: lorem-ipsum
 date: '2021-11-18'
 categories: []
