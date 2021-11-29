@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Főoldal
 sections:
   - type: hero_section
     title: 'Vendégfogadás jutalékmentesen, foglalómotorunkkal'
