@@ -87,6 +87,7 @@ sections:
         media_position: right
         media_width: fourty
         align: left
+        subtitle: Villámgyors szobafoglalás vendégeidnek
       - title: Regisztráció percek alatt
         content: >
           Szálláshelyed admin felületén percek adhatod meg lakóegységeid,
