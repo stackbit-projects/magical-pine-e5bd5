@@ -154,6 +154,7 @@ sections:
     padding_bottom: large
     section_id: online-szobafoglalasi-rendszer-ical-naptarszinkronnal
     title: Egyszerű online közvetlen foglalás
+    subtitle: Foglalási rendszerünket a magánszálláshelyek igényeire szabjuk.
   - section_id: foglalomotor-varolista
     title_align: left
     content: >
