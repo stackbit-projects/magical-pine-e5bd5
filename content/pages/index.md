@@ -180,7 +180,7 @@ sections:
       - input_type: text
         name: 'Szálláshely neve '
         options: []
-        is_required: true
+        is_required: false
         label: Szálláshelyed neve
       - input_type: checkbox
         name: Adatkezelési beleegyezés
