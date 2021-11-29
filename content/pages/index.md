@@ -317,7 +317,7 @@ seo:
   title: Foglalómotor magánszálláshelyeknek | Appartman
   description: >
     Kis szálláshelyekre szabott foglalómotorunkkal automatizáltan és jutalék
-    nélkül fogadhatod vendégeidet a saját weboldaladról.
+    nélkül fogadhatod vendégeidet közvetlenül a saját weboldaladról.
   extra:
     - name: 'og:type'
       value: website
