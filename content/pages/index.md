@@ -293,7 +293,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - section_id: interju-cta
+  - section_id: szallashelykezelo-interju-cta
     title: Szállásadóként részt vehetsz egy felhasználóbarát szoftver létrejöttében.
     content: >
       Hogy minél jobban kielégítsük a kis szálláshelyek igényeit, sokat
