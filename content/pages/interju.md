@@ -1,5 +1,5 @@
 ---
-title: 'Jelentkezz interjúra, hogy létre'
+title: Szálláshelykezelő interjú jelentkezés | Appartman
 sections:
   - type: hero_section
     title: Segítsd egy interjúval a jövő szálláshelykezelőjének létrejöttét
