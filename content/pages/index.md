@@ -64,6 +64,7 @@ sections:
     background_color: none
     background_image_opacity: 10
     section_id: weboldal-tipusok-beagyazhato-foglalomotor
+    title: 'A foglalási rendszerünkkel '
   - type: features_section
     features:
       - title: Tartsd naprakészen szabad szobáid minden felületen
