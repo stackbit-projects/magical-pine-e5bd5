@@ -11,6 +11,7 @@ tags:
   - content/data/tags/tag-a56lk8rds.json
   - content/data/tags/tag-o0e57ryrq.json
   - content/data/tags/tag-ye7y6mq26.json
+  - content/data/tags/tag-olndlucmz.json
 excerpt: >-
   A foglalómotor lehetővé teszi a jutalékmentes vendégfogadást, és elhagyható
   vele az ajánlatkéréskre válaszolgatás.
