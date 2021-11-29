@@ -152,6 +152,7 @@ sections:
     background_color: none
     has_border: true
     padding_bottom: large
+    section_id: online-szobafoglalasi-rendszer-naptarszinkronnal
   - section_id: foglalomotor-varolista
     title_align: left
     content: >
