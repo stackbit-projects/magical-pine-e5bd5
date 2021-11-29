@@ -1,5 +1,5 @@
 ---
-title: Appartman Blog
+title: TudástárAppartman Blog
 sections:
   - section_id: lorem-ipsum
     title: Appartman Blog
