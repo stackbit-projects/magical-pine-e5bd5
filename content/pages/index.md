@@ -1,5 +1,5 @@
 ---
-title: 'Közvetlen online foglalás ingyenesen '
+title: 'Közvetlen online foglalás magánszálláshelyeknek ingyenesen '
 sections:
   - type: hero_section
     title: 'Vendégfogadás jutalékmentesen, foglalómotorunkkal'
