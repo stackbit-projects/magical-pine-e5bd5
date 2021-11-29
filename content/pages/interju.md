@@ -1,5 +1,5 @@
 ---
-title: 'Jelentkezz interjúra, hogy l'
+title: 'Jelentkezz interjúra, hogy létre'
 sections:
   - type: hero_section
     title: Segítsd egy interjúval a jövő szálláshelykezelőjének létrejöttét
