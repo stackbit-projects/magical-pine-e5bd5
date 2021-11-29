@@ -99,7 +99,7 @@ sections:
         align: left
         type: feature
         image: /images/regisztráció percek alatt.png
-        subtitle: Vendég
+        subtitle: Felhasználóbarát
       - title: Bármilyen weboldalba beilleszthető
         content: >
           ###### Hamarosan
