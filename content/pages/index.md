@@ -1,5 +1,5 @@
 ---
-title: 'Közvetlen online foglalás magánszálláshelyeknek '
+title: Közvetlen online foglalás magánszálláshelyeknek | Appartman
 sections:
   - type: hero_section
     title: 'Vendégfogadás jutalékmentesen, foglalómotorunkkal'
