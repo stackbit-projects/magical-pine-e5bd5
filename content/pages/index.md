@@ -90,7 +90,7 @@ sections:
           Szálláshelyed admin felületén percek adhatod meg lakóegységeid,
           szobáid kapacitását és kezdheted el a vendégfogadást.
         actions: []
-        image_alt: 
+        image_alt: Regisztráció az online szobafoglalási rendszerre
         media_position: right
         media_width: fourty
         align: left
