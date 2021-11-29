@@ -103,7 +103,7 @@ sections:
 
           Egyszerűen illeszd be a kódsorunkat a weboldaladba vagy készíts róla
           linket percek alatt.
-        image_alt: Feature 3 placeholder image
+        image_alt: 
         media_position: right
         media_width: fourty
         align: left
