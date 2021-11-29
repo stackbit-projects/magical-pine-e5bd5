@@ -99,7 +99,7 @@ sections:
         align: left
         type: feature
         image: /images/regisztráció percek alatt.png
-        subtitle: Egyszerűen hozhatsz létre
+        subtitle: Egyszerűen hozhatsz létre e
       - title: Bármilyen weboldalba beilleszthető
         content: >
           ###### Hamarosan
