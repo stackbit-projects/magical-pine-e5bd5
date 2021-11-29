@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 'Jelentkezz interjúra, hogy l'
 sections:
   - type: hero_section
     title: Segítsd egy interjúval a jövő szálláshelykezelőjének létrejöttét
