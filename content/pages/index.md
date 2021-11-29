@@ -209,7 +209,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - section_id: appartman-termekek-
+  - section_id: appartman-termekek-szobafoglalasi-rendszer-es-pms
     title: Termékeink
     subtitle: Egyszerű szoftverek magánszálláshelyeknek
     actions: []
