@@ -164,7 +164,8 @@ sections:
       foglalómotorunkat!
 
 
-      A feliratkozást követő 1-2 hétben emailben küldünk egy demó hozzáférést.
+      A feliratkozást követően pár órán belül emailben küldünk egy demó
+      hozzáférést.
     content_align: left
     form_position: right
     form_width: fifty
