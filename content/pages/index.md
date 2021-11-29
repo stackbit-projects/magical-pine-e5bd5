@@ -99,7 +99,7 @@ sections:
         align: left
         type: feature
         image: /images/regisztráció percek alatt.png
-        subtitle: Egyszerűen hozhatsz létre e
+        subtitle: 'Egyszerűen hozhatsz létre egy online foglalási rendszert '
       - title: Bármilyen weboldalba beilleszthető
         content: >
           ###### Hamarosan
