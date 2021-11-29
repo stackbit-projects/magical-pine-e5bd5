@@ -63,7 +63,7 @@ sections:
     align: center
     background_color: none
     background_image_opacity: 10
-    section_id: 'weboldal-tipusok, amibe beágyazható a foglalómotor'
+    section_id: weboldal-tipusokamibe beágyazható a foglalómotor
   - type: features_section
     features:
       - title: Tartsd naprakészen szabad szobáid minden felületen
