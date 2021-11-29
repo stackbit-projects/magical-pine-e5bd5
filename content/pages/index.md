@@ -83,7 +83,7 @@ sections:
           Foglalómotorunkat minden képernyőn könnyen kezelhetőre terveztük, hogy
           megkönnyítsük a foglalások leadását.
         image: /images/mobilra optimalizált kialakítás-a4e60086.png
-        image_alt: Feature 2 placeholder image
+        image_alt: Mobilra optimalizált online szobafoglalási rendszer
         media_position: right
         media_width: fourty
         align: left
