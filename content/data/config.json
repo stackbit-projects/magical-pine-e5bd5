@@ -76,7 +76,7 @@
     },
     "announcement": {
         "has_anncmnt": true,
-        "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
+        "anncmnt_content": "A weboldal sütiket használ. A weboldal használatával elfogadod az Adatkezelési nyilatkozatot. [**Tudj meg többet**](/adatkezelesi-nyilatkozat/)\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": false,
         "anncmnt_has_close": true,
