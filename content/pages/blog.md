@@ -1,5 +1,5 @@
 ---
-title: Appartman Blog
+title: Tudástár magánszálláshelyeknek | Appartman Blog
 sections:
   - section_id: lorem-ipsum
     title: Appartman Blog
