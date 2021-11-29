@@ -101,8 +101,9 @@ sections:
           ###### Hamarosan
 
 
-          Egyszerűen illeszd be a kódsorunkat a weboldaladba vagy készíts róla
-          linket percek alatt.
+          Egyszerűen illeszd be a kódsort a weboldaladba vagy készíts róla
+          linket percek alatt. Az online szobafoglalási rendszer készen áll a
+          használatra.
         image_alt: Szállásfoglaló rendszer beágyazása weboldalba
         media_position: right
         media_width: fourty
