@@ -135,7 +135,7 @@ sections:
           ### 4. lépés – hamarosan
 
 
-          A rendszerünk lemondja a szabad kapacitást a Szállás.hu-n, Bookingon
+          Az online foglalási rendszerünk lemondja a szabad kapacitást a Szállás.hu-n, Bookingon
           és Airbnb-n.
         actions: []
         image_alt: lorem-ipsum
