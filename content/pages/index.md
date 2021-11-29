@@ -1,5 +1,5 @@
 ---
-title: Főoldal
+title: 'Közvetlen online foglalás ingyenesen – '
 sections:
   - type: hero_section
     title: 'Vendégfogadás jutalékmentesen, foglalómotorunkkal'
