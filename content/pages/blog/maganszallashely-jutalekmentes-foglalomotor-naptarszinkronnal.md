@@ -2,7 +2,8 @@
 title: 'Szálláshely automatizáció: foglalómotor'
 subtitle: >-
   A foglalómotor lehetővé teszi a jutalékmentes vendégfogadást, és elhagyható
-  vele az ajánlatkéréskre válaszolgatás.
+  vele az ajánlatkéréskre válaszolgatás. Egy hatékony közvetlen online foglalási
+  rendszer időt és pénzt spórolhat a magánszállásadóknak.
 date: '2021-11-17'
 categories: []
 tags:
