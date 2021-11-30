@@ -63,7 +63,7 @@
                 "url": "https://www.facebook.com/groups/szallasadok/",
                 "style": "link",
                 "has_icon": true,
-                "icon": "arrow-left",
+                "icon": "facebook",
                 "icon_position": "right",
                 "new_window": true,
                 "no_follow": true
