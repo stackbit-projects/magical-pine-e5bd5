@@ -82,7 +82,8 @@ sections:
       - title: Mobilra optimalizált kialakítás
         content: >
           Foglalómotorunkat minden képernyőn könnyen kezelhetőre terveztük, hogy
-          megkönnyítsük a foglalások leadását.
+          megkönnyítsük a foglalások leadását. Akár egy Instagram profilról is
+          könnyen lehet foglalni a foglalási linkkel.
         image: /images/mobilra optimalizált kialakítás-a4e60086.png
         image_alt: Mobilra optimalizált online szobafoglalási rendszer
         media_position: right
