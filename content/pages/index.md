@@ -116,7 +116,7 @@ sections:
         media_width: fourty
         align: left
         image: /images/minden weboldalba beépíthető-6311b71e.png
-      - title: Hogyan működik a foglalási rendszerünk gyakorlatban?
+      - title: Hogyan működik a szobafoglalási rendszerünk gyakorlatban?
         content: >
           ### 1. lépés
 
