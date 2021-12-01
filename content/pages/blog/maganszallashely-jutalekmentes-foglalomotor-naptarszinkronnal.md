@@ -43,7 +43,7 @@ image: >-
   /images/weboldal-szallashely-automatizacio-jutalekmentes-foglalomotor-blogposzt-hero-8e3b4ebe.png
 image_alt: Foglalómotor borítókép
 ---
-A foglalómotor a szálláshely weboldalába beágyazható naprakész naptárnézet, amely segít a vendégeknek a foglalásuk véglegesítésében.
+A foglalómotor a szálláshely weboldalába beágyazható, vagy különálló linkként működő naprakész foglaltsági naptár, amely segít a vendégeknek a foglalásuk véglegesítésében.
 
 ### Miért éri meg?
 
@@ -67,13 +67,13 @@ A legfőbb probléma ezekkel a csatornákkal, hogy **sokszor időrablók és fol
 
 A telefonos foglalások automatizálásáért sajnos nem tehetünk sokat, viszont a weboldalról érkező érdeklődőkkel kapcsolatos adminisztrációt csökkenthetjük.
 
-> Főszezonban számtalanszor előfordul, hogy a vendégek emailben a szabad szobák iránt érdeklődnek — amikor már teltház van — , mert egyszerűen nem látják a weboldalon a foglalt kapacitásainkat...
+> Főszezonban számtalanszor előfordul, hogy a vendégek emailben a szabad szobák iránt érdeklődnek — amikor már teltház van — , mert valós időben frissülő foglaltsági naptár hiányában egyszerűen nem látják a weboldalon a foglalt kapacitásainkat...
 
 Ha pedig van naptárunk, de továbbra is egy űrlapon kell jelentkezniük, akkor válasz emailben kell megerősítenünk a foglalásukat, a szabad szobákat pedig lemondani a közvetítő oldalakon. Ez elég időigényes tud lenni.
 
 ### Miben segít az Appartman foglalómotorja?
 
-Az Appartman foglalómotorja egy a saját weboldalba ágyazható jutalékmentes foglalási rendszer kifejezetten kis szállásadóknak, amely segíti a foglalások automatizált kezelését.
+Az Appartman foglalómotorja egy a saját weboldalba ágyazható jutalékmentes szobafoglalási rendszer kifejezetten kis szállásadóknak, amely segíti a foglalások automatizált kezelését.
 
 ##### Személyre szabható árazás
 
