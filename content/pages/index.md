@@ -91,7 +91,7 @@ sections:
         subtitle: Villámgyors szobafoglalás vendégeidnek
       - title: Regisztráció percek alatt
         content: >
-          Szálláshelyed admin felületén percek adhatod meg lakóegységeid,
+          Szálláshelyed admin felületén pár lépésben megadhatod lakóegységeid,
           szobáid kapacitását és kezdheted el a vendégfogadást.
         actions: []
         image_alt: Regisztráció az online szobafoglalási rendszerre
