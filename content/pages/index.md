@@ -122,22 +122,22 @@ sections:
 
 
           A weboldalra érkező látogató beállítja a dátumot és a vendégek számát,
-          majd a foglalómotorunk ellenőrzi van-e szabad kapacitás és megmutatja
-          azt a vendég számára.
+          a foglalómotorunk pedig valós időben ellenőrzi, hogy van-e szabad
+          kapacitás és megjeleníti a foglaltsági naptárat a vendégnek.
 
 
           ### 2. lépés
 
 
           A vendég a foglaláskor megadja az adatait, amely szükséges az NTAK
-          adatszolgáltatáshoz. 
+          adatszolgáltatáshoz, és a kapcsolatfelvételhez.
 
 
           ### 3. lépés
 
 
           A foglaló az email címére automatizált emailt kap a foglalás
-          adataival, előleg összegével és egyéb információkkal.
+          adataival, az előleg összegével és egyéb információkkal.
 
 
           ### 4. lépés – hamarosan
