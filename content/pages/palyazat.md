@@ -2,7 +2,7 @@
 title: Pályázat
 seo:
   title: Pályázati információk
-  description: This is the privacy policy page
+  description: Az Appartman PMS Technologies Kft.-vel kapcsolatos pályázati információk.
   extra:
     - name: 'og:type'
       value: website
