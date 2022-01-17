@@ -1,7 +1,7 @@
 ---
 title: Pályázat
 seo:
-  title: Privacy Policy
+  title: Pályázati információk
   description: This is the privacy policy page
   extra:
     - name: 'og:type'
