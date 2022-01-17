@@ -21,7 +21,7 @@ seo:
       value: This is the privacy policy page
 layout: page
 ---
-Pályázati azonosító: 2020-1.1.4-STARTUP/BNL-004
+![](/images/NKFIA_infoblokk_projekt_fekvo\_2019\_HU.jpeg)Pályázati azonosító: 2020-1.1.4-STARTUP/BNL-004
 
 Projekt címe: Appartman szálláshelykezelő szoftver fejlesztése és piacra vitele
 
