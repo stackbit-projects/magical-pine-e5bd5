@@ -62,17 +62,17 @@ sections:
           - 30+
         is_required: false
         label: 'Szálláshelyed mérete (a legnagyobb, ha több van)'
+      - input_type: tel
+        name: Telefonszám
+        options: []
+        is_required: false
+        label: Telefonszám
       - input_type: checkbox
         name: Adatkezelési beleegyezés
         label: Elfogadom az adatkezelési nyilatkozatot.
         default_value: lorem-ipsum
         options: []
         is_required: true
-      - input_type: tel
-        name: Telefonszám
-        options: []
-        is_required: false
-        label: Telefonszám
     submit_label: Jelentkezés
     align_vert: middle
     padding_top: large
