@@ -70,7 +70,6 @@ sections:
         is_required: true
       - input_type: tel
         name: Telefonszám
-        default_value: lorem-ipsum
         options: []
         is_required: false
         label: Telefonszám
