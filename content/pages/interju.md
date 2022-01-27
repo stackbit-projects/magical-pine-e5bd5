@@ -73,6 +73,7 @@ sections:
         default_value: lorem-ipsum
         options: []
         is_required: false
+        label: Telefonszám
     submit_label: Jelentkezés
     align_vert: middle
     padding_top: large
