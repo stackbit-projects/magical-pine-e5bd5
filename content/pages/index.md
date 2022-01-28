@@ -132,8 +132,9 @@ sections:
           ### 4. lépés – hamarosan
 
 
-          Az online foglalási rendszerünk lemondja a szabad kapacitást a
-          Szállás.hu-n, Bookingon és Airbnb-n.
+          Az online foglalási rendszerünk iCal naptár szinkron segítségével
+          továbbítja a foglalt időpontokat a Szállás.hu-ra, Bookingra és
+          Airbnb-re.
         actions: []
         image_alt: lorem-ipsum
         media_position: top
