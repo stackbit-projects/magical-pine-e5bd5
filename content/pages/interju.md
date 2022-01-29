@@ -85,7 +85,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
 seo:
-  title: Stackbit Event Theme
+  title: Légy részese a j
   description: The preview of the Event theme
   extra:
     - name: 'og:type'
