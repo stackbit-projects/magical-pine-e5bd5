@@ -116,7 +116,7 @@ seo:
         ezért keresünk interjúalanyokat, hogy minél jobb megoldást tudjunk
         fejleszteni.
     - name: 'twitter:image'
-      value: images/feature-3.jpg
+      value: /images/profilkép (1).png
       relativeUrl: true
 layout: advanced
 ---
