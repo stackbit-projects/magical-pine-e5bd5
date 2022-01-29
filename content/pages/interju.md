@@ -97,7 +97,10 @@ seo:
       value: Interjú jelentkezés | Appartman
       keyName: property
     - name: 'og:description'
-      value: The preview of the Event theme
+      value: >-
+        Megoldásainkkal a magánszállásadók problémáit igyekszünk megoldani,
+        ezért keresünk interjúalanyokat, hogy minél jobb megoldást tudjunk
+        fejleszteni.
       keyName: property
     - name: 'og:image'
       value: /images/profilkép (1).png
