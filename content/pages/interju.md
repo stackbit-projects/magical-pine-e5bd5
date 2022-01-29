@@ -86,7 +86,9 @@ sections:
     type: form_section
 seo:
   title: Légy részese a j
-  description: The preview of the Event theme
+  description: >-
+    Megoldásainkkal a magánszállásadók problémáit igyekszünk megoldani, ezért
+    keresünk interjúalanyokat, hogy minél jobb megoldást tudjunk fejleszteni.
   extra:
     - name: 'og:type'
       value: website
