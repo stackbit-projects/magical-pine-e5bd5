@@ -111,7 +111,10 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Event Theme
     - name: 'twitter:description'
-      value: The preview of the Event theme
+      value: >-
+        Megoldásainkkal a magánszállásadók problémáit igyekszünk megoldani,
+        ezért keresünk interjúalanyokat, hogy minél jobb megoldást tudjunk
+        fejleszteni.
     - name: 'twitter:image'
       value: images/feature-3.jpg
       relativeUrl: true
