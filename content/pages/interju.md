@@ -85,7 +85,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
 seo:
-  title: Légy részese a j
+  title: Interjú jelentkezés | Appartman
   description: >-
     Megoldásainkkal a magánszállásadók problémáit igyekszünk megoldani, ezért
     keresünk interjúalanyokat, hogy minél jobb megoldást tudjunk fejleszteni.
