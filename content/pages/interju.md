@@ -109,7 +109,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Event Theme
+      value: Interjú jelentkezés | Appartman
     - name: 'twitter:description'
       value: >-
         Megoldásainkkal a magánszállásadók problémáit igyekszünk megoldani,
