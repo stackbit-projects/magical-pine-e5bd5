@@ -100,7 +100,7 @@ seo:
       value: The preview of the Event theme
       keyName: property
     - name: 'og:image'
-      value: images/feature-3.jpg
+      value: /images/profilkép (1).png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
