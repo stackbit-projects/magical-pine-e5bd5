@@ -15,7 +15,7 @@
         "secondary_nav_links": [
             {
                 "label": "Ingyenes regisztráció",
-                "url": "/interju",
+                "url": "https://foglalas.appartman.hu/register",
                 "style": "primary"
             }
         ],
