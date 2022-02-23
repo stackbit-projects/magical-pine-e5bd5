@@ -9,7 +9,7 @@ sections:
     content: |
       ****
     actions:
-      - label: Regisztráció
+      - label: Ingyenes regisztráció
         url: 'https://foglalas.appartman.hu/register'
         style: primary
     align: left
