@@ -9,7 +9,7 @@ sections:
     content: |
       ****
     actions:
-      - label: Feliratkozás a várólistára
+      - label: Regisztráció
         url: '/#foglalomotor-varolista'
         style: primary
     align: left
