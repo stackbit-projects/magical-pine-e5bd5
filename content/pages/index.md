@@ -2,7 +2,7 @@
 title: Közvetlen online foglalás magánszálláshelyeknek | Appartman
 sections:
   - type: hero_section
-    title: 'Vendégfogadás jutalékmentesen, foglalómotorunkkal'
+    title: Növeld direkt foglalásaid online szobafoglalási rendszerünkkel
     subtitle: >-
       Egyszerű és villámgyors foglalómotorunkkal automatizáltan fogadhatod a
       vendégeidet anélkül, hogy ajánlatkérő emailekre kellene válaszolnod.
