@@ -147,8 +147,6 @@ sections:
           összeköttetésben van a Szállás.hu, Booking és Airbnb közvetítő
           oldalakkal, így ha bárhol foglalás érkezik, zárolja a szabad
           kapacitást.
-        image: >-
-          /images/foglalasi-csatornak-airbnb-szallashu-booking-osszehangolasa.png
         image_alt: Feature 1 placeholder image
         media_position: bottom
         media_width: fifty
