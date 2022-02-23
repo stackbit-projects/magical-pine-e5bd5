@@ -10,7 +10,7 @@ sections:
       ****
     actions:
       - label: Regisztráció
-        url: 'https://appartman.hu/register'
+        url: 'https://foglalas.appartman.hu/register'
         style: primary
     align: left
     padding_top: large
