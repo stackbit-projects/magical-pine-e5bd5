@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Növeld direkt foglalásaid online szobafoglalási rendszerünkkel
     subtitle: >-
-      Egyszerű és villámgyors foglalómotorunkkal automatizáltan fogadhatod a
-      vendégeidet anélkül, hogy ajánlatkérő emailekre kellene válaszolnod.
+      Érj el több vendéget saját felületeiden modern és felhasználóbarát
+      foglalómotorral.
     content: |
       ****
     actions:
