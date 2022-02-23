@@ -10,7 +10,7 @@ sections:
       ****
     actions:
       - label: Regisztráció
-        url: '/#foglalomotor-varolista'
+        url: 'https://appartman.hu/register'
         style: primary
     align: left
     padding_top: large
